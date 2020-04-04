@@ -1,0 +1,322 @@
+﻿CID,Type,Impact,Status,First Detected,Owner,Classification,Severity,Action,Component,Category,File,Function
+199542,Unused value,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Code maintainability issues,/src/megamek/common/BattleArmor.java,BattleArmor.locations
+199541,Logically dead code,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/common/BipedMech.java,BipedMech.getWalkMP
+199540,REC: RuntimeException capture,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/server/Server.java,Server.handle
+199539,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/megamek/common/EntityListFile.java,EntityListFile.saveTo
+199538,Result is not floating-point,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/server/Server.java,Server.damageEntity
+199537,Result is not floating-point,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/client/ui/swing/MechDisplay.java,MechDisplay$ExtraPanel.onResize
+199536,Ignoring number of bytes read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/src/megamek/common/loaders/HmvFile.java,HmvFile.HmvFile
+199535,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/common/weapons/ArtilleryWeaponIndirectHomingHandler.java,ArtilleryWeaponIndirectHomingHandler.convertHomingShotToEntityTarget
+199534,CN: Bad implementation of cloneable idiom,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/MapSettings.java,MapSettings.clone
+199533,CN: Bad implementation of cloneable idiom,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/PlanetaryConditions.java,PlanetaryConditions.clone
+199532,Missing break in switch,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/client/ui/swing/BoardView1.java,BoardView1$13.gamePhaseChange
+199531,ICAST: Casting from integer values,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/client/ui/swing/MechDisplay.java,MechDisplay$PilotPanel.onResize
+199530,DLS: Dead local store,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/server/Server.java,Server.filterPastReports
+199529,Se: Incorrect definition of Serializable class,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/TargetRoll.java,
+199528,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/server/Server.java,Server.resolveKickAttack
+199527,Unused value,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Code maintainability issues,/src/megamek/common/weapons/FlamerHeatHandler.java,FlamerHeatHandler.calcDamagePerHit
+199526,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/client/ui/swing/MovementDisplay.java,MovementDisplay.removeLastStep
+199525,IP: Ignored parameter,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/common/MapSettings.java,MapSettings.loadStringParameter
+199524,HE: Equal objects must have equal hashcodes,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/Entity.java,Entity.equals
+199523,HE: Equal objects must have equal hashcodes,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/CriticalSlot.java,CriticalSlot.equals
+199522,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/megamek/server/Server.java,Server.handle
+199521,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/megamek/server/Server.java,Server.sendSaveGame
+199520,UrF: Unread field,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/server/DynamicTerrainProcessor.java,
+199519,'Constant' variable guards dead code,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Possible Control flow issues,/src/megamek/client/ui/swing/ManeuverChoiceDialog.java,ManeuverChoiceDialog.initialize
+199518,Missing break in switch,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/server/Server.java,Server.handle
+199517,HE: Equal objects must have equal hashcodes,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/EquipmentType.java,EquipmentType.equals
+199516,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/common/MovePath.java,MovePath.removeLastStep
+199515,WMI: Inefficient Map Iterator,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/server/Server.java,Server.applyBuildingDamage
+199514,UwF: Unwritten field,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/common/preference/PreferenceStoreProxy.java,
+199513,Se: Incorrect definition of Serializable class,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/Report.java,
+199512,Division or modulo by float zero,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/common/Entity.java,Entity.getArmorRemainingPercent
+199511,DLS: Dead local store,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/common/Engine.java,Engine.getWeightEngine
+199510,Unused value,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Code maintainability issues,/src/megamek/common/BattleArmor.java,BattleArmor.locations
+199509,Missing call to superclass,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/megamek/common/weapons/RACWeapon.java,RACWeapon.getCorrectHandler
+199508,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/client/ui/swing/ChatterBox2.java,ChatterBox2.draw
+199507,ICAST: Casting from integer values,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/common/actions/WeaponAttackAction.java,WeaponAttackAction.toHit
+199506,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/client/ui/swing/MovementDisplay.java,MovementDisplay.currentMove
+199505,Eq: Problems with implementation of equals(),Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/common/EquipmentType.java,EquipmentType.equals
+199504,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/server/Server.java,Server.resolveProtoAttack
+199503,Division or modulo by float zero,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/common/FighterSquadron.java,FighterSquadron.getArmorRemainingPercent
+199502,Resource leak,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/src/megamek/client/bot/BotConfiguration.java,BotConfiguration.BotConfiguration
+199501,Indefinite wait,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Program hangs,/src/megamek/common/MechSummaryCache.java,MechSummaryCache.block
+199500,Unguarded write,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/client/ui/swing/BoardView1.java,BoardView1.drawRuler
+199499,Se: Incorrect definition of Serializable class,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/Entity.java,
+199498,Missing break in switch,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/server/Server.java,Server.applyCriticalHit
+199497,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/widget/PicMap.java,PicMap.setContentMargins
+199496,ICAST: Casting from integer values,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/client/ui/swing/MiniMap.java,MiniMap.paintRoads
+199495,Division or modulo by float zero,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/common/FighterSquadron.java,FighterSquadron.hasTargComp
+199494,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/MechSelectorDialog.java,MechSelectorDialog.run
+199493,FE: Test for floating point equality,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/common/EquipmentType.java,EquipmentType.writeEquipmentExtendedDatabase
+199492,Copy-paste error,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/common/Compute.java,Compute.getECCMFieldSize
+199491,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/ChatLounge.java,ChatLounge.refreshCamos
+199490,HE: Equal objects must have equal hashcodes,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/Minefield.java,Minefield.equals
+199489,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/common/Game.java,Game.removeTurnFor
+199488,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/megamek/common/options/GameOptions.java,GameOptions.saveOptions
+199487,Copy-paste error,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/common/PlanetaryConditions.java,PlanetaryConditions.getIgniteModifiers
+199486,Unchecked return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/src/megamek/common/AmmoType.java,AmmoType.initializeTypes
+199485,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/client/ui/swing/MiniMap.java,MiniMap$1.run
+199484,UuF: Unused field,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/client/ui/AWT/widget/PMSimpleLabel.java,
+199483,RV: Bad use of return value,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/GameLog.java,GameLog.GameLog
+199482,RV: Bad use of return value,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/Entity.java,Entity.printDebugToFile
+199481,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/loaders/MepFile.java,MepFile.MepFile
+199480,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/weapons/ArtilleryWeaponIndirectFireHandler.java,ArtilleryWeaponIndirectFireHandler.handle
+199479,Logically dead code,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/common/Terrains.java,Terrains.getDisplayName
+199478,Resource leak,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/src/megamek/client/ui/swing/CommonHelpDialog.java,CommonHelpDialog.setFile
+199477,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/Entity.java,Entity.hasBAP
+199476,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/megamek/client/ui/swing/HexTileset.java,HexTileset.loadFromFile
+199475,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/loaders/MtfFile.java,MtfFile.MtfFile
+199474,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/src/megamek/common/MechSummaryCache.java,MechSummaryCache.saveCache
+199473,UrF: Unread field,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/client/bot/ga/GA.java,
+199472,DLS: Dead local store,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/common/MapSettings.java,MapSettings.loadIntParameter
+199471,Dereference before null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/MovementDisplay.java,MovementDisplay.ready
+199470,Missing call to superclass,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/megamek/common/GameTurn.java,GameTurn$UnloadStrandedTurn.isValidEntity
+199469,Unused value,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Code maintainability issues,/src/megamek/server/Server.java,Server.processSkid
+199468,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/common/Game.java,Game.ageFlares
+199467,Se: Incorrect definition of Serializable class,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/MovePath.java,
+199466,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/SharedUtility.java,SharedUtility.doPSRCheck
+199465,IP: Ignored parameter,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/common/MapSettings.java,MapSettings.loadIntParameter
+199464,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/Entity.java,Entity.isAirborneVTOL
+199463,Result is not floating-point,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/client/ui/swing/MechDisplay.java,MechDisplay$WeaponPanel.onResize
+199462,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/ChatLounge.java,ChatLounge$3.actionPerformed
+199461,SA: Useless self-operation,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/common/PlanetaryConditions.java,PlanetaryConditions.determineWind
+199460,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/MechDisplay.java,MechDisplay$PilotPanel.onResize
+199459,IL: Infinite Loop,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/common/Entity.java,Entity.getSprintMPwithoutMASC
+199458,GC: Suspicious calls to generic collection methods,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/server/Server.java,Server.whoCanSee
+199457,'Constant' variable guards dead code,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Possible Control flow issues,/src/megamek/client/ui/swing/TriggerBPodDialog.java,TriggerBPodDialog.TriggerBPodDialog
+199456,Se: Incorrect definition of Serializable class,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/Game.java,
+199455,Result is not floating-point,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/common/actions/WeaponAttackAction.java,WeaponAttackAction.toHit
+199454,Useless call,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/common/loaders/MtfFile.java,MtfFile.parseCrits
+199453,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/weapons/ArtilleryCannonWeaponHandler.java,ArtilleryCannonWeaponHandler.handle
+199452,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/server/Server.java,Server.washInferno
+199451,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/client/ui/swing/FiringDisplay.java,FiringDisplay.removeLastFiring
+199450,Result is not floating-point,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/client/ui/swing/MechDisplay.java,MechDisplay$MovementPanel.onResize
+199449,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/MechDisplay.java,MechDisplay$MovementPanel.onResize
+199448,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/TriggerBPodDialog.java,TriggerBPodDialog.getActions
+199447,Result is not floating-point,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/client/ui/swing/CustomMechDialog.java,CustomMechDialog$BombChoicePanel.itemStateChanged
+199446,LI: Unsynchronized Lazy Initialization,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/src/megamek/server/Server.java,Server.receiveEntityAdd
+199445,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/server/Server.java,Server.resolveClubAttack
+199444,Eq: Problems with implementation of equals(),Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/common/NarcPod.java,NarcPod.equals
+199443,SBSC: String concatenation in loop using + operator,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/client/ui/swing/ChatLounge.java,ChatLounge.formatUnitTooltip
+199442,Se: Incorrect definition of Serializable class,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/MovePath.java,
+199441,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/client/ui/AWT/util/ImageCache.java,ImageCache.remove
+199440,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/client/ui/AWT/boardview3d/ImageModel.java,ImageModel.simplify
+199439,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/megamek/common/EquipmentType.java,EquipmentType.writeEquipmentExtendedDatabase
+199438,Resource leak,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/src/megamek/common/MechFileParser.java,MechFileParser.postLoadInit
+199437,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/server/Server.java,Server.resolveTeleMissileAttack
+199436,Result is not floating-point,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/common/Engine.java,Engine.isValidEngine
+199435,Result is not floating-point,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/client/ui/swing/CustomMechDialog.java,CustomMechDialog$BombChoicePanel.CustomMechDialog$BombChoicePanel
+199434,"UG: Unsynchronized get method, synchronized set method",Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/src/megamek/client/ui/AWT/widget/ImageButton.java,ImageButton.getImage
+199433,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/weapons/RifleWeaponHandler.java,RifleWeaponHandler.calcDamagePerHit
+199432,'Constant' variable guards dead code,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Possible Control flow issues,/src/megamek/client/ui/swing/TriggerAPPodDialog.java,TriggerAPPodDialog.TriggerAPPodDialog
+199431,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/loaders/BLKWarshipFile.java,BLKWarshipFile.loadEquipment
+199430,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/AWT/widget/PicMap.java,PicMap.setContentMargins
+199429,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/megamek/common/MechSummaryCache.java,MechSummaryCache.saveCache
+199428,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/common/Game.java,Game.reindexEntities
+199427,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/EquipmentType.java,EquipmentType.writeEquipmentExtendedDatabase
+199426,DLS: Dead local store,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/common/actions/PhysicalAttackAction.java,PhysicalAttackAction.setCommonModifiers
+199425,DLS: Dead local store,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/server/Server.java,Server.damageInfantryIn
+199424,Unchecked return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/src/megamek/client/ui/swing/CustomFighterSquadronDialog.java,CustomFighterSquadronDialog.actionPerformed
+199423,DLS: Dead local store,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/client/ui/AWT/widget/TransparentLabel.java,TransparentLabel.onResize
+199422,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/actions/DfaAttackAction.java,DfaAttackAction.toHit
+199421,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/CustomFighterSquadronDialog.java,CustomFighterSquadronDialog.previewMech
+199420,Unused value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/client/ui/swing/RandomMapDialog.java,RandomMapDialog.addOption
+199419,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/AWT/widget/TransparentLabel.java,TransparentLabel.onResize
+199418,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/src/megamek/common/EquipmentType.java,EquipmentType.writeEquipmentDatabase
+199417,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/server/Server.java,Server.resolveJumpJetAttack
+199416,HE: Equal objects must have equal hashcodes,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/MechWarrior.java,
+199415,RV: Bad use of return value,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/server/Server.java,Server.saveGame
+199414,Unused value,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Code maintainability issues,/src/megamek/common/Entity.java,Entity.getStealthModifier
+199413,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/client/ui/swing/CommonMenuBar.java,CommonMenuBar.actionPerformed
+199412,Se: Incorrect definition of Serializable class,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/event/GameBoardNewEvent.java,
+199411,'Constant' variable guards dead code,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Possible Control flow issues,/src/megamek/client/ui/swing/MineLayingDialog.java,MineLayingDialog.MineLayingDialog
+199410,HE: Equal objects must have equal hashcodes,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/server/Server.java,Server.applyBuildingDamage
+199409,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/server/commands/ListSavesCommand.java,ListSavesCommand.run
+199408,ICAST: Casting from integer values,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/client/ui/swing/MechDisplay.java,MechDisplay$WeaponPanel.onResize
+199407,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/src/megamek/common/MechSummaryCache.java,MechSummaryCache.loadMechData
+199406,LI: Unsynchronized Lazy Initialization,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/src/megamek/common/MechSummaryCache.java,MechSummaryCache.dispose
+199405,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/util/BoardUtilities.java,BoardUtilities.addRiver
+199404,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/server/Server.java,Server.scanForBoardsInDir
+199403,Missing break in switch,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/server/Server.java,Server.prepareForPhase
+199402,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/src/megamek/common/GameLog.java,GameLog.GameLog
+199401,Resource leak,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/src/megamek/common/MechFileParser.java,MechFileParser.MechFileParser
+199400,Check of thread-shared field evades lock acquisition,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Data race undermines locking,/src/megamek/common/MechSummaryCache.java,MechSummaryCache.dispose
+199399,'Constant' variable guards dead code,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Possible Control flow issues,/src/megamek/server/Server.java,Server.damageInfantryIn
+199398,ES: Checking String equality using == or !=,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/MapSettings.java,MapSettings.equalMapGenParameters
+199397,HE: Equal objects must have equal hashcodes,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/Tank.java,
+199396,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/AWT/boardview3d/ImageModel.java,ImageModel.tracePixels
+199395,Missing break in switch,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/client/ui/swing/BoardView1.java,BoardView1$13.gamePhaseChange
+199394,Se: Incorrect definition of Serializable class,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/Building.java,
+199393,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/weapons/StreakHandler.java,StreakHandler.useAmmo
+199392,WMI: Inefficient Map Iterator,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/common/Aero.java,Aero.updateWeaponGroups
+199391,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/server/Server.java,Server.resolveDfaAttack
+199390,Result is not floating-point,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/common/weapons/BAMGHandler.java,BAMGHandler.calcDamagePerHit
+199389,Missing break in switch,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/server/Server.java,Server.prepareForPhase
+199388,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/common/SmallCraftBay.java,SmallCraftBay.updateSlots
+199387,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/megamek/server/Server.java,Server.saveGame
+199386,Eq: Problems with implementation of equals(),Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/client/bot/ga/Chromosome.java,Chromosome.compareTo
+199385,NP: Null pointer dereference,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/Minefield.java,Minefield.equals
+199384,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/ClientGUI.java,ClientGUI.windowClosing
+199383,Result is not floating-point,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/client/ui/swing/MechDisplay.java,MechDisplay$PilotPanel.onResize
+199382,Eq: Problems with implementation of equals(),Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/InitiativeRoll.java,InitiativeRoll.compareTo
+199381,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/MechFileParser.java,MechFileParser.MechFileParser
+199380,SA: Useless self-operation,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/common/AmmoType.java,AmmoType.createMunitions
+199379,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/XMLStreamParser.java,XMLStreamParser.recordElementStart
+199378,Nm: Confusing name,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/common/Infantry.java,Infantry.setTransportID
+199377,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/common/net/AbstractConnection.java,AbstractConnection$SendQueue.reportContents
+199376,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/widget/PMAreasGroup.java,PMAreasGroup.moveTo
+199375,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/common/Game.java,Game.clearTagInfoShots
+199374,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/loaders/MtfFile.java,MtfFile.readCrits
+199373,Useless call,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/server/Server.java,Server.resolveKickAttack
+199372,ICAST: Casting from integer values,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/server/Server.java,Server.damageEntity
+199371,Missing call to superclass,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/megamek/common/Infantry.java,Infantry.getRunMP
+199370,SBSC: String concatenation in loop using + operator,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/common/verifier/TestXMLOption.java,TestXMLOption.printIgnoredFailedEquip
+199369,Missing break in switch,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/common/Infantry.java,Infantry.getCost
+199368,ICAST: Casting from integer values,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/common/BattleArmor.java,BattleArmor.locations
+199367,FE: Test for floating point equality,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/common/Entity.java,Entity.applyGravityEffectsOnMP
+199366,Eq: Problems with implementation of equals(),Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/common/containers/PlayerIDandList.java,
+199365,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/client/bot/ga/GA.java,GA.getRandom
+199364,Unused value,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Code maintainability issues,/src/megamek/common/MiscType.java,MiscType.getBV
+199363,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/client/ui/swing/BoardView1.java,BoardView1$FlyOverSprite.makePoly
+199362,Result is not floating-point,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/client/ui/swing/MechDisplay.java,MechDisplay$ArmorPanel.onResize
+199361,WMI: Inefficient Map Iterator,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/server/Server.java,Server.assignAMS
+199360,Missing break in switch,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/common/Tank.java,Tank.getWeaponArc
+199359,DLS: Dead local store,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/server/Server.java,Server.scanForBoards
+199358,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/megamek/common/Board.java,Board.boardIsSize
+199357,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/server/Server.java,Server.checkIgnition
+199356,Ignoring number of bytes read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/src/megamek/client/ui/swing/util/ImageFileFactory.java,ImageFileFactory$2.getItem
+199355,HE: Equal objects must have equal hashcodes,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/BattleArmor.java,
+199354,UrF: Unread field,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/common/LosEffects.java,
+199353,HE: Equal objects must have equal hashcodes,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/InitiativeRoll.java,InitiativeRoll.equals
+199352,Eq: Problems with implementation of equals(),Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/common/InitiativeRoll.java,InitiativeRoll.equals
+199351,Logically dead code,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/common/weapons/TAGHandler.java,TAGHandler.handleEntityDamage
+199350,SIC: Inner class could be made static,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/client/ui/swing/MechDisplay.java,
+199349,HE: Equal objects must have equal hashcodes,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/Aero.java,
+199348,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/loaders/BLKJumpshipFile.java,BLKJumpshipFile.loadEquipment
+199347,UuF: Unused field,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/common/AmmoType.java,
+199346,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/actions/ChargeAttackAction.java,ChargeAttackAction.toHit
+199345,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/ReportDisplay.java,ReportDisplay.setupStylesheet
+199344,Unexpected control flow,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/client/ui/AWT/boardview3d/TileTextureManager.java,TileTextureManager.getModel
+199343,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/megamek/client/ui/swing/MiniMap.java,MiniMap.initializeColors
+199342,DLS: Dead local store,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/common/MapSettings.java,MapSettings.loadStringParameter
+199341,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/server/Server.java,Server.handle
+199340,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/MovementDisplay.java,MovementDisplay.getDroppedUnits
+199339,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/common/ToHitData.java,ToHitData.getTableDesc
+199338,Result is not floating-point,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/client/ui/swing/MechDisplay.java,MechDisplay$SystemPanel.onResize
+199337,Copy-paste error,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/common/Compute.java,Compute.getECMFieldSize
+199336,Ignoring number of bytes read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/src/megamek/common/loaders/HmpFile.java,HmpFile.HmpFile
+199335,Result is not floating-point,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/client/ui/swing/MiniMap.java,MiniMap.drawBtn
+199334,'Constant' variable guards dead code,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Possible Control flow issues,/src/megamek/client/ui/swing/ChoiceDialog.java,ChoiceDialog.initialize
+199333,Resource leak,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/src/megamek/common/MechSummaryCache.java,MechSummaryCache.loadMechData
+199332,USELESS_STRING: Useless/non-informative string generated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/client/bot/ga/Chromosome.java,Chromosome.toString
+199331,Unused value,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Code maintainability issues,/src/megamek/common/weapons/FlamerHandler.java,FlamerHandler.calcDamagePerHit
+199330,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/client/ui/swing/MovementDisplay.java,MovementDisplay.keyPressed
+199329,Unchecked return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/src/megamek/common/loaders/HmpFile.java,HmpFile.main
+199328,Se: Incorrect definition of Serializable class,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/client/ui/swing/ChatLounge.java,
+199327,SIC: Inner class could be made static,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/common/Entity.java,
+199326,HE: Equal objects must have equal hashcodes,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/AmmoType.java,AmmoType.equals
+199325,Missing break in switch,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/server/Server.java,Server.executePhase
+199324,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/server/Server.java,Server.resolvePunchAttack
+199323,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/Compute.java,Compute.getTargetTerrainModifier
+199322,HE: Equal objects must have equal hashcodes,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/Building.java,Building.equals
+199321,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/common/Report.java,Report.toString
+199320,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/src/megamek/common/EquipmentType.java,EquipmentType.writeEquipmentExtendedDatabase
+199319,Division or modulo by zero,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Integer handling issues,/src/megamek/client/ui/swing/CustomMechDialog.java,CustomMechDialog$BombChoicePanel.CustomMechDialog$BombChoicePanel
+199318,RV: Bad use of return value,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/client/ui/swing/ClientGUI.java,ClientGUI.doSaveUnit
+199317,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/Mech.java,Mech.addEngineSinks
+199316,HE: Equal objects must have equal hashcodes,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/Infantry.java,
+199315,ICAST: Casting from integer values,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/common/Engine.java,Engine.isValidEngine
+199314,Division or modulo by float zero,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/common/Entity.java,Entity.getInternalRemainingPercent
+199313,Unguarded write,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/client/ui/swing/TilesetManager.java,TilesetManager.loadNeededImages
+199312,RV: Bad use of return value,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/client/ui/swing/ClientGUI.java,ClientGUI$2.gameEnd
+199311,ICAST: Casting from integer values,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/client/ui/swing/MiniMap.java,MiniMap.drawBtn
+199310,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/server/Server.java,Server.filterReport
+199309,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/megamek/common/preference/PreferenceManager.java,PreferenceManager.save
+199308,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/MiscType.java,MiscType.getBV
+199307,'Constant' variable guards dead code,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Possible Control flow issues,/src/megamek/client/ui/swing/BombPayloadDialog.java,BombPayloadDialog.initialize
+199306,SIC: Inner class could be made static,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/common/TargetRoll.java,
+199305,Se: Incorrect definition of Serializable class,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/client/ui/swing/MiniMap.java,
+199304,Logically dead code,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/server/Server.java,Server.resolveChargeDamage
+199303,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/src/megamek/common/Entity.java,Entity.printDebugToFile
+199302,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/MovementDisplay.java,MovementDisplay.getLaunchedUnits
+199301,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/HexTileset.java,HexTileset.baseFor
+199300,ES: Checking String equality using == or !=,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/Entity.java,Entity.rollMovementInBuilding
+199299,SIC: Inner class could be made static,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/common/Building.java,
+199298,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/megamek/common/EquipmentType.java,EquipmentType.writeEquipmentDatabase
+199297,Missing call to superclass,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/megamek/common/GunEmplacement.java,GunEmplacement.isEligibleForMovement
+199296,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/CommonSettingsDialog.java,CommonSettingsDialog.setVisible
+199295,SIC: Inner class could be made static,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/server/Server.java,
+199294,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/weapons/AmmoWeaponHandler.java,AmmoWeaponHandler.useAmmo
+199293,HE: Equal objects must have equal hashcodes,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/server/Server.java,Server.determineTurnOrder
+199292,Missing break in switch,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/common/Compute.java,Compute.getInfantryRangeMods
+199291,HE: Equal objects must have equal hashcodes,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/GunEmplacement.java,
+199290,Resource leak,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/src/megamek/client/ui/swing/util/ImageFileFactory.java,ImageFileFactory$2.getItem
+199289,Unexpected control flow,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/client/ui/AWT/boardview3d/TileTextureManager.java,TileTextureManager.getTexture
+199288,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/common/Game.java,Game.getPreviousEntityFromList
+199287,Bad bit shift operation,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Integer handling issues,/src/megamek/common/AmmoType.java,AmmoType.AmmoType
+199286,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/client/ui/swing/BoardView1.java,BoardView1.addMovingUnit
+199285,USELESS_STRING: Useless/non-informative string generated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/common/GameTurn.java,GameTurn$UnloadStrandedTurn.toString
+199284,Unused value,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Code maintainability issues,/src/megamek/common/weapons/ERFlamerHandler.java,ERFlamerHandler.calcDamagePerHit
+199283,Missing break in switch,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/common/Infantry.java,Infantry.setMovementMode
+199282,Ignoring number of bytes read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/src/megamek/client/ui/AWT/util/ImageFileFactory.java,ImageFileFactory$2.getItem
+199281,Unused value,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Code maintainability issues,/src/megamek/common/weapons/ERFlamerHeatHandler.java,ERFlamerHeatHandler.calcDamagePerHit
+199280,HE: Equal objects must have equal hashcodes,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/Team.java,Team.equals
+199279,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/megamek/common/Entity.java,Entity.printDebugToFile
+199278,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/util/DirectoryItems.java,DirectoryItems.DirectoryItems
+199277,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/MechDisplay.java,MechDisplay$SystemPanel.valueChanged
+199276,DLS: Dead local store,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/server/Server.java,Server.launchUnit
+199275,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/common/weapons/MineLauncherHandler.java,MineLauncherHandler.handleEntityDamage
+199274,Unguarded write,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/client/ui/swing/BoardView1.java,BoardView1.drawRuler
+199273,Bad choice of lock object,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Unreliable locking behavior,/src/megamek/common/MechSummaryCache.java,MechSummaryCache.dispose
+199272,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/megamek/client/ui/swing/MechTileset.java,MechTileset.loadFromFile
+199271,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/server/Server.java,Server.checkIgnition
+199270,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/src/megamek/common/options/GameOptions.java,GameOptions.saveOptions
+199269,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/AWT/boardview3d/TileTextureManager.java,TileTextureManager.getTexture
+199268,Division or modulo by float zero,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/common/FighterSquadron.java,FighterSquadron.getAveWeight
+199267,WMI: Inefficient Map Iterator,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/server/Server.java,Server.processMovement
+199266,NN: Naked notify,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/src/megamek/common/MechSummaryCache.java,MechSummaryCache.done
+199265,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/src/megamek/client/ui/swing/CommonHelpDialog.java,CommonHelpDialog.setFile
+199264,Division or modulo by float zero,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/common/TurnOrdered.java,TurnOrdered.getMultiTurns
+199263,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/src/megamek/client/ui/swing/MiniMap.java,MiniMap.initializeColors
+199262,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/client/ui/swing/MovementDisplay.java,MovementDisplay.keyReleased
+199261,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/client/ui/swing/util/ImageCache.java,ImageCache.remove
+199260,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/src/megamek/common/MapSettings.java,MapSettings.save
+199259,Useless call,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/common/MoveStep.java,MoveStep.getParentUpToThisStep
+199258,ICAST: Casting from integer values,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/client/ui/swing/MechDisplay.java,MechDisplay$ExtraPanel.onResize
+199257,HE: Equal objects must have equal hashcodes,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/NarcPod.java,NarcPod.equals
+199256,DLS: Dead local store,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/common/Entity.java,Entity.getStealthModifier
+199255,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/common/Report.java,Report.addNewline
+199254,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/common/Entity.java,Entity.getPriorPosition
+199253,ICAST: Casting from integer values,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/server/Server.java,Server.applySecondaryNuclearEffects
+199252,ICAST: Casting from integer values,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/client/ui/swing/MechDisplay.java,MechDisplay$MovementPanel.onResize
+199251,Missing break in switch,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/common/MoveStep.java,MoveStep.compile
+199250,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/AWT/widget/PMAreasGroup.java,PMAreasGroup.moveTo
+199249,ICAST: Casting from integer values,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/client/ui/swing/MechDisplay.java,MechDisplay$ArmorPanel.onResize
+199248,Missing call to superclass,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/megamek/common/weapons/BayWeaponHandler.java,BayWeaponHandler.addHeat
+199247,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/actions/ProtomechPhysicalAttackAction.java,ProtomechPhysicalAttackAction.toHit
+199246,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/loaders/BLKSpaceStationFile.java,BLKSpaceStationFile.loadEquipment
+199245,WMI: Inefficient Map Iterator,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/server/Server.java,Server.createSpecialHexDisplayPacket
+199244,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/common/verifier/TestXMLOption.java,TestXMLOption.readXMLOptions
+199243,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/weapons/LRMSwarmHandler.java,LRMSwarmHandler.handle
+199242,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/weapons/WeaponHandler.java,WeaponHandler.checkTerrain
+199241,HE: Equal objects must have equal hashcodes,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/megamek/common/INarcPod.java,INarcPod.equals
+199240,Resource leak,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/src/megamek/client/ui/AWT/util/ImageFileFactory.java,ImageFileFactory$2.getItem
+199239,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/megamek/server/Server.java,Server.loadGame
+199238,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/common/loaders/BLKDropshipFile.java,BLKDropshipFile.loadEquipment
+199237,ICAST: Casting from integer values,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/src/megamek/client/ui/swing/MechDisplay.java,MechDisplay$SystemPanel.onResize
+199236,Unused value,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Code maintainability issues,/src/megamek/common/Jumpship.java,Jumpship.calculateBattleValue
+199235,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/ClientGUI.java,ClientGUI.initialize
+199234,Missing break in switch,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/megamek/server/Server.java,Server.handle
+199233,UCF: Useless control flow,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/megamek/common/actions/ClubAttackAction.java,ClubAttackAction.toHit
+199232,SS: Unread field should be static,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/client/ui/swing/MiniMap.java,
+199231,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/common/Game.java,Game.removeEntity
+199230,Division or modulo by zero,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Integer handling issues,/src/megamek/client/ui/swing/CustomMechDialog.java,CustomMechDialog$BombChoicePanel.itemStateChanged
+199229,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/common/MechSummaryCache.java,MechSummaryCache.dispose
+199228,Dereference before null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/client/ui/swing/UnitOverview.java,UnitOverview.draw
+199227,Dereference before null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/megamek/server/Server.java,Server.doExplosion
+199226,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/megamek/common/util/BuildingBlock.java,BuildingBlock.writeBlockFile
+199225,Division or modulo by float zero,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/common/BattleArmor.java,BattleArmor.calculateBattleValue
+199224,SBSC: String concatenation in loop using + operator,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/src/megamek/client/ui/swing/ChatLounge.java,ChatLounge.formatPilotTooltip
+199223,Copy-paste error,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/megamek/common/EntityListFile.java,EntityListFile.formatSlot
+199222,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/megamek/common/ASFBay.java,ASFBay.updateSlots

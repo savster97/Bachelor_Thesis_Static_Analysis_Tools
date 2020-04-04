@@ -1,0 +1,11 @@
+﻿CID,Type,Impact,Status,First Detected,Owner,Classification,Severity,Action,Component,Category,File,Function
+198004,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/build/src/org/microplatform/actions/FileOpen.java,FileOpen.actionPerformed
+198003,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/build/src/org/microplatform/web/applet/BrowserDriver.java,BrowserDriver.execJavascript
+198002,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/build/src/org/microplatform/web/applet/BrowserDriver.java,BrowserDriver.execJavascript
+198001,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/build/src/org/microplatform/loaders/Translator.java,Translator.pushPropertiesBundle
+198000,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/build/src/org/microplatform/gui/MDIContainer.java,MDIContainer.update
+197999,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/build/src/org/microplatform/SessionParameters.java,SessionParameters.initLoaders
+197998,Dereference before null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/build/src/org/microplatform/actions/FileOpen.java,FileOpen.actionPerformed
+197997,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/build/src/org/microplatform/SessionParameters.java,SessionParameters.initLoaders
+197996,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/build/src/org/microplatform/loaders/ImageLoader.java,ImageLoader.getImage
+197995,Dereference after null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/build/src/org/microplatform/actions/FileOpen.java,FileOpen.actionPerformed

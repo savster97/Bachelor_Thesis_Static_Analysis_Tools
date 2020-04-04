@@ -1,0 +1,47 @@
+﻿CID,Type,Impact,Status,First Detected,Owner,Classification,Severity,Action,Component,Category,File,Function
+201160,Unguarded write,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/sunflow/core/LightServer.java,LightServer.shadingCache
+201159,Unchecked return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/src/org/sunflow/image/Bitmap.java,Bitmap.Bitmap
+201158,Resource leak,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/src/org/sunflow/core/tesselatable/FileMesh.java,FileMesh.tesselate
+201157,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/sunflow/system/ImagePanel.java,ImagePanel.save
+201156,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sunflow/core/tesselatable/FileMesh.java,FileMesh.tesselate
+201155,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sunflow/image/Bitmap.java,Bitmap.saveTGA
+201154,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/sunflow/core/display/FastDisplay.java,FastDisplay.imageUpdate
+201153,Unguarded write,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/sunflow/core/renderer/ProgressiveRenderer.java,ProgressiveRenderer.render
+201152,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sunflow/core/parser/TriParser.java,TriParser.parse
+201151,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sunflow/image/Bitmap.java,Bitmap.Bitmap
+201150,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/SunflowGUI.java,SunflowGUI$25.run
+201149,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/SunflowGUI.java,SunflowGUI.openFile
+201148,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/sunflow/core/display/FastDisplay.java,FastDisplay.imageFill
+201147,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sunflow/core/parser/SCParser.java,SCParser.parseShader
+201146,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/sunflow/core/photonmap/GridPhotonMap.java,GridPhotonMap.init
+201145,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sunflow/core/primitive/QuadMesh.java,QuadMesh.writeObj
+201144,Ignoring number of bytes read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/src/org/sunflow/image/Bitmap.java,Bitmap.Bitmap
+201143,Unguarded write,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/sunflow/system/UI.java,UI.set
+201142,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sunflow/image/Bitmap.java,Bitmap.saveHDR
+201141,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sunflow/SunflowAPI.java,SunflowAPI.parse
+201140,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/sunflow/core/Texture.java,Texture.getBitmap
+201139,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/SunflowGUI.java,SunflowGUI.saveCurrentFile
+201138,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sunflow/core/tesselatable/BezierMesh.java,BezierMesh.tesselate
+201137,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sunflow/core/parser/RA3Parser.java,RA3Parser.parse
+201136,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sunflow/Benchmark.java,Benchmark.Benchmark
+201135,Bad bit shift operation,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Integer handling issues,/src/org/sunflow/core/bucket/HilbertBucketOrder.java,HilbertBucketOrder.getBucketSequence
+201134,Dereference before null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sunflow/core/primitive/TriangleMesh.java,TriangleMesh$BakingSurface.prepareShadingState
+201133,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sunflow/image/Bitmap.java,Bitmap.Bitmap
+201132,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sunflow/core/parser/SCParser.java,SCParser.parseObjectBlock
+201131,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/sunflow/core/photonmap/CausticPhotonMap.java,CausticPhotonMap.init
+201130,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sunflow/system/Parser.java,Parser.getNextCodeBlock
+201129,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/sunflow/core/Texture.java,Texture.getBitmap
+201128,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/sunflow/core/photonmap/GridPhotonMap.java,GridPhotonMap.init
+201127,Unguarded write,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/sunflow/core/renderer/BucketRenderer.java,BucketRenderer.render
+201126,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sunflow/SunflowAPI.java,SunflowAPI.create
+201125,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sunflow/core/primitive/TriangleMesh.java,TriangleMesh.writeObj
+201124,Unguarded write,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/sunflow/core/renderer/SimpleRenderer.java,SimpleRenderer.render
+201123,Unguarded write,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/sunflow/system/UI.java,UI.verbosity
+201122,Unchecked return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/src/org/sunflow/image/Bitmap.java,Bitmap.Bitmap
+201121,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sunflow/core/accel/KDTree.java,KDTree.build
+201120,Unguarded write,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/sunflow/core/LightServer.java,LightServer.calculatePhotons
+201119,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sunflow/core/parser/SCParser.java,SCParser.parse
+201118,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sunflow/core/parser/SCParser.java,SCParser.parseObjectBlock
+201117,Unchecked return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/src/org/sunflow/core/tesselatable/FileMesh.java,FileMesh.tesselate
+201116,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sunflow/core/parser/RA2Parser.java,RA2Parser.parse
+201115,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/SunflowGUI.java,SunflowGUI$25.run

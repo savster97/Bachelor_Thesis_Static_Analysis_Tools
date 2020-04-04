@@ -1,0 +1,3 @@
+﻿CID,Type,Impact,Status,First Detected,Owner,Classification,Severity,Action,Component,Category,File,Function
+198716,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/insertMaps.java,insertMaps.insertRows
+198715,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/insertMaps.java,insertMaps.main

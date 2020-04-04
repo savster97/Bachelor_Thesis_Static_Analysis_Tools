@@ -1,0 +1,34 @@
+﻿CID,Type,Impact,Status,First Detected,Owner,Classification,Severity,Action,Component,Category,File,Function
+199096,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/marauroa/common/game/RPObject.java,RPObject.applyDifferences
+199095,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/marauroa/tools/protocolanalyser/ProtocolAnalyser.java,ProtocolAnalyser.dump
+199094,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/marauroa/common/game/RPObject.java,RPObject.applyDifferences
+199093,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/marauroa/server/db/adapter/H2DatabaseAdapter.java,H2DatabaseAdapter.doesTableExist
+199092,Useless call,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/marauroa/common/game/Validator.java,Validator.validateShort
+199091,Ignoring number of bytes read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/src/marauroa/client/net/TCPNetworkClientManager.java,TCPNetworkClientManager$NetworkClientManagerRead.readByteStream
+199090,Logically dead code,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/marauroa/client/ClientFramework.java,ClientFramework.chooseCharacter
+199089,Unguarded write,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/marauroa/client/net/TCPNetworkClientManager.java,TCPNetworkClientManager$NetworkClientManagerRead.storeMessage
+199088,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/marauroa/server/game/messagehandler/CreateAccountHandler.java,CreateAccountHandler.process
+199087,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/marauroa/client/ClientFramework.java,ClientFramework.login
+199086,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/marauroa/server/game/messagehandler/CreateCharacterHandler.java,CreateCharacterHandler.process
+199085,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/marauroa/server/db/adapter/AbstractDatabaseAdapter.java,AbstractDatabaseAdapter.doesTableExist
+199084,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/marauroa/server/net/nio/NioServer.java,NioServer.accept
+199083,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/marauroa/server/db/adapter/H2DatabaseAdapter.java,H2DatabaseAdapter.doesColumnExist
+199082,Risky cryptographic hashing function,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Medium impact security,/src/marauroa/common/crypto/Hash.java,Hash.Hash
+199081,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/marauroa/client/ClientFramework.java,ClientFramework.login
+199080,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/marauroa/common/Configuration.java,Configuration.set
+199079,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/marauroa/common/game/RPObject.java,RPObject.containsKey
+199078,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/marauroa/server/db/adapter/AbstractDatabaseAdapter.java,AbstractDatabaseAdapter.createConnection
+199077,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/marauroa/server/game/messagehandler/SecuredLoginHandler.java,SecuredLoginHandler.decode
+199076,Unchecked return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/src/marauroa/common/net/MessageFactory.java,MessageFactory.getMessage
+199075,Useless call,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/marauroa/common/game/Validator.java,Validator.validateByte
+199074,Resource leak,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/src/marauroa/common/Log4J.java,Log4J.init
+199073,Unguarded write,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/marauroa/client/ClientFramework.java,ClientFramework.send
+199072,Unguarded read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/marauroa/server/db/command/DBCommandQueue.java,DBCommandQueue.addResult
+199071,Copy-paste error,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/marauroa/common/crypto/RSAKey.java,RSAKey.generateKey
+199070,Useless call,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/marauroa/common/game/Validator.java,Validator.validateInteger
+199069,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/marauroa/tools/protocolanalyser/ProtocolAnalyser.java,ProtocolAnalyser.main
+199068,Useless call,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/marauroa/common/game/Validator.java,Validator.validateFloat
+199067,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/marauroa/server/db/adapter/AbstractDatabaseAdapter.java,AbstractDatabaseAdapter.doesColumnExist
+199066,Logically dead code,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/marauroa/client/ClientFramework.java,ClientFramework.logout
+199065,Hashing a password with a weak salt,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,/src/marauroa/common/crypto/Hash.java,Hash.hash
+199064,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/marauroa/common/Configuration.java,Configuration.Configuration

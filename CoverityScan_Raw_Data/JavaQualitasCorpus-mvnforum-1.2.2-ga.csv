@@ -1,0 +1,5 @@
+﻿CID,Type,Impact,Status,First Detected,Owner,Classification,Severity,Action,Component,Category,File,Function
+199221,Risky cryptographic hashing function,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Medium impact security,/src/org/mvnforum/util/MD5.java,MD5.getMD5_Base64
+199220,Logically dead code,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/org/mvnforum/util/Utils.java,Utils.stripPHPBBQuotes
+199219,Risky cryptographic hashing function,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Medium impact security,/src/org/mvnforum/util/MD5.java,MD5.main
+199218,Resource leak,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/src/org/mvnforum/util/Phpbb2MvnforumConfig.java,Phpbb2MvnforumConfig.Phpbb2MvnforumConfig

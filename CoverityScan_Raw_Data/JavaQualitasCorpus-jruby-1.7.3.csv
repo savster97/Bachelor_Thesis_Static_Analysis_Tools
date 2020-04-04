@@ -1,0 +1,9 @@
+﻿CID,Type,Impact,Status,First Detected,Owner,Classification,Severity,Action,Component,Category,File,Function
+198853,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/src/org/jruby/anno/AnnotationBinder.java,AnnotationBinder.processType
+198852,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/jruby/anno/AnnotationBinder.java,AnnotationBinder.processType
+198851,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/jruby/util/CodegenUtils.java,CodegenUtils.visitAnnotationFields
+198850,REC: RuntimeException capture,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/src/org/jruby/util/log/LoggerFactory.java,LoggerFactory.LoggerFactory
+198849,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/jruby/util/CodegenUtils.java,CodegenUtils.visitAnnotationFields
+198848,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/src/org/jruby/anno/AnnotationBinder.java,AnnotationBinder.processType
+198847,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/src/org/jruby/anno/AnnotationBinder.java,AnnotationBinder.process
+198846,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/jruby/anno/AnnotationBinder.java,AnnotationBinder.process

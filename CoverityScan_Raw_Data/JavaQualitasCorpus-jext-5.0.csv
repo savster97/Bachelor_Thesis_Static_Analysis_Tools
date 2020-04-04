@@ -1,0 +1,340 @@
+﻿CID,Type,Impact,Status,First Detected,Owner,Classification,Severity,Action,Component,Category,File,Function
+197906,UuF: Unused field,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/xml/XInsertHandler.java,
+197905,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/project/DefaultProjectManager.java,DefaultProjectManager$DefaultProject.selectFile
+197904,SIC: Inner class could be made static,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/options/FileFiltersOptions.java,
+197903,ES: Checking String equality using == or !=,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/com/microstar/xml/XmlParser.java,XmlParser.pushInput
+197902,Nm: Confusing name,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/options/OptionsDialog.java,OptionsDialog.addOptionGroup
+197901,"Filesystem path, filename, or URI manipulation",High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,/lib/org/jext/JextTextArea.java,JextTextArea.getFile
+197900,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/CTokenMarker.java,CTokenMarker.getKeywords
+197899,Dereference before null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/search/FindAllDialog.java,FindAllDialog.nextMatch
+197898,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/Jext.java,Jext.loadInSingleJVMInstance
+197897,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/Jext.java,Jext.loadProps
+197896,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/lib/org/jext/misc/JextMail.java,JextMail.sendMail
+197895,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/SQRTokenMarker.java,SQRTokenMarker.getKeywords
+197894,DLS: Dead local store,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/print/PrintText.java,PrintText$Page.print
+197893,Nm: Confusing name,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/com/microstar/xml/XmlParser.java,XmlParser.parseDefault
+197892,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/gjt/sp/jedit/textarea/JEditTextArea.java,JEditTextArea.appendCut
+197891,Missing break in switch,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/gjt/sp/jedit/syntax/JavaTokenMarker.java,JavaTokenMarker.markTokensImpl
+197890,UuF: Unused field,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/gjt/sp/jedit/syntax/VerilogTokenMarker.java,
+197889,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/jext/JextTextArea.java,JextTextArea.getTabSize
+197888,Unchecked return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/lib/gnu/regexp/CharIndexedReader.java,CharIndexedReader.charAt
+197887,RV: Bad use of return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/lib/org/jext/gui/SplashScreen.java,SplashScreen.SplashScreen
+197886,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/actions/CreateTemplate.java,CreateTemplate.loadFile
+197885,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/Jext.java,Jext.saveXMLProps
+197884,Failure to restore non-local value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/jext/dawn/DawnParser.java,DawnParser$3.invoke
+197883,REC: RuntimeException capture,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/dawn/DawnParser.java,DawnParser.installPackage
+197882,Ignoring number of bytes read,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/lib/org/jext/misc/PluginDownload.java,PluginDownload$2.work
+197881,DLS: Dead local store,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/gjt/sp/jedit/textarea/JEditTextArea.java,JEditTextArea.xToOffset
+197880,RV: Bad use of return value,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/misc/DownloaderThread.java,DownloaderThread.work
+197879,SIC: Inner class could be made static,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/JextFrame.java,
+197878,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/misc/FindAccessory.java,FindAccessory.runFind
+197877,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/dawn/io/InputLineFunction.java,InputLineFunction.invoke
+197876,Nm: Confusing name,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/misc/VirtualFolders.java,VirtualFolders.toXML
+197875,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/console/Console.java,Console$ConsoleProcess$StdoutThread.run
+197874,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/misc/ZipExplorer.java,ZipExplorer.cancel
+197873,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/JextTextArea.java,JextTextArea.setMouseWheel
+197872,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/JextLoader.java,JextLoader.stop
+197871,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/scripting/dawn/Run.java,Run.runScript
+197870,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/xml/XMenuHandler.java,XMenuHandler.startDocument
+197869,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/actions/WingComment.java,WingComment.actionPerformed
+197868,SIC: Inner class could be made static,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/misc/FindAccessory.java,
+197867,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/Jext.java,Jext.saveProps
+197866,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/console/ConsoleTextPane.java,ConsoleTextPane$ConsoleKeyAdapter.keyPressed
+197865,REC: RuntimeException capture,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/Jext.java,Jext.loadInSingleJVMInstance
+197864,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/Jext.java,Jext.parseOptions
+197863,UuF: Unused field,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/gjt/sp/jedit/syntax/EiffelTokenMarker.java,
+197862,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/menus/TemplatesMenu.java,TemplatesMenu.processDirectory
+197861,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/xml/OneClickActionsReader.java,OneClickActionsReader.read
+197860,Missing break in switch,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/gjt/sp/jedit/syntax/VHDLTokenMarker.java,VHDLTokenMarker.markTokensImpl
+197859,Missing break in switch,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/gjt/sp/jedit/syntax/EiffelTokenMarker.java,EiffelTokenMarker.markTokensImpl
+197858,ES: Checking String equality using == or !=,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/Utilities.java,Utilities.listFiles
+197857,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/Jext.java,Jext.closeWindow
+197856,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/FortranTokenMarker.java,FortranTokenMarker.getKeywords
+197855,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/Jext.java,Jext.initProperties
+197854,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/search/Search.java,Search.find
+197853,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/xml/XPropertiesReader.java,XPropertiesReader.read
+197852,Unguarded read,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/lib/org/jext/console/Console.java,Console$ConsoleProcess$StdoutThread.run
+197851,RV: Bad use of return value,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/misc/PluginDesc.java,PluginDesc.install
+197850,SIC: Inner class could be made static,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/misc/AboutPlugins.java,
+197849,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/VHDLTokenMarker.java,VHDLTokenMarker.getKeywords
+197848,DMI: Dubious method invocation,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/JextLoader.java,JextLoader.JextLoader
+197847,HE: Equal objects must have equal hashcodes,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/gjt/sp/jedit/syntax/ASPTokenMarker.java,ASPStateInfo.equals
+197846,FI: Incorrect use of finalizers,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/gui/AbstractDisposer.java,AbstractDisposer.finalize
+197845,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/xml/XBarHandler.java,XBarHandler.startDocument
+197844,"Filesystem path, filename, or URI manipulation",High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,/lib/org/jext/JextTextArea.java,JextTextArea.save
+197843,IM: Questionable integer math,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/options/KeyShortcutsOptions.java,KeyShortcutsOptions.sortStrings
+197842,REC: RuntimeException capture,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/misc/VersionCheck.java,VersionCheck.run
+197841,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/JavaTokenMarker.java,JavaTokenMarker.getKeywords
+197840,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/console/commands/ClearCommand.java,ClearCommand.handleCommand
+197839,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/options/OptionsDialog.java,OptionsDialog$PaneNameRenderer.OptionsDialog$PaneNameRenderer
+197838,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/LATTokenMarker.java,LATTokenMarker.getKeywords
+197837,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/JextLoader.java,JextLoader.JextLoader
+197836,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/actions/CreateTemplate.java,CreateTemplate.loadFile
+197835,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/Jext.java,Jext.initProperties
+197834,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/dawn/io/FileManager.java,FileManager.openFileForOutput
+197833,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/console/commands/HttpCommand.java,HttpCommand.handleCommand
+197832,DLS: Dead local store,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/xml/XBarHandler.java,XBarHandler.endElement
+197831,HE: Equal objects must have equal hashcodes,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/options/UIOptions.java,UIOptions$SkinItem.equals
+197830,"Filesystem path, filename, or URI manipulation",High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,/lib/org/jext/Utilities.java,Utilities.getRoot
+197829,Missing break in switch,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/gjt/sp/jedit/syntax/TSQLTokenMarker.java,TSQLTokenMarker.markTokensImpl
+197828,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/gjt/sp/jedit/syntax/ASPJavascriptTokenMarker.java,ASPJavascriptTokenMarker.markTokensImpl
+197827,UrF: Unread field,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/misc/Workspaces.java,
+197826,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/console/Console.java,Console.Console
+197825,Dereference before null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/search/Search.java,Search.replaceAll
+197824,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/dawn/Dawn.java,Dawn.nativeConsole
+197823,STCAL: Static use of type Calendar or DateFormat,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/jext/console/ConsoleListDir.java,ConsoleListDir.displayFile
+197822,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/Jext.java,Jext.loadInSingleJVMInstance
+197821,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/misc/Workspaces.java,Workspaces.load
+197820,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/ASPJavascriptTokenMarker.java,ASPJavascriptTokenMarker.getKeywords
+197819,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/options/LangOptions.java,LangOptions.save
+197818,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/IDLTokenMarker.java,IDLTokenMarker.getKeywords
+197817,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/Jext.java,Jext.loadInSingleJVMInstance
+197816,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/lib/org/jext/JARClassLoader.java,JARClassLoader.executeScripts
+197815,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/options/LangOptions.java,LangOptions.save
+197814,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/gui/SplashScreen.java,SplashScreen.createClassesList
+197813,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/misc/Workspaces.java,Workspaces.save
+197812,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/updating/ChoiceForm.java,ChoiceForm.ChoiceForm
+197811,RV: Bad use of return value,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/Jext.java,Jext.initProperties
+197810,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/scripting/python/PythonLogWindow.java,PythonLogWindow$MouseHandler.mouseClicked
+197809,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/options/SecurityOptions.java,SecurityOptions.save
+197808,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/jext/Jext.java,Jext.stopServer
+197807,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/xml/XInsertHandler.java,XInsertHandler.startDocument
+197806,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/misc/PluginDesc.java,PluginDesc.downloadBin
+197805,Missing break in switch,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/gjt/sp/jedit/syntax/MakefileTokenMarker.java,MakefileTokenMarker.markTokensImpl
+197804,DP: Use doPrivileged,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Malicious code vulnerability,/lib/org/jext/Jext.java,Jext.loadPlugins
+197803,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/JextFrame.java,JextFrame.cleanMemory
+197802,UuF: Unused field,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/gjt/sp/jedit/syntax/ASPTokenMarker.java,
+197801,Missing break in switch,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/gjt/sp/jedit/syntax/CTokenMarker.java,CTokenMarker.markTokensImpl
+197800,RV: Bad use of return value,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/Jext.java,Jext.initDirectories
+197799,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/actions/JoinAllLines.java,JoinAllLines.actionPerformed
+197798,Dereference after null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/com/microstar/xml/XmlParser.java,XmlParser.parseElement
+197797,Se: Incorrect definition of Serializable class,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/scripting/python/PythonLogWindow.java,
+197796,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/xml/XBarReader.java,XBarReader.read
+197795,Division or modulo by zero,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Integer handling issues,/lib/org/jext/JextFrame.java,JextFrame.loadProperties
+197794,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/CSharpTokenMarker.java,CSharpTokenMarker.getKeywords
+197793,FI: Incorrect use of finalizers,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Malicious code vulnerability,/lib/org/jext/gui/AbstractDisposer.java,AbstractDisposer.finalize
+197792,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/misc/VersionCheck.java,VersionCheck.run
+197791,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/gjt/sp/jedit/textarea/JEditTextArea.java,JEditTextArea.cut
+197790,UwF: Unwritten field,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/gjt/sp/jedit/textarea/JEditTextArea.java,
+197789,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/DawnTokenMarker.java,DawnTokenMarker.getKeywords
+197788,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/com/microstar/xml/XmlParser.java,XmlParser.getAttributeExpandedValue
+197787,Failure to restore non-local value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/jext/dawn/DawnParser.java,DawnParser$1.invoke
+197786,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/PovrayTokenMarker.java,PovrayTokenMarker.getKeywords
+197785,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/misc/Workspaces.java,Workspaces.save
+197784,SIC: Inner class could be made static,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/gjt/sp/jedit/syntax/KeywordMap.java,
+197783,Value not atomically updated,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/lib/org/jext/dawn/stack/DupnFunction.java,DupnFunction.invoke
+197782,ES: Checking String equality using == or !=,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/Utilities.java,Utilities.getWildCardMatches
+197781,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/scripting/python/Run.java,Run.buildPackageList
+197780,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/PythonTokenMarker.java,PythonTokenMarker.getKeywords
+197779,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/actions/OpenUrl.java,OpenUrl.actionPerformed
+197778,Missing break in switch,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/gjt/sp/jedit/syntax/CSharpTokenMarker.java,CSharpTokenMarker.markTokensImpl
+197777,REC: RuntimeException capture,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/Jext.java,Jext.initProperties
+197776,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/JextTextArea.java,JextTextArea.open
+197775,SF: Switch case falls through,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/lib/org/gjt/sp/jedit/syntax/MakefileTokenMarker.java,MakefileTokenMarker.markTokensImpl
+197774,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/Utilities.java,Utilities.getRoot
+197773,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/actions/SimpleUnComment.java,SimpleUnComment.possiblyUncomentThisLine
+197772,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/jext/scripting/python/Run.java,Run.getPythonInterpreter
+197771,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/dawn/util/ScriptExecFunction.java,ScriptExecFunction.invoke
+197770,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/PikeTokenMarker.java,PikeTokenMarker.getKeywords
+197769,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/scripting/dawn/Run.java,Run.runScript
+197768,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/options/LangOptions.java,LangOptions.save
+197767,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/xml/XPopupHandler.java,XPopupHandler.startDocument
+197766,Nm: Confusing name,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/misc/VirtualFolders.java,VirtualFolders.folderExists
+197765,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/console/Console.java,Console$ConsoleProcess$StdinThread.run
+197764,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/JextFrame.java,JextFrame$DnDHandler.drop
+197763,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/JavaScriptTokenMarker.java,JavaScriptTokenMarker.getKeywords
+197762,DLS: Dead local store,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/com/microstar/xml/XmlParser.java,XmlParser.extendArray
+197761,SC: Constructor invokes Thread.start(),Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/jext/gui/SplashScreen.java,SplashScreen.SplashScreen
+197760,Missing break in switch,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/jext/console/ConsoleTextPane.java,ConsoleTextPane$ConsoleKeyAdapter.keyPressed
+197759,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/ASPVBScriptTokenMarker.java,ASPVBScriptTokenMarker.getKeywords
+197758,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/lib/org/jext/JARClassLoader.java,JARClassLoader.JARClassLoader
+197757,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/dawn/DawnParser.java,DawnParser.getClasses
+197756,UuF: Unused field,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/gjt/sp/jedit/syntax/TSQLTokenMarker.java,
+197755,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/ModeFileFilter.java,ModeFileFilter.accept
+197754,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/lib/org/jext/JARClassLoader.java,JARClassLoader.loadClassFromZip
+197753,Nm: Confusing name,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/com/microstar/xml/XmlParser.java,XmlParser.parseAttDef
+197752,REC: RuntimeException capture,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/misc/Workspaces.java,Workspaces.load
+197751,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/jext/scripting/python/Run.java,Run.buildPackageList
+197750,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/jext/xml/PyActionsReader.java,PyActionsReader.read
+197749,ES: Checking String equality using == or !=,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/com/microstar/xml/XmlParser.java,XmlParser.parseElement
+197748,Dereference before null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/options/KeyShortcutsOptions.java,KeyShortcutsOptions$KeysTableModel.setValueAt
+197747,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/GUIUtilities.java,GUIUtilities.setScrollableTabbedPane
+197746,ES: Checking String equality using == or !=,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/project/DefaultProjectManager.java,DefaultProjectManager.jextEventFired
+197745,DLS: Dead local store,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/misc/VersionCheck.java,VersionCheck.run
+197744,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/options/StyleTable.java,StyleTable$ListHandler.valueChanged
+197743,UrF: Unread field,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/search/BoyerMooreSearchMatcher.java,
+197742,REC: RuntimeException capture,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/JextTextArea.java,JextTextArea.save
+197741,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/Jext.java,Jext.saveXMLProps
+197740,Indefinite wait,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Program hangs,/lib/org/jext/console/Console.java,Console$ConsoleProcess$StdinThread.run
+197739,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/misc/VirtualFolders.java,VirtualFolders.load
+197738,DMI: Dubious method invocation,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/JextFrame.java,JextFrame.loadProperties
+197737,Eq: Problems with implementation of equals(),Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/options/UIOptions.java,UIOptions$SkinItem.equals
+197736,RpC: Repeated conditional test,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/lib/gnu/regexp/RE.java,RE.initialize
+197735,Missing call to superclass,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/lib/org/gjt/sp/jedit/syntax/PHPTokenMarker.java,PHPTokenMarker.addToken
+197734,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/misc/WorkspaceSwitcher.java,WorkspaceSwitcher.mouseClicked
+197733,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/JextTextArea.java,JextTextArea.zipContent
+197732,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/project/DefaultProjectManager.java,DefaultProjectManager$DefaultProject.closeFile
+197731,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/jext/xml/XPropertiesReader.java,XPropertiesReader.read
+197730,DLS: Dead local store,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/com/microstar/xml/XmlParser.java,XmlParser.parseXMLDecl
+197729,SIC: Inner class could be made static,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/options/OptionsDialog.java,
+197728,SIC: Inner class could be made static,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/misc/VirtualFolders.java,
+197727,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/CCTokenMarker.java,CCTokenMarker.getKeywords
+197726,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/misc/VirtualFolders.java,VirtualFolders.save
+197725,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/options/OptionsDialog.java,OptionsDialog.reloadPluginPanes
+197724,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/Jext.java,Jext.parseOptions
+197723,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/xml/XPopupReader.java,XPopupReader.read
+197722,MF: Masked Field,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/lib/org/gjt/sp/jedit/textarea/JEditTextArea.java,
+197721,SIC: Inner class could be made static,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/gui/BundledSkinFactory.java,
+197720,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/misc/PluginDownload.java,PluginDownload$2.work
+197719,"Filesystem path, filename, or URI manipulation",High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,/lib/org/jext/Utilities.java,Utilities.beginsWithRoot
+197718,Value not atomically updated,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/lib/org/jext/dawn/stack/PickFunction.java,PickFunction.invoke
+197717,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/textarea/TextAreaDefaults.java,TextAreaDefaults.getDefaults
+197716,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/PascalTokenMarker.java,PascalTokenMarker.getKeywords
+197715,"Filesystem path, filename, or URI manipulation",High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,/lib/org/jext/JextTextArea.java,JextTextArea.open
+197714,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/actions/CreateTemplate.java,CreateTemplate.saveOutput
+197713,SIC: Inner class could be made static,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/print/PrintText.java,
+197712,UuF: Unused field,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/com/microstar/xml/XmlParser.java,
+197711,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/SAP2000TokenMarker.java,SAP2000TokenMarker.getKeywords
+197710,SBSC: String concatenation in loop using + operator,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/misc/Workspaces.java,Workspaces.load
+197709,"Filesystem path, filename, or URI manipulation",High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,/lib/org/jext/JextFrame.java,JextFrame.open
+197708,UuF: Unused field,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/misc/WorkspaceSwitcher.java,
+197707,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/JextFrame.java,JextFrame.loadStyles
+197706,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/xml/XInsertReader.java,XInsertReader.read
+197705,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/JextFrame.java,JextFrame.processKeyEvent
+197704,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/misc/VirtualFolders.java,VirtualFolders.load
+197703,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/dawn/util/ScriptExecFunction.java,ScriptExecFunction.invoke
+197702,DLS: Dead local store,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/actions/SimpleUnComment.java,SimpleUnComment.actionPerformed
+197701,RV: Bad use of return value,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/misc/PluginDesc.java,PluginDesc.initDirectories
+197700,REC: RuntimeException capture,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/scripting/python/PythonLogWindow.java,PythonLogWindow$MouseHandler.mouseClicked
+197699,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/RubyTokenMarker.java,RubyTokenMarker.getKeywords
+197698,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/EiffelTokenMarker.java,EiffelTokenMarker.getKeywords
+197697,DLS: Dead local store,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/print/PrintText.java,PrintText.printTextArray
+197696,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/JextTextArea.java,JextTextArea.zip
+197695,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/lib/org/jext/JARClassLoader.java,JARClassLoader.reloadPluginsProperties
+197694,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/jext/xml/OneClickActionsReader.java,OneClickActionsReader.read
+197693,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/xml/PyActionsReader.java,PyActionsReader.read
+197692,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/console/Console.java,Console.setText
+197691,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/dawn/io/FileManager.java,FileManager.openFileForInput
+197690,"Filesystem path, filename, or URI manipulation",High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,/lib/org/jext/Utilities.java,Utilities.constructPath
+197689,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/misc/Workspaces.java,Workspaces.load
+197688,SIC: Inner class could be made static,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/gjt/sp/jedit/syntax/TokenMarker.java,
+197687,RV: Bad use of return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/lib/org/jext/JextLoader.java,JextLoader.JextLoader
+197686,UuF: Unused field,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/misc/SwingWorker.java,
+197685,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/console/ConsoleListDir.java,ConsoleListDir.ConsoleListDir
+197684,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/jext/JextTextArea.java,JextTextArea.filteredPaste
+197683,REC: RuntimeException capture,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/Mode.java,Mode.getTokenMarker
+197682,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/dawn/DawnParser.java,DawnParser.getClasses
+197681,SIC: Inner class could be made static,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/misc/SaveDialog.java,
+197680,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/lib/org/jext/misc/PluginDesc.java,PluginDesc.install
+197679,Nm: Confusing name,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/gjt/sp/jedit/textarea/InputHandler.java,InputHandler.getActionName
+197678,Nm: Confusing name,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/misc/VirtualFolders.java,VirtualFolders.fixVisible
+197677,UrF: Unread field,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/print/PrintText.java,
+197676,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/misc/Workspaces.java,Workspaces$WorkspacesHandler.startElement
+197675,UuF: Unused field,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/misc/DownloaderThread.java,
+197674,Nm: Confusing name,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/misc/VirtualFolders.java,VirtualFolders.openNode
+197673,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/JARClassLoader.java,JARClassLoader.executeScripts
+197672,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/misc/JextMail.java,JextMail.sendMail
+197671,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/console/Console.java,Console$ConsoleProcess$StderrThread.run
+197670,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/gjt/sp/jedit/syntax/TeXTokenMarker.java,TeXTokenMarker.markTokensImpl
+197669,RV: Bad use of return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/lib/org/jext/JextFrame.java,JextFrame.loadProperties
+197668,REC: RuntimeException capture,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/print/PrintText.java,PrintText.printTextArray
+197667,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/gui/SplashScreen.java,SplashScreen.run
+197666,REC: RuntimeException capture,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/JextTextArea.java,JextTextArea.setMouseWheel
+197665,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/jext/Jext.java,Jext.stopAutoCheck
+197664,DLS: Dead local store,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/search/SearchHighlight.java,SearchHighlight.paintHighlight
+197663,DLS: Dead local store,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/actions/SimpleUnComment.java,SimpleUnComment.possiblyUncomentThisLine
+197662,Failure to restore non-local value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/jext/dawn/DawnParser.java,DawnParser$2.invoke
+197661,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/misc/ZipExplorer.java,ZipExplorer.readZipContent
+197660,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/scripting/python/Run.java,Run.buildPackageList
+197659,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/Jext.java,Jext.initProperties
+197658,"Filesystem path, filename, or URI manipulation",High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,/lib/org/jext/misc/ZipExplorer.java,ZipExplorer.readZip
+197657,DLS: Dead local store,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/search/Search.java,Search.replace
+197656,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/options/SecurityOptions.java,SecurityOptions.save
+197655,Se: Incorrect definition of Serializable class,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/JextFrame.java,
+197654,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/misc/PluginDownload.java,PluginDownload.getDtd
+197653,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/JextFrame.java,JextFrame$PluginHandler.jextEventFired
+197652,SIC: Inner class could be made static,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/JextTextArea.java,
+197651,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/options/LoadingOptions.java,LoadingOptions.save
+197650,DLS: Dead local store,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/actions/CompleteWordAll.java,CompleteWordAll.actionPerformed
+197649,REC: RuntimeException capture,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/actions/Print.java,Print.actionPerformed
+197648,Missing call to superclass,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/lib/org/gjt/sp/jedit/textarea/Gutter.java,Gutter.paintComponent
+197647,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/jext/search/FindAllDialog.java,FindAllDialog.nextMatch
+197646,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/Utilities.java,Utilities.beginsWithRoot
+197645,UPM: Private method is never called,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/misc/VirtualFolders.java,VirtualFolders.createFolder
+197644,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/BeanShellTokenMarker.java,BeanShellTokenMarker.getKeywords
+197643,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/GUIUtilities.java,GUIUtilities.loadMenuItem
+197642,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/misc/JextMail.java,JextMail.sendMail
+197641,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/Jext.java,Jext.loadInSingleJVMInstance
+197640,DLS: Dead local store,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/actions/CompleteWord.java,CompleteWord.actionPerformed
+197639,DLS: Dead local store,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/xml/XPopupHandler.java,XPopupHandler.endElement
+197638,Missing break in switch,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/gjt/sp/jedit/syntax/SQRTokenMarker.java,SQRTokenMarker.markTokensImpl
+197637,Missing break in switch,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/gjt/sp/jedit/syntax/PythonTokenMarker.java,PythonTokenMarker.markTokensImpl
+197636,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/options/LoadingOptions.java,LoadingOptions.save
+197635,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/JextTextArea.java,JextTextArea.setAnchor
+197634,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/jext/misc/JextMail.java,JextMail.sendMail
+197633,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/xinsert/XTree.java,XTree.valueChanged
+197632,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/gnu/regexp/CharIndexedReader.java,CharIndexedReader.charAt
+197631,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/misc/VirtualFolders.java,VirtualFolders.save
+197630,Missing break in switch,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/gjt/sp/jedit/syntax/RubyTokenMarker.java,RubyTokenMarker.markTokensImpl
+197629,RV: Bad use of return value,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/JextLoader.java,JextLoader.stop
+197628,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/JextTextArea.java,JextTextArea.save
+197627,UuF: Unused field,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/gjt/sp/jedit/textarea/TextAreaDefaults.java,
+197626,NP: Null pointer dereference,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/lib/org/jext/search/FindReplace.java,FindReplace.find
+197625,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/xml/XMenuReader.java,XMenuReader.read
+197624,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/misc/VirtualFolders.java,VirtualFolders.VirtualFolders
+197623,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/misc/PluginDownload.java,PluginDownload.loadList
+197622,DMI: Dubious method invocation,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/gui/SplashScreen.java,SplashScreen.SplashScreen
+197621,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/org/jext/misc/JextMail.java,JextMail.sendMail
+197620,SIC: Inner class could be made static,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/scripting/dawn/functions/CreateActionFunction.java,
+197619,REC: RuntimeException capture,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/GUIUtilities.java,GUIUtilities.setScrollableTabbedPane
+197618,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/options/SecurityOptions.java,SecurityOptions.save
+197617,Value not atomically updated,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/lib/org/jext/dawn/stack/RollDownFunction.java,RollDownFunction.invoke
+197616,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/dawn/io/InputLineFunction.java,InputLineFunction.invoke
+197615,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/JextLoader.java,JextLoader.JextLoader
+197614,Missing call to superclass,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/lib/com/microstar/xml/XmlException.java,XmlException.getMessage
+197613,SIC: Inner class could be made static,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/options/UIOptions.java,
+197612,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/console/Console.java,Console.doCompletion
+197611,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/VerilogTokenMarker.java,VerilogTokenMarker.getKeywords
+197610,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/com/jgoodies/uif_lite/panel/SimpleInternalFrame.java,SimpleInternalFrame.setContent
+197609,RV: Bad use of return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/lib/org/jext/misc/AboutWindow.java,AboutWindow.AboutWindow
+197608,ES: Checking String equality using == or !=,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/com/microstar/xml/XmlParser.java,XmlParser.parseETag
+197607,Value not atomically updated,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/lib/org/jext/dawn/stack/RollFunction.java,RollFunction.invoke
+197606,RV: Bad use of return value,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/Jext.java,Jext.loadInSingleJVMInstance
+197605,"Filesystem path, filename, or URI manipulation",High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,High impact security,/lib/org/jext/Utilities.java,Utilities.getFileChooser
+197604,DLS: Dead local store,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/JextFrame.java,JextFrame.closeAll
+197603,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/misc/VirtualFolders.java,VirtualFolders$VirtualFoldersHandler.startElement
+197602,REC: RuntimeException capture,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/gjt/sp/jedit/textarea/DefaultInputHandler.java,DefaultInputHandler.parseKeyStroke
+197601,Using invalid iterator,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,API usage errors,/lib/org/jext/project/DefaultProjectManager.java,DefaultProjectManager.loadFromWorkspaces
+197600,UuF: Unused field,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/jext/misc/PluginDesc.java,
+197599,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/JextTextArea.java,JextTextArea.zip
+197598,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/lib/org/jext/options/LoadingOptions.java,LoadingOptions.save
+197597,DE: Dropped or ignored exception,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/xml/XMenuReader.java,XMenuReader.read
+197596,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/xml/XBarReader.java,XBarReader.read
+197595,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/gjt/sp/jedit/textarea/TextUtilities.java,TextUtilities.findMatchingBracket
+197594,BC: Bad casts of object references,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/search/SearchHighlight.java,SearchHighlight.init
+197593,UuF: Unused field,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/lib/org/gjt/sp/jedit/syntax/SQRTokenMarker.java,
+197592,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/actions/CreateTemplate.java,CreateTemplate.saveOutput
+197591,REC: RuntimeException capture,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/misc/VirtualFolders.java,VirtualFolders.load
+197590,DLS: Dead local store,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/gjt/sp/jedit/textarea/JEditTextArea.java,JEditTextArea.offsetToX
+197589,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/JextLoader.java,JextLoader.run
+197588,LI: Unsynchronized Lazy Initialization,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/lib/org/gjt/sp/jedit/syntax/PLSQLTokenMarker.java,PLSQLTokenMarker.getKeywords
+197587,Same on both sides,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/lib/gnu/regexp/RE.java,RE.initialize
+197586,UrF: Unread field,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/dawn/DawnParser.java,
+197585,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/misc/PluginDesc.java,PluginDesc.downloadSrc
+197584,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/gui/SplashScreen.java,SplashScreen.createClassesList
+197583,DLS: Dead local store,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/lib/org/jext/xml/XMenuHandler.java,XMenuHandler.endElement
+197582,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/JextTextArea.java,JextTextArea.setColorizing
+197581,Unused value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/lib/org/gjt/sp/jedit/textarea/TextAreaPainter.java,TextAreaPainter.setAntiAliasingEnabled
+197580,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/dawn/Dawn.java,Dawn.main
+197579,Dm: Dubious method used,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/lib/org/jext/Jext.java,Jext.parseOptions
+197578,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/org/jext/Jext.java,Jext.assocPluginsToModes
+197577,DMI: Dubious method invocation,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/misc/AboutWindow.java,AboutWindow.AboutWindow
+197562,Failure to restore non-local value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/com/microstar/xml/XmlParser.java,XmlParser.parseElement
+197540,Unchecked return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/lib/com/microstar/xml/XmlParser.java,XmlParser.detectEncoding
+197529,Dereference after null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/com/microstar/xml/XmlParser.java,XmlParser.pushURL
+197526,Ignoring number of bytes read,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/lib/com/microstar/xml/XmlParser.java,XmlParser.detectEncoding
+197493,Value not atomically updated,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/lib/com/microstar/xml/XmlParser.java,XmlParser.setElement
+197473,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/com/microstar/xml/XmlParser.java,XmlParser.parseEntityRef
+197466,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/lib/com/microstar/xml/XmlParser.java,XmlParser.parsePEReference
+197453,Missing break in switch,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/lib/com/microstar/xml/XmlParser.java,XmlParser.parseConditionalSect
+79829,Se: Incorrect definition of Serializable class,Low,New,11/17/14,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/lib/org/jext/console/Console.java,

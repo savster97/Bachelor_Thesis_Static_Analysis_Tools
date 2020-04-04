@@ -1,0 +1,30 @@
+﻿CID,Type,Impact,Status,First Detected,Owner,Classification,Severity,Action,Component,Category,File,Function
+197153,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/src/org/javacc/parser/OutputFile.java,OutputFile.checkOptions
+197152,Unused value,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Code maintainability issues,/src/org/javacc/parser/JavaCCParserInternals.java,JavaCCParserInternals.remove_escapes_and_quotes
+197151,Dereference before null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/javacc/parser/RStringLiteral.java,RStringLiteral.GenerateNfaStartStates
+197150,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/javacc/parser/JavaCCParser.java,JavaCCParser.complex_regular_expression
+197149,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/javacc/parser/ParseGen.java,ParseGen.start
+197148,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/src/org/javacc/Version.java,Version.Version
+197147,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/javacc/jjtree/ASTLHS.java,ASTLHS.print
+197146,Identical code for different branches,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/org/javacc/parser/ParseGen.java,ParseGen.start
+197145,Identical code for different branches,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/org/javacc/parser/NfaState.java,NfaState.DumpAsciiMove
+197144,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/javacc/parser/ParseEngine.java,ParseEngine.phase1ExpansionGen
+197143,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/javacc/parser/ParseEngine.java,ParseEngine.buildPhase3Routine
+197142,Value not atomically updated,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/javacc/parser/NfaState.java,NfaState.OptimizeEpsilonMoves
+197141,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/javacc/parser/RSequence.java,RSequence.GenerateNfa
+197140,Identical code for different branches,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/org/javacc/parser/NfaState.java,NfaState.DumpCompositeStatesAsciiMoves
+197139,Value not atomically updated,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/javacc/parser/NfaState.java,NfaState.MoveFrom
+197138,Identical code for different branches,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/org/javacc/parser/LexGen.java,LexGen.DumpGetNextToken
+197137,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/src/org/javacc/parser/OutputFile.java,OutputFile.checkVersion
+197136,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/javacc/utils/JavaFileGenerator.java,JavaFileGenerator.process
+197135,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/javacc/parser/OutputFile.java,OutputFile.OutputFile
+197134,Unused value,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Code maintainability issues,/src/org/javacc/jjtree/TokenUtils.java,TokenUtils.remove_escapes_and_quotes
+197133,Nesting level does not match indentation,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/org/javacc/parser/JavaCCParser.java,JavaCCParser.ClassOrInterfaceDeclaration
+197132,Identical code for different branches,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/org/javacc/parser/NfaState.java,NfaState.DumpCompositeStatesNonAsciiMoves
+197131,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/javacc/parser/ParseEngine.java,ParseEngine.buildLookaheadChecker
+197130,Risky cryptographic hashing function,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Medium impact security,/src/org/javacc/parser/OutputFile.java,OutputFile.getPrintWriter
+197129,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/javacc/parser/LookaheadCalc.java,LookaheadCalc.ebnfCalc
+197128,Risky cryptographic hashing function,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Medium impact security,/src/org/javacc/parser/OutputFile.java,OutputFile.OutputFile
+197127,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/javacc/parser/ParseEngine.java,ParseEngine.buildLookaheadChecker
+197126,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/src/org/javacc/parser/OutputFile.java,OutputFile.OutputFile
+197125,Value not atomically updated,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/javacc/parser/NfaState.java,NfaState.FindCommonBlocks

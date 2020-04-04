@@ -1,0 +1,135 @@
+﻿CID,Type,Impact,Status,First Detected,Owner,Classification,Severity,Action,Component,Category,File,Function
+197576,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/syntax/Chunk.java,Chunk.xToOffset
+197575,Call to an inherently dangerous function,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,/org/gjt/sp/util/WorkThread.java,WorkThread.abortCurrentRequest
+197574,Nesting level does not match indentation,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/org/gjt/sp/jedit/MiscUtilities.java,MiscUtilities$VarCompressor.MiscUtilities$VarCompressor
+197573,Dereference after null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/gui/DockableWindowManager.java,DockableWindowManager$KeyHandler.keyTyped
+197572,Identical code for different branches,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/org/gjt/sp/jedit/browser/VFSBrowser.java,VFSBrowser.propertiesChanged
+197571,Unguarded write,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/bsh/org/objectweb/asm/CodeWriter.java,CodeWriter.addSuccessor
+197570,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/io/VFS.java,VFS.copy
+197569,Dereference after null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/gui/DockableWindowManager.java,DockableWindowManager$KeyHandler.keyTyped
+197568,Unguarded read,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/bsh/classpath/BshClassPath.java,BshClassPath.add
+197567,Missing call to superclass,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/org/gjt/sp/jedit/textarea/TextAreaPainter.java,TextAreaPainter.getPreferredSize
+197566,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/io/FileVFS.java,FileVFS.recursiveDelete
+197565,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/org/gjt/sp/jedit/print/BufferPrinter1_4.java,BufferPrinter1_4.savePrintSpec
+197564,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/jEdit.java,jEdit.main
+197563,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/PluginJAR.java,PluginJAR.load
+197562,Failure to restore non-local value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/com/microstar/xml/XmlParser.java,XmlParser.parseElement
+197561,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/util/IOUtilities.java,IOUtilities.fileLength
+197560,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/textarea/StandaloneTextArea.java,StandaloneTextArea.propertiesChanged
+197559,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/org/gjt/sp/jedit/bufferio/BufferIORequest.java,BufferIORequest.getFirstGuiltyCharacterIndex
+197558,Value not atomically updated,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/input/AbstractInputHandler.java,AbstractInputHandler.removeKeyBinding
+197557,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/bsh/commands/dir.java,dir.invoke
+197556,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/msg/RegisterChanged.java,RegisterChanged.getRegisterValue
+197555,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/pluginmgr/InstallPanel.java,InstallPanel$PluginTableModel.setValueAt
+197554,Missing call to superclass,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/org/gjt/sp/jedit/textarea/Gutter.java,Gutter.getPreferredSize
+197553,Unguarded read,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/buffer/PositionManager.java,PositionManager$PosBottomHalf.compareTo
+197552,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/bsh/classpath/ClassManagerImpl.java,ClassManagerImpl.classForName
+197551,Use of freed resources,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,API usage errors,/org/gjt/sp/jedit/BufferHistory.java,BufferHistory.save
+197550,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/io/FileRootsVFS.java,FileRootsVFS.listRoots
+197549,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/util/PropertiesBean.java,PropertiesBean.load
+197548,Value not atomically updated,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/input/AbstractInputHandler.java,AbstractInputHandler.addKeyBinding
+197547,Dereference before null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/help/HelpViewer.java,HelpViewer.gotoURL
+197546,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/gui/InputHandler.java,InputHandler._preprocessKeyEvent
+197545,Risky cryptographic hashing function,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Medium impact security,/org/gjt/sp/jedit/Buffer.java,Buffer.calculateHash
+197544,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/pluginmgr/ManagePanel.java,ManagePanel.loadPluginSet
+197543,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/org/gjt/sp/util/StandardUtilities.java,StandardUtilities.globToRE
+197542,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/search/SearchAndReplace.java,SearchAndReplace.hyperSearch
+197541,Unintentional integer overflow,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Integer handling issues,/org/gjt/sp/jedit/pluginmgr/PluginList.java,PluginList.readPluginList
+197540,Unchecked return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/com/microstar/xml/XmlParser.java,XmlParser.detectEncoding
+197539,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/gui/CompleteWord.java,CompleteWord$Words.getCellRenderer
+197538,Unchecked return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/org/gjt/sp/jedit/jEdit.java,jEdit.main
+197537,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/TextUtilities.java,TextUtilities.findMatchingBracket
+197536,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/pluginmgr/InstallPanel.java,InstallPanel$InstallButton.actionPerformed
+197535,Indefinite wait,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Program hangs,/org/gjt/sp/jedit/gui/SplashScreen.java,SplashScreen.advance
+197534,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/bsh/classpath/DiscreteFilesClassLoader.java,DiscreteFilesClassLoader.findClass
+197533,Use of freed resources,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,API usage errors,/org/gjt/sp/jedit/JEditKillRing.java,JEditKillRing.save
+197532,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/org/gjt/sp/jedit/bsh/ClassGeneratorImpl.java,ClassGeneratorImpl.generateClassImpl
+197531,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/pluginmgr/ManagePanel.java,ManagePanel$HeaderMouseHandler$CleanupActionListener.actionPerformed
+197530,Dereference before null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/MiscUtilities.java,MiscUtilities.constructPath
+197529,Dereference after null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/com/microstar/xml/XmlParser.java,XmlParser.pushURL
+197528,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/org/gjt/sp/jedit/jEdit.java,jEdit.main
+197527,Unguarded read,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/util/WorkThreadPool.java,WorkThreadPool.doAWTRequests
+197526,Ignoring number of bytes read,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/com/microstar/xml/XmlParser.java,XmlParser.detectEncoding
+197525,Use of freed resources,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,API usage errors,/org/gjt/sp/jedit/PerspectiveManager.java,PerspectiveManager.savePerspective
+197524,Unguarded write,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/util/WorkThreadPool.java,WorkThreadPool.doAWTRequest
+197523,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/org/gjt/sp/jedit/jEdit.java,jEdit.main
+197522,Call to an inherently dangerous function,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,/org/gjt/sp/jedit/pluginmgr/PluginManagerProgress.java,PluginManagerProgress$WindowHandler.windowClosing
+197521,Dereference before null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/bsh/LHS.java,LHS.assign
+197520,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/bsh/Name.java,Name.invokeMethod
+197519,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/org/gjt/sp/util/Log.java,Log._logException
+197518,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/search/HyperSearchResults.java,HyperSearchResults$ResultTreeTransferHandler.exportToClipboard
+197517,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/bsh/classpath/BshClassPath.java,BshClassPath.traverseDirForClassesAux
+197516,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/pluginmgr/InstallPanel.java,InstallPanel$Entry.InstallPanel$Entry
+197515,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/pluginmgr/PluginList.java,PluginList$Plugin.install
+197514,Unguarded read,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/Buffer.java,Buffer.getIndex
+197513,Unguarded write,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/jEdit.java,jEdit.main
+197512,Dereference after null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/ModeCatalogHandler.java,ModeCatalogHandler.startElement
+197511,Unguarded read,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/jEdit.java,jEdit.getLastBuffer
+197510,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/jEdit.java,jEdit.getPlugin
+197509,Copy-paste error,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/org/gjt/sp/jedit/gui/ExtendedGridLayout.java,ExtendedGridLayout.getSize
+197508,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/gui/OptionsDialog.java,OptionsDialog.addOptionPane
+197507,Indefinite wait,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Program hangs,/org/gjt/sp/util/WorkThread.java,WorkThread.doRequests
+197506,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/org/gjt/sp/jedit/JARClassLoader.java,JARClassLoader._loadClass
+197505,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/org/gjt/sp/jedit/PluginJAR.java,PluginJAR.generateCache
+197504,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/bsh/Remote.java,Remote.eval
+197503,Unguarded write,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/jEdit.java,jEdit.closeAllBuffers
+197502,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/Macros.java,Macros.runScript
+197501,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/pluginmgr/ManagePanel.java,ManagePanel$RemoveButton.actionPerformed
+197500,Dereference after null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/jEdit.java,jEdit.removeBufferFromList
+197499,Unguarded write,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/util/WorkThreadPool.java,WorkThreadPool.getNextAWTRequest
+197498,Value not atomically updated,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/bsh/NameSpace.java,NameSpace.getCommand
+197497,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/org/gjt/sp/jedit/jEdit.java,jEdit.main
+197496,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/io/FileRootsVFS.java,FileRootsVFS.listRoots
+197495,Missing break in switch,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/org/gjt/sp/jedit/EditPane.java,EditPane.setBufferSetScope
+197494,Call to an inherently dangerous function,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,/org/gjt/sp/jedit/pluginmgr/PluginManagerProgress.java,PluginManagerProgress$ActionHandler.actionPerformed
+197493,Value not atomically updated,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/com/microstar/xml/XmlParser.java,XmlParser.setElement
+197492,Value not atomically updated,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/input/AbstractInputHandler.java,AbstractInputHandler.getKeyBinding
+197491,Use of freed resources,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,API usage errors,/org/gjt/sp/jedit/gui/JEditHistoryModelSaver.java,JEditHistoryModelSaver.save
+197490,Unguarded read,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/util/WorkThreadPool.java,WorkThreadPool.getNextAWTRequest
+197489,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/org/gjt/sp/jedit/print/BufferPrinter1_4.java,BufferPrinter1_4.getPrintJob
+197488,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/bsh/ExternalNameSpace.java,ExternalNameSpace.setMap
+197487,Division or modulo by float zero,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/org/gjt/sp/jedit/gui/VariableGridLayout.java,VariableGridLayout.layoutContainer
+197486,Indefinite wait,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Program hangs,/org/gjt/sp/jedit/gui/SplashScreen.java,SplashScreen.advance
+197485,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/org/gjt/sp/jedit/Abbrevs.java,Abbrevs.save
+197484,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/gui/FilesChangedDialog.java,FilesChangedDialog.action
+197483,Missing call to superclass,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/org/gjt/sp/jedit/textarea/TextAreaPainter.java,TextAreaPainter.paint
+197482,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/gui/DockableWindowManager.java,DockableWindowManager$DockingLayout.getSavedLayouts
+197481,Copy-paste error,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/org/gjt/sp/jedit/gui/ExtendedGridLayout.java,ExtendedGridLayout.getSize
+197480,Arguments in wrong order,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,API usage errors,/org/gjt/sp/jedit/bsh/BSHBinaryExpression.java,BSHBinaryExpression.eval
+197479,Call to an inherently dangerous function,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Low impact security,/org/gjt/sp/util/WorkThread.java,WorkThread.setAbortable
+197478,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/bsh/ClassGeneratorImpl.java,ClassGeneratorImpl.generateClassImpl
+197477,Dereference before null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/bsh/Name.java,Name.toLHS
+197476,Resource leak on an exceptional path,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/org/gjt/sp/jedit/bsh/classpath/BshClassPath.java,BshClassPath$DirClassSource.readBytesFromFile
+197475,Unguarded write,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/search/BufferListSet.java,BufferListSet.invalidateCachedList
+197474,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/bsh/XThis.java,XThis.getInterface
+197473,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/com/microstar/xml/XmlParser.java,XmlParser.parseEntityRef
+197472,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/org/gjt/sp/jedit/browser/VFSBrowser.java,VFSBrowser$HistoryComboBoxEditor.setItem
+197471,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/syntax/Chunk.java,Chunk.offsetToX
+197470,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/bsh/classpath/BshClassPath.java,BshClassPath.getBootClassPath
+197469,Division or modulo by float zero,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/org/gjt/sp/jedit/gui/VariableGridLayout.java,VariableGridLayout.layoutContainer
+197468,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/Macros.java,Macros.runTemporaryMacro
+197467,Structurally dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/org/gjt/sp/jedit/browser/VFSFileChooserDialog.java,VFSFileChooserDialog$BrowserHandler.filesActivated
+197466,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/com/microstar/xml/XmlParser.java,XmlParser.parsePEReference
+197465,Value not atomically updated,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/bsh/NameSpace.java,NameSpace.getImportedClassImpl
+197464,Missing call to superclass,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/org/gjt/sp/jedit/gui/AboutDialog.java,AboutDialog$AboutPanel.paint
+197463,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/org/gjt/sp/jedit/bsh/Remote.java,Remote.doBsh
+197462,Value not atomically updated,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/syntax/XModeHandler.java,XModeHandler.findParent
+197461,Unguarded read,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/Buffer.java,Buffer.getPrev
+197460,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/bsh/classpath/BshClassLoader.java,BshClassLoader.loadClass
+197459,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/io/VFSFile.java,VFSFile.findCompletion
+197458,Thread deadlock,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Program hangs,/org/gjt/sp/jedit/bufferset/BufferSet.java,BufferSet.getAllBuffers
+197457,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/gui/OptionsDialog.java,OptionsDialog.addOptionGroup
+197456,Unguarded read,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/util/WorkThreadPool.java,WorkThreadPool.waitForRequests
+197455,Use of freed resources,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,API usage errors,/org/gjt/sp/jedit/JEditRegisterSaver.java,JEditRegisterSaver.saveRegisters
+197454,Unintended regular expression,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,API usage errors,/org/gjt/sp/jedit/gui/DockableWindowManager.java,DockableWindowManager$DockingLayout.fileToLayout
+197453,Missing break in switch,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/com/microstar/xml/XmlParser.java,XmlParser.parseConditionalSect
+197452,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/View.java,View.updateBufferSwitcherStates
+197451,Unguarded read,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/bsh/classpath/BshClassPath.java,BshClassPath.add
+197450,Unguarded read,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/util/WorkThreadPool.java,WorkThreadPool.getRequestCount
+197449,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/bufferio/BufferLoadRequest.java,BufferLoadRequest.readContents
+197448,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/PluginJAR.java,PluginJAR.transitiveClosure
+197447,Missing call to superclass,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/org/gjt/sp/jedit/gui/GrabKeyDialog.java,GrabKeyDialog$InputPane.processKeyEvent
+197446,Value not atomically updated,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/syntax/XModeHandler.java,XModeHandler$TagDecl.setText
+197445,Dereference after null check,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/org/gjt/sp/jedit/syntax/TokenMarker.java,TokenMarker$LineContext.TokenMarker$LineContext
+197444,Resource leak,High,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/org/gjt/sp/jedit/bsh/Remote.java,Remote.getFile
+197443,Unguarded write,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/org/gjt/sp/jedit/BufferHistory.java,BufferHistory.load

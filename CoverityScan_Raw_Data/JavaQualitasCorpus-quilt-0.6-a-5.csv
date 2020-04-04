@@ -1,0 +1,14 @@
+﻿CID,Type,Impact,Status,First Detected,Owner,Classification,Severity,Action,Component,Category,File,Function
+201002,Dereference before null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/java/org/quilt/cover/stmt/StmtRegistry.java,StmtRegistry.getMethodCoverage
+201001,Dereference before null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/java/org/quilt/cover/stmt/StmtRegistry.java,StmtRegistry.getMethodCoverage
+201000,Unintended regular expression,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,API usage errors,/src/java/org/quilt/reg/Registry.java,Registry.splitClassName
+200999,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/java/org/quilt/framework/QuiltTest.java,QuiltTest.setProperties
+200998,Resource leak,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/src/java/org/quilt/frontend/ant/CallTest.java,CallTest.execTest
+200997,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/java/org/quilt/cover/stmt/GraphAction.java,GraphAction.xform
+200996,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/java/org/quilt/textui/Textui.java,Textui.handleArgs
+200995,Failure to call super.clone(),Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/java/org/quilt/framework/QuiltTest.java,QuiltTest.clone
+200994,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/java/org/quilt/cover/stmt/StmtRegistry.java,StmtRegistry.getReport
+200993,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/java/org/quilt/frontend/ant/ForkTest.java,ForkTest.execTest
+200992,Dereference before null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/java/org/quilt/graph/Vertex.java,Vertex.above
+200991,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/java/org/quilt/graph/BinaryConnector.java,BinaryConnector.checkTarget
+200990,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/java/org/quilt/cover/stmt/StmtRegistry.java,StmtRegistry.getMethodCoverage

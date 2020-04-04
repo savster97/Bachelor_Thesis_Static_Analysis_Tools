@@ -1,0 +1,53 @@
+﻿CID,Type,Impact,Status,First Detected,Owner,Classification,Severity,Action,Component,Category,File,Function
+198624,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/source/net/sf/jmoney/gui/AboutDialog.java,AboutDialog.jbInit
+198623,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/source/net/sf/jmoney/io/MT940.java,MT940.importTransaction
+198622,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/source/net/sf/jmoney/io/QIF.java,QIF.exportAccount
+198621,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/source/net/sf/jmoney/io/MT940.java,MT940.importTransaction
+198620,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/source/net/sf/jmoney/gui/MainFrame.java,MainFrame.readSession
+198619,SIC: Inner class could be made static,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/source/net/sf/jmoney/gui/MainFrame.java,
+198618,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/source/net/sf/jmoney/VerySimpleDateFormat.java,VerySimpleDateFormat.parse
+198617,SIC: Inner class could be made static,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/source/net/sf/jmoney/io/MT940.java,
+198616,SIC: Inner class could be made static,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/source/net/sf/jmoney/gui/CategoryComboBox.java,
+198615,Eq: Problems with implementation of equals(),Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/source/net/sf/jmoney/gui/AccountBalancesReportPanel.java,AccountBalancesReportPanel$Item.compareTo
+198614,Ignoring number of bytes read,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/source/net/sf/jmoney/gui/AboutDialog.java,AboutDialog.jbInit
+198613,UrF: Unread field,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/source/net/sf/jmoney/io/MT940.java,
+198612,Se: Incorrect definition of Serializable class,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/source/net/sf/jmoney/EntryComparator.java,
+198611,Logically dead code,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/source/net/sf/jmoney/io/MT940.java,MT940.importTransaction
+198610,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/source/net/sf/jmoney/io/QIF.java,QIF.importFile
+198609,Eq: Problems with implementation of equals(),Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/source/net/sf/jmoney/model/Account.java,Account.compareTo
+198608,SIC: Inner class could be made static,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/source/net/sf/jmoney/gui/IncomeExpenseReportPanel.java,
+198607,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/source/net/sf/jmoney/VerySimpleDateFormat.java,VerySimpleDateFormat.parse
+198606,Eq: Problems with implementation of equals(),Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/source/net/sf/jmoney/SortedTreeNode.java,SortedTreeNode.compareTo
+198605,IM: Questionable integer math,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/source/net/sf/jmoney/gui/EntryListItem.java,EntryListItem.setLook
+198604,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/source/net/sf/jmoney/gui/MainFrame.java,MainFrame.storeProperties
+198603,Failure to restore non-local value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/source/net/sf/jmoney/model/CategoryTreeModel.java,CategoryTreeModel.writeObject
+198602,Failure to restore non-local value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/source/net/sf/jmoney/model/EntryListModel.java,EntryListModel.writeObject
+198601,STCAL: Static use of type Calendar or DateFormat,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/source/net/sf/jmoney/io/QIF.java,QIF.formatDate
+198600,Resource leak,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/source/net/sf/jmoney/gui/MainFrame.java,MainFrame.initProperties
+198599,Eq: Problems with implementation of equals(),Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/source/net/sf/jmoney/Currency.java,Currency.compareTo
+198598,LI: Unsynchronized Lazy Initialization,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/source/net/sf/jmoney/Currency.java,Currency.getAvailableCurrencies
+198597,Resource leak,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/source/net/sf/jmoney/gui/AboutDialog.java,AboutDialog.jbInit
+198596,RC: Questionable use of reference equality rather than calling equals,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Correctness,/source/net/sf/jmoney/model/Account.java,Account.setMinBalance
+198595,Resource leak,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/source/net/sf/jmoney/io/MT940.java,MT940.importFile
+198594,Resource leak,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/source/net/sf/jmoney/Currency.java,Currency.initSystemCurrencies
+198593,Eq: Problems with implementation of equals(),Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/source/net/sf/jmoney/gui/IncomeExpenseReportPanel.java,IncomeExpenseReportPanel$Item.compareTo
+198592,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/source/net/sf/jmoney/io/MT940.java,MT940.importFile
+198591,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/source/net/sf/jmoney/io/QIF.java,QIF.importFile
+198590,REC: RuntimeException capture,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/source/net/sf/jmoney/VerySimpleDateFormat.java,VerySimpleDateFormat.parse
+198589,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/source/net/sf/jmoney/io/QIF.java,QIF.exportAccount
+198588,SnVI: Serializable class with no Version ID,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/source/net/sf/jmoney/model/Account.java,
+198587,RV: Bad use of return value,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/source/net/sf/jmoney/gui/MainFrame.java,MainFrame.initProperties
+198586,SIC: Inner class could be made static,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/source/net/sf/jmoney/gui/AccountBalancesReportPanel.java,
+198585,Resource leak,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/source/net/sf/jmoney/io/QIF.java,QIF.importFile
+198584,STCAL: Static use of type Calendar or DateFormat,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Multithreaded correctness,/source/net/sf/jmoney/io/QIF.java,QIF.parseDate
+198583,REC: RuntimeException capture,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/source/net/sf/jmoney/gui/IncomeExpenseReportPanel.java,IncomeExpenseReportPanel.generateReport
+198582,SnVI: Serializable class with no Version ID,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/source/net/sf/jmoney/model/Entry.java,
+198581,DLS: Dead local store,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/source/net/sf/jmoney/gui/CategoryPanel.java,CategoryPanel$CategoryTreeCellRenderer.getTreeCellRendererComponent
+198580,Se: Incorrect definition of Serializable class,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/source/net/sf/jmoney/gui/MainFrame.java,
+198579,SnVI: Serializable class with no Version ID,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Bad practice,/source/net/sf/jmoney/model/Session.java,
+198578,SIC: Inner class could be made static,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/source/net/sf/jmoney/gui/CategoryPanel.java,
+198577,Dm: Dubious method used,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Internationalization,/source/net/sf/jmoney/Currency.java,Currency.initSystemCurrencies
+198576,SIC: Inner class could be made static,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/source/net/sf/jmoney/io/QIF.java,
+198575,SIC: Inner class could be made static,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Performance,/source/net/sf/jmoney/gui/StatusComboBox.java,
+198574,DLS: Dead local store,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,FindBugs: Dodgy code,/source/net/sf/jmoney/io/MT940.java,MT940.importFile
+198573,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/source/net/sf/jmoney/VerySimpleDateFormat.java,VerySimpleDateFormat.parse

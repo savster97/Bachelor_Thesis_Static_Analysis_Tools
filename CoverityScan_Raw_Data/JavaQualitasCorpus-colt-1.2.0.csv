@@ -1,0 +1,63 @@
+﻿CID,Type,Impact,Status,First Detected,Owner,Classification,Severity,Action,Component,Category,File,Function
+195067,Failure to call super.clone(),Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/cern/colt/list/AbstractCharList.java,AbstractCharList.clone
+195066,Value not atomically updated,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/hep/aida/bin/QuantileBin1D.java,QuantileBin1D.compareWith
+195065,Division or modulo by float zero,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/cern/colt/map/PrimeFinder.java,PrimeFinder.main
+195064,'Constant' variable guards dead code,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Possible Control flow issues,/src/cern/colt/matrix/impl/TestMatrix2D.java,TestMatrix2D.doubleTest25
+195063,Division or modulo by float zero,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/cern/colt/matrix/impl/BenchmarkMatrix2D.java,BenchmarkMatrix2D.doubleBenchmark
+195062,Division or modulo by float zero,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/cern/colt/matrix/bench/BenchmarkKernel.java,BenchmarkKernel.run
+195061,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/list/CharArrayList.java,CharArrayList.equals
+195060,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/list/LongArrayList.java,LongArrayList.equals
+195059,Failure to call super.clone(),Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/cern/colt/list/AbstractFloatList.java,AbstractFloatList.clone
+195058,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/list/AbstractDoubleList.java,AbstractDoubleList.equals
+195057,Failure to call super.clone(),Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/cern/colt/list/AbstractBooleanList.java,AbstractBooleanList.clone
+195056,Missing call to superclass,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/cern/colt/matrix/impl/RCDoubleMatrix2D.java,RCDoubleMatrix2D.assign
+195055,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/cern/colt/matrix/linalg/Smp.java,Smp$1.run
+195054,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/list/BooleanArrayList.java,BooleanArrayList.equals
+195053,Failure to call super.clone(),Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/cern/colt/list/AbstractDoubleList.java,AbstractDoubleList.clone
+195052,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/cern/colt/matrix/bench/BenchmarkMatrix.java,BenchmarkMatrix.runSpecial
+195051,Failure to call super.clone(),Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/cern/colt/list/AbstractLongList.java,AbstractLongList.clone
+195050,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/cern/colt/matrix/bench/BenchmarkMatrix.java,BenchmarkMatrix.run
+195049,Failure to call super.clone(),Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/cern/colt/list/AbstractShortList.java,AbstractShortList.clone
+195048,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/list/IntArrayList.java,IntArrayList.equals
+195047,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/list/ObjectArrayList.java,ObjectArrayList.equals
+195046,Division or modulo by float zero,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/cern/jet/random/sampling/RandomSampler.java,RandomSampler.main
+195045,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/cern/colt/matrix/bench/BenchmarkMatrix.java,BenchmarkMatrix.usage
+195044,Missing call to superclass,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/cern/colt/matrix/bench/BenchmarkMatrix.java,BenchmarkMatrix$15.setParameters
+195043,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/list/FloatArrayList.java,FloatArrayList.equals
+195042,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/list/AbstractByteList.java,AbstractByteList.equals
+195041,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/cern/jet/stat/quantile/QuantileFinderTest.java,QuantileFinderTest.observedEpsilonAtPhi
+195040,Exception not thrown,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/src/cern/jet/random/Gamma.java,Gamma.nextDouble
+195039,Result is not floating-point,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/cern/colt/matrix/impl/TestMatrix2D.java,TestMatrix2D.doubleTest22
+195038,Failure to call super.clone(),Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/cern/colt/list/AbstractIntList.java,AbstractIntList.clone
+195037,Same on both sides,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/cern/colt/bitvector/BitMatrix.java,BitMatrix.elements
+195036,Division or modulo by float zero,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/cern/jet/math/Functions.java,Functions.demo1
+195035,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/list/AbstractShortList.java,AbstractShortList.equals
+195034,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/list/AbstractFloatList.java,AbstractFloatList.equals
+195033,Division or modulo by float zero,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/cern/jet/stat/quantile/DoubleBufferSet.java,DoubleBufferSet.phi
+195032,Division or modulo by zero,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Integer handling issues,/src/cern/jet/math/IntFunctions.java,IntFunctions$35.apply
+195031,Infinite loop,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Program hangs,/src/hep/aida/ref/Histogram3D.java,Histogram3D.internalSliceXZ
+195030,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/list/AbstractLongList.java,AbstractLongList.equals
+195029,Copy-paste error,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/cern/colt/matrix/linalg/EigenvalueDecomposition.java,EigenvalueDecomposition.tred2
+195028,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/matrix/ObjectMatrix3D.java,ObjectMatrix3D.equals
+195027,Failure to call super.clone(),Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/cern/colt/list/AbstractByteList.java,AbstractByteList.clone
+195026,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/list/AbstractIntList.java,AbstractIntList.equals
+195025,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/cern/colt/matrix/impl/AbstractFormatter.java,AbstractFormatter.align
+195024,Division or modulo by zero,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Integer handling issues,/src/cern/jet/random/sampling/RandomSampler.java,RandomSampler.main
+195023,Missing call to superclass,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/cern/colt/matrix/impl/DenseDoubleMatrix2D.java,DenseDoubleMatrix2D.assign
+195022,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/list/ShortArrayList.java,ShortArrayList.equals
+195021,Division or modulo by float zero,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/cern/colt/matrix/linalg/LUDecompositionQuick.java,LUDecompositionQuick.solve
+195020,'Constant' variable guards dead code,Low,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Possible Control flow issues,/src/cern/colt/matrix/impl/TestMatrix2D.java,TestMatrix2D.doubleTest26
+195019,Missing call to superclass,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/cern/colt/matrix/impl/DenseDoubleMatrix2D.java,DenseDoubleMatrix2D.assign
+195018,Useless call,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/cern/jet/stat/quantile/QuantileFinderTest.java,QuantileFinderTest.observedEpsilonAtPhi
+195017,Division or modulo by zero,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Integer handling issues,/src/cern/jet/math/IntFunctions.java,IntFunctions$34.apply
+195016,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/list/DoubleArrayList.java,DoubleArrayList.equals
+195015,Operands don't affect result,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Integer handling issues,/src/cern/jet/stat/quantile/QuantileCalc.java,QuantileCalc.known_N_compute_B_and_K_quick
+195014,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/list/AbstractCharList.java,AbstractCharList.equals
+195013,Operands don't affect result,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Integer handling issues,/src/cern/jet/stat/quantile/QuantileFinderFactory.java,QuantileFinderFactory.known_N_compute_B_and_K_quick
+195012,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/matrix/ObjectMatrix1D.java,ObjectMatrix1D.equals
+195011,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/matrix/ObjectMatrix2D.java,ObjectMatrix2D.equals
+195010,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/list/ByteArrayList.java,ByteArrayList.equals
+195009,Logically dead code,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/cern/colt/list/AbstractBooleanList.java,AbstractBooleanList.equals
+195008,Dereference null return value,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/cern/jet/stat/quantile/KnownDoubleQuantileEstimator.java,KnownDoubleQuantileEstimator.newBuffer
+195007,Explicit null dereferenced,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/cern/colt/matrix/linalg/SmpBlas.java,SmpBlas.run
+195006,Result is not floating-point,Medium,New,03/30/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/cern/colt/matrix/impl/TestMatrix2D.java,TestMatrix2D.doubleTest21

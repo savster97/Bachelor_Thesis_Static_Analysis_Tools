@@ -1,0 +1,26 @@
+﻿CID,Type,Impact,Status,First Detected,Owner,Classification,Severity,Action,Component,Category,File,Function
+201042,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sablecc/sablecc/GenParser.java,GenParser.GenParser
+201041,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sablecc/sablecc/GenParser.java,GenParser.createParser
+201040,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sablecc/sablecc/GenLexer.java,GenLexer.GenLexer
+201039,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/sablecc/sablecc/LR0Collection.java,LR0Collection.add
+201038,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sablecc/sablecc/GenAnalyses.java,GenAnalyses.createDepthFirstAdapter
+201037,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sablecc/sablecc/GenAlts.java,GenAlts.GenAlts
+201036,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sablecc/sablecc/parser/Parser.java,Parser.Parser
+201035,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sablecc/sablecc/GenAlts.java,GenAlts.outAAstAlt
+201034,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sablecc/sablecc/GenTokens.java,GenTokens.GenTokens
+201033,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sablecc/sablecc/SableCC.java,SableCC.processGrammar
+201032,Dereference null return value,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sablecc/sablecc/InternalTransformationsToGrammar.java,InternalTransformationsToGrammar.caseAElem
+201031,Value not atomically updated,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Concurrent data access violations,/src/org/sablecc/sablecc/CharSet.java,CharSet.findOverlap
+201030,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sablecc/sablecc/GenAnalyses.java,GenAnalyses.createReversedDepthFirstAdapter
+201029,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sablecc/sablecc/GenLexer.java,GenLexer.createLexer
+201028,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sablecc/sablecc/GenUtils.java,GenUtils.GenUtils
+201027,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sablecc/sablecc/GenProds.java,GenProds.GenProds
+201026,Resource leak,High,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/src/org/sablecc/sablecc/SableCC.java,SableCC.processGrammar
+201025,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sablecc/sablecc/GenLexer.java,GenLexer.createLexer
+201024,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sablecc/sablecc/GenAnalyses.java,GenAnalyses.GenAnalyses
+201023,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sablecc/sablecc/DisplayLicense.java,DisplayLicense.DisplayLicense
+201022,Resource leak on an exceptional path,Low,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/sablecc/sablecc/lexer/Lexer.java,Lexer.Lexer
+201021,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sablecc/sablecc/GenAnalyses.java,GenAnalyses.createAnalysisAdapter
+201020,Dereference after null check,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sablecc/sablecc/ResolveTransformIds.java,ResolveTransformIds.inASimpleListTerm
+201019,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sablecc/sablecc/MacroExpander.java,MacroExpander.apply
+201018,Explicit null dereferenced,Medium,New,03/31/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/sablecc/sablecc/GenAnalyses.java,GenAnalyses.createAnalysis

@@ -1,0 +1,6 @@
+﻿CID,Type,Impact,Status,First Detected,Owner,Classification,Severity,Action,Component,Category,File,Function
+203224,Resource leak on an exceptional path,Low,New,04/08/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/runtime/Java/src/main/java/org/antlr/runtime/SerializedGrammar.java,SerializedGrammar.SerializedGrammar
+203223,Dereference after null check,Medium,New,04/08/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/runtime/Java/src/main/java/org/antlr/runtime/tree/TreeIterator.java,TreeIterator.next
+203222,Dereference null return value,Medium,New,04/08/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/runtime/Java/src/main/java/org/antlr/runtime/misc/Stats.java,Stats.writeReport
+203221,Dereference null return value,Medium,New,04/08/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/runtime/Java/src/main/java/org/antlr/runtime/debug/Profiler.java,Profiler.getDecisionStatsDump
+203220,Dereference null return value,Medium,New,04/08/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/runtime/Java/src/main/java/org/antlr/runtime/debug/Profiler.java,Profiler.getDecisionStatsDump

@@ -1,0 +1,14 @@
+﻿CID,Type,Impact,Status,First Detected,Owner,Classification,Severity,Action,Component,Category,File,Function
+194540,Useless call,Medium,New,03/29/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Incorrect expression,/src/sample/Script.java,Script.endElement
+194539,Missing call to superclass,Medium,New,03/29/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/sample/Minimal.java,Minimal.endElement
+194538,Dereference before null check,Medium,New,03/29/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/cyberneko/html/HTMLTagBalancer.java,HTMLTagBalancer.startElement
+194537,Unchecked return value,Medium,New,03/29/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Error handling issues,/src/org/cyberneko/html/HTMLScanner.java,HTMLScanner$ContentScanner.nextContent
+194536,Logically dead code,Medium,New,03/29/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/org/cyberneko/html/HTMLScanner.java,HTMLScanner$ContentScanner.scanComment
+194535,Resource leak on an exceptional path,Low,New,03/29/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/cyberneko/html/ObjectFactory.java,ObjectFactory.createObject
+194534,Missing call to superclass,Medium,New,03/29/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/sample/Minimal.java,Minimal.startElement
+194533,Resource leak on an exceptional path,Low,New,03/29/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Exceptional resource leaks,/src/org/cyberneko/html/ObjectFactory.java,ObjectFactory.findJarServiceProvider
+194532,Logically dead code,Medium,New,03/29/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Control flow issues,/src/org/cyberneko/html/HTMLScanner.java,HTMLScanner$SpecialScanner.scanCharacters
+194531,Dereference after null check,Medium,New,03/29/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/cyberneko/html/filters/Purifier.java,Purifier.handleStartElement
+194530,Dereference null return value,Medium,New,03/29/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Null pointer dereferences,/src/org/cyberneko/html/HTMLScanner.java,HTMLScanner$ContentScanner.addLocationItem
+194529,Missing call to superclass,Medium,New,03/29/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Class hierarchy inconsistencies,/src/org/cyberneko/html/filters/Writer.java,Writer.comment
+194528,Resource leak,High,New,03/29/19,Unassigned,Unclassified,Unspecified,Undecided,Other,Resource leaks,/src/org/cyberneko/html/HTMLEntities.java,HTMLEntities.load0
