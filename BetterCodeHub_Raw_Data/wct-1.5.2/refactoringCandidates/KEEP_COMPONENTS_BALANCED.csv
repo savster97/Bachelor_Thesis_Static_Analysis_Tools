@@ -1,0 +1,5 @@
+className,weight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,44229.0,WCTCore,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,2629.0,WCTSubmitToRosetta,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,2499.0,WCTDigitalAssetStore,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,1607.0,WCTHarvestAgent,False

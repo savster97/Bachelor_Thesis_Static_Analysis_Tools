@@ -1,0 +1,10 @@
+className,weight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,6322.0,addressbook,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,5377.0,webmail,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,3937.0,security,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,3829.0,library,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,1554.0,calendar,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,1426.0,core,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,739.0,search,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,335.0,htmlparser,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,322.0,mask,False

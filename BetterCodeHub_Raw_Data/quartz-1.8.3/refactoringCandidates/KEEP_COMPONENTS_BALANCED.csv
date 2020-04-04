@@ -1,0 +1,6 @@
+className,weight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,24395.0,quartz,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,1565.0,examples,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,466.0,quartz-oracle,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,268.0,quartz-jboss,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,125.0,quartz-weblogic,False

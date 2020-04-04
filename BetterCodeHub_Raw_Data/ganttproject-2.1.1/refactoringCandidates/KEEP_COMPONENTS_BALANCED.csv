@@ -1,0 +1,5 @@
+className,weight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,43912.0,ganttproject,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,1506.0,org.ganttproject.impex.htmlpdf,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,966.0,org.ganttproject.chart.pert,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,879.0,org.ganttproject.impex.msproject,False

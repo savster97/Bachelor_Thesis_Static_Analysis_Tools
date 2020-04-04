@@ -1,0 +1,10 @@
+className,weight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,42461.0,services,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,16540.0,portlets,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,5644.0,portal,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,5489.0,jsf-components,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,3088.0,commons,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,2298.0,portlet-framework,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,2284.0,container,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,45.0,business-processes,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,0.0,test,False

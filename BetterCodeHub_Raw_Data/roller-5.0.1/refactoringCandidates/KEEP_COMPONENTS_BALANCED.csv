@@ -1,0 +1,9 @@
+className,weight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,28511.0,weblogger-web,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,23086.0,weblogger-business,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,3931.0,planet-business,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,3341.0,planet-web,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,533.0,roller-core,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,389.0,weblogger-docs,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,255.0,test-utils,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,44.0,Remainder,False

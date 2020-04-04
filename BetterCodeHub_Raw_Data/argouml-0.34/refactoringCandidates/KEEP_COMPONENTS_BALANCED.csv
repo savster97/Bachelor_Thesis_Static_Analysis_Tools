@@ -1,0 +1,9 @@
+className,weight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,156305.0,argouml,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,15627.0,argouml-cpp,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,8259.0,argouml-csharp,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,6196.0,argouml-java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,3592.0,argouml-documentation,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,2304.0,argouml-php,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,1740.0,argouml-sql,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,1622.0,argouml-idl,False

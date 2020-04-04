@@ -1,0 +1,9 @@
+className,weight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,87352.0,ArtOfIllusion,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,11916.0,Renderers,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,5475.0,SPManager,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,2761.0,HelpPlugin,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,2381.0,Translators,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,1747.0,Tools,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,227.0,PostInstall,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,218.0,OSSpecific,False

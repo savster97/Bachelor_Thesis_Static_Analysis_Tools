@@ -1,0 +1,5 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/org/cyberneko/html/filters/DefaultFilter.java,1,364,179,57,DefaultFilter.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/org/cyberneko/html/xercesbridge/XercesBridge.java,1,124,61,31,XercesBridge.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/org/cyberneko/html/HTMLElements.java,1,783,426,20,HTMLElements.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/org/cyberneko/html/SecuritySupport.java,1,118,55,17,SecuritySupport.java,False

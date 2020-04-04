@@ -1,0 +1,9 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,source/imp/java/src/fit/Fixture.java,1,293,238,160,Fixture.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,source/imp/java/src/fit/Parse.java,1,238,200,183,Parse.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,source/imp/java/src/fit/TypeAdapter.java,1,252,205,26,TypeAdapter.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,source/imp/java/src/fit/ColumnFixture.java,1,103,81,47,ColumnFixture.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,source/imp/java/src/fit/RowFixture.java,1,205,183,12,RowFixture.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,source/imp/java/src/fit/ScientificDouble.java,1,77,57,13,ScientificDouble.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,source/imp/java/src/fit/PrimitiveFixture.java,1,57,40,14,PrimitiveFixture.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,source/imp/java/src/fit/Counts.java,1,26,20,15,Counts.java,False

@@ -1,0 +1,15 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,source/net/sf/jmoney/model/Account.java,1,386,198,98,Account.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,source/net/sf/jmoney/model/Entry.java,1,307,154,179,Entry.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,source/net/sf/jmoney/VerySimpleDateFormat.java,1,116,86,30,VerySimpleDateFormat.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,source/net/sf/jmoney/model/Session.java,1,128,76,37,Session.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,source/net/sf/jmoney/UserProperties.java,1,116,75,29,UserProperties.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,source/net/sf/jmoney/model/DoubleEntry.java,1,125,63,21,DoubleEntry.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,source/net/sf/jmoney/gui/EntryListItemLabels.java,1,267,222,12,EntryListItemLabels.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,source/net/sf/jmoney/EntryFilter.java,1,191,121,12,EntryFilter.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,source/net/sf/jmoney/Currency.java,1,166,99,20,Currency.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,source/net/sf/jmoney/Constants.java,1,157,63,12,Constants.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,source/net/sf/jmoney/NavigationTreeModel.java,1,108,47,13,NavigationTreeModel.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,source/net/sf/jmoney/model/SplittedEntry.java,1,76,41,14,SplittedEntry.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,source/net/sf/jmoney/model/AbstractCategory.java,1,56,20,16,AbstractCategory.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,source/net/sf/jmoney/model/Category.java,1,47,7,20,Category.java,False

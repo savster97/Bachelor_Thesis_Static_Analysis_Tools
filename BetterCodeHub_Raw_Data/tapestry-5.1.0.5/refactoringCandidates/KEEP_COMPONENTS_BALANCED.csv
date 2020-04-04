@@ -1,0 +1,11 @@
+className,weight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,35867.0,tapestry-core,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,11652.0,tapestry-ioc,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,984.0,tapestry-component-report,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,790.0,tapestry-hibernate-core,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,637.0,tapestry-upload,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,489.0,tapestry-spring,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,379.0,tapestry-hibernate,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,270.0,tapestry-tutorial1,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,170.0,tapestry-annotations,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,100.0,quickstart,False

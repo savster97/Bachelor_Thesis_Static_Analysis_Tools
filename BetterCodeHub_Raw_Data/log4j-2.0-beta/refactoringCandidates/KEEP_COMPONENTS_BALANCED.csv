@@ -1,0 +1,10 @@
+className,weight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,14583.0,core,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,3988.0,api,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,1072.0,flume-ng,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,943.0,log4j12-api,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,620.0,slf4j-impl,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,541.0,samples,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,191.0,log4j-to-slf4j,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,124.0,web,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,89.0,jcl-bridge,False

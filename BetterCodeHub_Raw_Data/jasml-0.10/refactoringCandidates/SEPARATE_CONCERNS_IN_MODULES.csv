@@ -1,0 +1,7 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/com/jasml/helper/Util.java,1,679,576,65,Util.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/com/jasml/compiler/Scanner.java,1,602,499,362,Scanner.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/com/jasml/compiler/ConstantPoolGenerator.java,1,324,266,47,ConstantPoolGenerator.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/com/jasml/classes/ConstantPool.java,1,39,29,39,ConstantPool.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/com/jasml/classes/ConstantPoolItem.java,1,17,9,23,ConstantPoolItem.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/com/jasml/classes/Attribute.java,1,38,18,19,Attribute.java,False

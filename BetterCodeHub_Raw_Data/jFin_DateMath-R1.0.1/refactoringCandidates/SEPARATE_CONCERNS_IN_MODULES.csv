@@ -1,0 +1,13 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/main/java/org/jfin/date/daycount/DaycountCalculatorFactory.java,1,274,122,52,DaycountCalculatorFactory.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/main/java/org/jfin/date/Period.java,1,247,113,91,Period.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/main/java/org/jfin/date/util/ISDADateFormat.java,1,117,48,75,ISDADateFormat.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/main/java/org/jfin/date/holiday/HolidayCalendar.java,1,366,189,40,HolidayCalendar.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/main/java/org/jfin/date/holiday/HolidayCalendarFactory.java,1,218,105,21,HolidayCalendarFactory.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/main/java/org/jfin/date/daycount/DaycountCalculator.java,1,100,23,33,DaycountCalculator.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/main/java/org/jfin/date/ScheduleGenerator.java,1,574,290,13,ScheduleGenerator.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/web/java/org/jfin/date/web/example/PlainSwap.java,1,366,213,20,PlainSwap.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/main/java/org/jfin/date/Tenor.java,1,185,105,12,Tenor.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/main/java/org/jfin/date/Frequency.java,1,117,33,11,Frequency.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/main/java/org/jfin/date/accrual/Notional.java,1,81,24,11,Notional.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/main/java/org/jfin/date/accrual/AccrualException.java,1,44,14,16,AccrualException.java,False

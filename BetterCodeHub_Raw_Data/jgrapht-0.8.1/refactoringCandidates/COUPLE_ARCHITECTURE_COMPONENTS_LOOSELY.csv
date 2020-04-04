@@ -1,0 +1,7 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/org/jgrapht/experimental/isomorphism/GraphOrdering.java,1,232,99,99,GraphOrdering.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/org/jgrapht/graph/SimpleDirectedWeightedGraph.java,1,83,16,16,SimpleDirectedWeightedGraph.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/org/jgrapht/graph/SimpleGraph.java,1,85,16,16,SimpleGraph.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/org/jgrapht/graph/SimpleWeightedGraph.java,1,82,16,16,SimpleWeightedGraph.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/org/jgrapht/experimental/equivalence/EquivalenceComparator.java,1,93,10,10,EquivalenceComparator.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/org/jgrapht/VertexFactory.java,1,63,5,5,VertexFactory.java,False

@@ -1,0 +1,17 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/main/java/org/jfin/date/ScheduleGenerator.java,364,539,145,23,"ScheduleGenerator.generateSchedule(Calendar,Calendar,int,int,StubType,Period,int)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/main/java/org/jfin/date/daycount/defaultimpl/ISMAActualActual.java,51,219,136,19,"ISMAActualActual.calculateDaycountFraction(Calendar,Calendar,Calendar,Calendar)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/main/java/org/jfin/date/holiday/HolidayCalendar.java,223,305,61,15,"HolidayCalendar.adjust(Calendar,BusinessDayConvention,Calendar)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/main/java/org/jfin/date/holiday/financialcalendarimpl/InfoFileEntry.java,113,178,57,13,InfoFileEntry.parse(String),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/main/java/org/jfin/date/daycount/defaultimpl/AFBActualActual.java,42,103,54,17,"AFBActualActual.calculateDaycountFraction(Calendar,Calendar)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/main/java/org/jfin/date/TypedScheduleGenerator.java,101,168,50,11,"TypedScheduleGenerator.generateScheduleInternal(Calendar,Calendar,int,int,StubType)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/main/java/org/jfin/date/holiday/HolidayCalendar.java,101,148,44,14,"HolidayCalendar.advance(Calendar,int,int,BusinessDayConvention)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/main/java/org/jfin/date/daycount/defaultimpl/US30360.java,40,88,38,11,"US30360.calculateDaycountFraction(Calendar,Calendar)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,examples/DaycountFractionCalculator.java,39,150,99,10,DaycountFractionCalculator.main(String[]),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/example/java/DaycountFractionCalculator.java,39,150,99,10,DaycountFractionCalculator.main(String[]),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/main/java/org/jfin/date/Tenor.java,71,129,49,7,Tenor.parse(String),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/main/java/org/jfin/common/CSVFileFormatTokenizer.java,89,132,37,8,CSVFileFormatTokenizer.initialise(String),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/main/java/org/jfin/date/daycount/defaultimpl/IT30360.java,42,74,27,7,"IT30360.calculateDaycountFraction(Calendar,Calendar)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/main/java/org/jfin/date/daycount/DaycountCalculatorFactory.java,249,271,23,10,DaycountCalculatorFactory.getDaycountCalculator(String),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/main/java/org/jfin/date/ScheduleGenerator.java,558,573,16,6,ScheduleGenerator.getCalendarUnitDescriptor(int),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/main/java/org/jfin/date/holiday/financialcalendarimpl/InfoFileEntry.java,316,326,10,9,InfoFileEntry.toString(),False

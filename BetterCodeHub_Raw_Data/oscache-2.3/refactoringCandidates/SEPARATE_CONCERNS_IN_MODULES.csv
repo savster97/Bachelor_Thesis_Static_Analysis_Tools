@@ -1,0 +1,11 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/java/com/opensymphony/oscache/base/Cache.java,1,964,414,36,Cache.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/java/com/opensymphony/oscache/web/ServletCacheAdministrator.java,1,750,314,25,ServletCacheAdministrator.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/java/com/opensymphony/oscache/base/AbstractCacheAdministrator.java,1,417,159,23,AbstractCacheAdministrator.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/java/com/opensymphony/oscache/base/CacheEntry.java,1,311,113,27,CacheEntry.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/java/com/opensymphony/oscache/web/filter/ResponseContent.java,1,203,105,26,ResponseContent.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/java/com/opensymphony/oscache/base/Config.java,1,158,71,23,Config.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/java/com/opensymphony/oscache/base/events/CacheEvent.java,1,48,12,22,CacheEvent.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/com/opensymphony/oscache/base/algorithm/AbstractConcurrentReadCache.java,1,2084,922,17,AbstractConcurrentReadCache.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/com/opensymphony/oscache/base/EntryUpdateState.java,1,157,56,13,EntryUpdateState.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/com/opensymphony/oscache/base/persistence/PersistenceListener.java,1,96,15,15,PersistenceListener.java,False

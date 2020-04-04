@@ -1,0 +1,16 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,junit/framework/TestSuite.java,1,307,173,173,TestSuite.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,org/junit/runner/Description.java,1,242,115,115,Description.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,junit/framework/TestResult.java,1,169,100,100,TestResult.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,org/junit/runner/notification/RunNotifier.java,1,166,97,97,RunNotifier.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,junit/framework/TestCase.java,1,212,81,81,TestCase.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,org/junit/runner/Request.java,1,161,56,56,Request.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,org/junit/runner/notification/Failure.java,1,79,39,39,Failure.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,junit/extensions/TestDecorator.java,1,43,26,26,TestDecorator.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,org/junit/runner/notification/RunListener.java,1,93,20,20,RunListener.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,junit/runner/Version.java,1,18,11,11,Version.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,org/junit/runner/Runner.java,1,40,9,9,Runner.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,junit/framework/TestListener.java,1,23,7,7,TestListener.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,org/junit/runner/Describable.java,1,12,4,4,Describable.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,org/junit/runner/manipulation/Filterable.java,1,16,4,4,Filterable.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,org/junit/runner/manipulation/Sortable.java,1,17,4,4,Sortable.java,False

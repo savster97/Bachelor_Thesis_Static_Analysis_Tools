@@ -1,0 +1,11 @@
+className,weight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,10650.0,jung-visualization-2.0.1-sources,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,8116.0,jung-algorithms-2.0.1-sources,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,7792.0,jung-samples-2.0.1-sources,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,3018.0,jung-graph-impl-2.0.1-sources,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,2987.0,jung-io-2.0.1-sources,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,2451.0,jung-3d-2.0.1-sources,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,1298.0,jung-api-2.0.1-sources,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,882.0,jung-jai-samples-2.0.1-sources,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,686.0,jung-jai-2.0.1-sources,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,38.0,jung-3d-demos-2.0.1-sources,False

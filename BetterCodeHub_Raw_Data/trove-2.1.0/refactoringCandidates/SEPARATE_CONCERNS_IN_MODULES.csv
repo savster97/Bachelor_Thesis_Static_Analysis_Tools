@@ -1,0 +1,7 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/gnu/trove/TObjectHash.java,1,373,164,45,TObjectHash.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/gnu/trove/THash.java,1,410,138,48,THash.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/benchmark/Result.java,1,134,47,11,Result.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/benchmark/Reporter.java,1,32,13,13,Reporter.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/TLinkable.java,1,65,8,15,TLinkable.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/benchmark/Operation.java,1,25,6,14,Operation.java,False

@@ -1,0 +1,11 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/org/apache/velocity/app/VelocityEngine.java,1,549,182,182,VelocityEngine.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/org/apache/velocity/app/event/EventCartridge.java,1,364,178,178,EventCartridge.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/org/apache/velocity/app/Velocity.java,1,514,176,176,Velocity.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/org/apache/velocity/Template.java,1,352,164,164,Template.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/org/apache/velocity/context/AbstractContext.java,1,266,72,72,AbstractContext.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/org/apache/velocity/VelocityContext.java,1,187,60,60,VelocityContext.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/org/apache/velocity/app/event/MethodExceptionEventHandler.java,1,113,44,44,MethodExceptionEventHandler.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/org/apache/velocity/app/event/NullSetEventHandler.java,1,103,40,40,NullSetEventHandler.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/org/apache/velocity/app/event/ReferenceInsertionEventHandler.java,1,106,37,37,ReferenceInsertionEventHandler.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/org/apache/velocity/runtime/log/LogChute.java,1,95,19,19,LogChute.java,False

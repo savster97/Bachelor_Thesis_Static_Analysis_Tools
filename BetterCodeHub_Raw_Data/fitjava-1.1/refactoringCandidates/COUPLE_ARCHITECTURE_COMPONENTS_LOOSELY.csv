@@ -1,0 +1,14 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,examples/eg/AllFiles.java,1,179,146,146,AllFiles.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,examples/eg/AllCombinations.java,1,47,36,36,AllCombinations.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,source/imp/java/src/fit/Fixture.java,1,293,238,238,Fixture.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,source/imp/java/src/fit/TypeAdapter.java,1,252,205,205,TypeAdapter.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,source/imp/java/src/fit/Parse.java,1,238,200,200,Parse.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,source/imp/java/src/fit/RowFixture.java,1,205,183,183,RowFixture.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,source/imp/java/src/fit/ColumnFixture.java,1,103,81,81,ColumnFixture.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,source/imp/java/src/fit/FileRunner.java,1,80,66,66,FileRunner.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,source/imp/java/src/fit/ScientificDouble.java,1,77,57,57,ScientificDouble.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,source/imp/java/src/fit/ActionFixture.java,1,72,54,54,ActionFixture.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,source/imp/java/src/fit/PrimitiveFixture.java,1,57,40,40,PrimitiveFixture.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,source/imp/java/src/fit/TimedActionFixture.java,1,39,24,24,TimedActionFixture.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,source/imp/java/src/fit/Counts.java,1,26,20,20,Counts.java,False

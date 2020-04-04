@@ -1,0 +1,16 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/net/sourceforge/squirrel_sql/plugins/graph/TableFrameController.java,1,1496,1216,32,TableFrameController.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/net/sourceforge/squirrel_sql/plugins/graph/ConstraintView.java,1,764,572,24,ConstraintView.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/net/sourceforge/squirrel_sql/plugins/graph/GraphDesktopController.java,1,530,434,44,GraphDesktopController.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/net/sourceforge/squirrel_sql/plugins/graph/ConstraintData.java,1,249,203,24,ConstraintData.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/net/sourceforge/squirrel_sql/plugins/graph/ConstraintGraph.java,1,223,170,23,ConstraintGraph.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/net/sourceforge/squirrel_sql/plugins/graph/ColumnInfo.java,1,158,125,46,ColumnInfo.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/net/sourceforge/squirrel_sql/plugins/graph/xmlbeans/ColumnInfoXmlBean.java,1,126,103,24,ColumnInfoXmlBean.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/net/sourceforge/squirrel_sql/plugins/graph/Zoomer.java,1,104,87,39,Zoomer.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/net/sourceforge/squirrel_sql/plugins/graph/GraphLine.java,1,86,70,32,GraphLine.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/net/sourceforge/squirrel_sql/plugins/graph/GraphTextAreaFactory.java,1,101,78,13,GraphTextAreaFactory.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/net/sourceforge/squirrel_sql/plugins/graph/xmlbeans/TableFrameControllerXmlBean.java,1,94,76,15,TableFrameControllerXmlBean.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/net/sourceforge/squirrel_sql/plugins/graph/xmlbeans/FormatXmlBean.java,1,83,64,20,FormatXmlBean.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/net/sourceforge/squirrel_sql/plugins/graph/xmlbeans/ConstraintDataXmlBean.java,1,72,58,13,ConstraintDataXmlBean.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/net/sourceforge/squirrel_sql/plugins/graph/xmlbeans/GraphControllerXmlBean.java,1,73,58,12,GraphControllerXmlBean.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/net/sourceforge/squirrel_sql/plugins/graph/FoldingPoint.java,1,66,54,19,FoldingPoint.java,False

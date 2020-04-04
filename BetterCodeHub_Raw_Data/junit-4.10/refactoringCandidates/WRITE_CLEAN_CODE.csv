@@ -1,0 +1,12 @@
+className,category,severity,filename,startLine,endLine,lineRanges,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,BLOCKS_OF_CODE_IN_COMMENTS,VERY_HIGH,org/junit/experimental/categories/Category.java,1,0,"[{'startLine': 23, 'endLine': 27}]",1,1,Category.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,BLOCKS_OF_CODE_IN_COMMENTS,VERY_HIGH,junit/framework/TestCase.java,1,0,"[{'startLine': 152, 'endLine': 152}]",1,1,TestCase.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,NR_OF_TODO_COMMENTS,VERY_HIGH,junit/framework/TestSuite.java,1,0,"[{'startLine': 26, 'endLine': 26}]",1,1,TestSuite.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,empty_catch,VERY_HIGH,junit/framework/TestSuite.java,1,0,"[{'startLine': 84, 'endLine': 84}]",1,1,TestSuite.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,empty_catch,VERY_HIGH,org/junit/experimental/theories/Theories.java,1,0,"[{'startLine': 168, 'endLine': 168}]",1,1,Theories.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,empty_catch,VERY_HIGH,org/junit/internal/runners/ClassRoadie.java,1,0,"[{'startLine': 45, 'endLine': 45}]",1,1,ClassRoadie.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,empty_catch,VERY_HIGH,junit/runner/BaseTestRunner.java,1,0,"[{'startLine': 235, 'endLine': 235}, {'startLine': 251, 'endLine': 251}]",2,2,BaseTestRunner.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,empty_catch,VERY_HIGH,junit/textui/TestRunner.java,1,0,"[{'startLine': 131, 'endLine': 131}]",1,1,TestRunner.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,empty_catch,VERY_HIGH,org/junit/experimental/theories/internal/AllMembersSupplier.java,1,0,"[{'startLine': 78, 'endLine': 78}]",1,1,AllMembersSupplier.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,empty_catch,VERY_HIGH,org/junit/internal/runners/statements/FailOnTimeout.java,1,0,"[{'startLine': 64, 'endLine': 64}]",1,1,FailOnTimeout.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,empty_catch,VERY_HIGH,org/junit/internal/runners/MethodRoadie.java,1,0,"[{'startLine': 95, 'endLine': 95}]",1,1,MethodRoadie.java,False

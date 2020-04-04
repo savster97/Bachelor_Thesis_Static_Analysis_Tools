@@ -1,0 +1,16 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/java12/com/vladium/jcd/cls/ClassDef.java,1,732,459,459,ClassDef.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/java12/com/vladium/util/Property.java,1,557,344,344,Property.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/java12/com/vladium/emma/data/MergeProcessor.java,1,368,248,248,MergeProcessor.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/java12/com/vladium/emma/report/ReportProcessor.java,1,341,233,233,ReportProcessor.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/java12/com/vladium/util/IProperties.java,1,370,224,224,IProperties.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/java12/com/vladium/emma/instr/InstrProcessor.java,1,319,201,201,InstrProcessor.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/java12/com/vladium/jcd/parser/ClassDefParser.java,1,311,192,192,ClassDefParser.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/java12/com/vladium/util/ByteArrayOStream.java,1,320,160,160,ByteArrayOStream.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/java12/com/vladium/util/Descriptors.java,1,239,140,140,Descriptors.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/java12/com/vladium/emma/EMMAProperties.java,1,202,105,105,EMMAProperties.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/java12/com/vladium/emma/Processor.java,1,119,62,62,Processor.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/java12/com/vladium/emma/report/IReportProperties.java,1,82,40,40,IReportProperties.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/java12/com/vladium/jcd/cls/constant/CONSTANT_Class_info.java,1,98,40,40,CONSTANT_Class_info.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/java12/com/vladium/jcd/cls/IConstantCollection.java,1,175,26,26,IConstantCollection.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/java12/com/vladium/util/asserts/$assert.java,1,60,21,21,$assert.java,False

@@ -1,0 +1,15 @@
+className,weight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,177616.0,ad,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,112696.0,base,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,49233.0,client,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,13488.0,tools,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,11837.0,serverRoot,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,10683.0,print,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,6029.0,install,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,5758.0,serverApps,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,4792.0,common,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,2857.0,webCM,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,2657.0,sqlj,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,530.0,xuom,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,283.0,extend,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,152.0,interfaces,False

@@ -1,0 +1,17 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/java/org/quilt/cl/QuiltClassLoader.java,125,157,31,5,"QuiltClassLoader.$constructor(URL[],ClassLoader,String[],String[],String[])",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/cl/TryStacks.java,96,139,35,3,"TryStacks.$constructor(CodeExceptionGen[],SortedBlocks,ControlFlowGraph)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/reports/XMLFormatter.java,205,228,21,3,"XMLFormatter.formatError(String,Test,Throwable)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/cl/MethodTransformer.java,160,178,18,3,"MethodTransformer.dumpExceptionHandlers(MethodGen,String,int)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/cl/SortedBlocks.java,64,86,18,3,"SortedBlocks.find(int,ControlFlowGraph,Edge)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/runner/Msg.java,58,78,16,4,"Msg.$constructor(String,int,char,char)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/cover/stmt/GraphAction.java,192,218,15,3,"GraphAction.xform(ClassGen,MethodGen,ControlFlowGraph)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/graph/Directed.java,92,111,14,3,"Directed.connectSubgraph(Directed,Edge,int)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/reports/PlainFormatter.java,116,129,13,3,"PlainFormatter.formatError(String,Test,Throwable)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/reports/BriefFormatter.java,99,112,12,3,"BriefFormatter.formatError(String,Test,Throwable)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/cover/stmt/StmtRegistry.java,238,245,7,3,"StmtRegistry.registerMethods(String,String[],int[])",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/cl/CatchData.java,29,35,6,4,"CatchData.$constructor(Vertex,Vertex,Vertex,ObjectType)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/cl/ClassTransformer.java,46,51,6,3,"ClassTransformer.$constructor(List,List,List)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/cl/GraphTalker.java,87,91,4,3,"GraphTalker.xform(ClassGen,MethodGen,ControlFlowGraph)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/runner/Msg.java,49,51,3,3,"Msg.$constructor(String,int,char)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/cl/GraphXformer.java,24,25,0,3,"GraphXformer.xform(ClassGen,MethodGen,ControlFlowGraph)",False

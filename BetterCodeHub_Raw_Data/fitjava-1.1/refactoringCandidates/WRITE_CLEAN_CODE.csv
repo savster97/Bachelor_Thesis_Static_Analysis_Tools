@@ -1,0 +1,10 @@
+className,category,severity,filename,startLine,endLine,lineRanges,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,BLOCKS_OF_CODE_IN_COMMENTS,VERY_HIGH,source/imp/java/src/eg/net/GeoCoordinate.java,1,0,"[{'startLine': 6, 'endLine': 6}]",1,1,GeoCoordinate.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,BLOCKS_OF_CODE_IN_COMMENTS,VERY_HIGH,spec/fat/FatTest.java,1,0,"[{'startLine': 52, 'endLine': 64}]",1,1,FatTest.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,BLOCKS_OF_CODE_IN_COMMENTS,VERY_HIGH,source/imp/java/src/fat/FatTest.java,1,0,"[{'startLine': 52, 'endLine': 64}]",1,1,FatTest.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,BLOCKS_OF_CODE_IN_COMMENTS,VERY_HIGH,source/imp/java/src/fit/ScientificDouble.java,1,0,"[{'startLine': 49, 'endLine': 49}]",1,1,ScientificDouble.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,BLOCKS_OF_CODE_IN_COMMENTS,VERY_HIGH,source/imp/java/src/fit/Fixture.java,1,0,"[{'startLine': 73, 'endLine': 73}, {'startLine': 85, 'endLine': 85}]",2,2,Fixture.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,BLOCKS_OF_CODE_IN_COMMENTS,VERY_HIGH,source/imp/java/src/fat/Table.java,1,0,"[{'startLine': 19, 'endLine': 19}]",1,1,Table.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,BLOCKS_OF_CODE_IN_COMMENTS,VERY_HIGH,spec/fat/Table.java,1,0,"[{'startLine': 19, 'endLine': 19}]",1,1,Table.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,BLOCKS_OF_CODE_IN_COMMENTS,VERY_HIGH,examples/eg/net/GeoCoordinate.java,1,0,"[{'startLine': 6, 'endLine': 6}]",1,1,GeoCoordinate.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidateWithCategory,BLOCKS_OF_CODE_IN_COMMENTS,VERY_HIGH,source/imp/java/src/fit/Parse.java,1,0,"[{'startLine': 44, 'endLine': 44}]",1,1,Parse.java,False

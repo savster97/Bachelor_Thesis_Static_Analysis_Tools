@@ -1,0 +1,16 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,examples/mbeans/dynamic/src/examples/mbeans/dynamic/DynamicServerInfo.java,262,371,96,28,"DynamicServerInfo.invoke(String,Object[],String[])",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,examples/mbeans/dynamic/src/examples/mbeans/dynamic/DynamicLogConfig.java,268,367,86,34,"DynamicLogConfig.invoke(String,Object[],String[])",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,tutorials/src/tutorials/application/shoppingcart/ItemDialog.java,265,370,91,11,ItemDialog.setUpProperties(),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,examples/notification/src/examples/mbeans/dynamic/DynamicServerInfo.java,262,334,64,24,"DynamicServerInfo.invoke(String,Object[],String[])",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,tutorials/src/tutorials/application/shoppingcart/ShoppingCartApplication.java,111,170,60,13,ShoppingCartApplication.actionPerformed(ActionEvent),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,tutorials/src/tutorials/mbeans/dynamic/InventoryManager.java,272,337,46,12,"InventoryManager.invoke(String,Object[],String[])",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,examples/notification/src/examples/mbeans/dynamic/DynamicServerInfo.java,121,165,42,12,DynamicServerInfo.getAttribute(String),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,examples/mbeans/dynamic/src/examples/mbeans/dynamic/DynamicServerInfo.java,125,168,39,12,DynamicServerInfo.getAttribute(String),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,examples/mbeans/dynamic/src/examples/mbeans/dynamic/DynamicLogConfig.java,107,150,38,11,DynamicLogConfig.getAttribute(String),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,tutorials/src/tutorials/application/shoppingcart/ShoppingCartApplication.java,271,379,96,10,ShoppingCartApplication.setUpProperties(),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,tutorials/src/tutorials/mbeans/dynamic/InventoryManager.java,119,189,48,9,InventoryManager.getAttribute(String),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,examples/mbeans/dynamic/src/examples/mbeans/dynamic/DynamicLogConfig.java,154,206,47,10,DynamicLogConfig.setAttribute(Attribute),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,examples/notification/src/examples/mbeans/dynamic/DynamicServerInfo.java,169,212,40,9,DynamicServerInfo.setAttribute(Attribute),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,examples/mbeans/dynamic/src/examples/mbeans/dynamic/DynamicServerInfo.java,172,213,35,9,DynamicServerInfo.setAttribute(Attribute),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,tutorials/src/tutorials/application/shoppingcart/ShoppingCart.java,69,86,17,8,"ShoppingCart.addItem(String,Integer)",False

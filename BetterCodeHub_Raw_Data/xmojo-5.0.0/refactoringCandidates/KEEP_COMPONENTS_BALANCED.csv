@@ -1,0 +1,4 @@
+className,weight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,2484.0,examples,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,1567.0,tutorials,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,34.0,bin,False

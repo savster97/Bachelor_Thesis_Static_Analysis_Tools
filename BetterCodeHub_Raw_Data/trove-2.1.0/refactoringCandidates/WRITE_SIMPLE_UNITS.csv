@@ -1,0 +1,13 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/gnu/trove/generate/Generate.java,211,328,87,14,"Generate.generateDecoratorsClass(File,File)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/gnu/trove/TObjectHash.java,230,292,39,16,TObjectHash.insertionIndex(T),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/gnu/trove/THashMap.java,480,502,20,11,THashMap.containsValue(Object),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/benchmark/CompactionBenchmark.java,30,85,41,6,CompactionBenchmark.main(String[]),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/benchmark/Main.java,153,199,40,6,Main.getRandomSetContainsOp(),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/benchmark/Main.java,360,399,34,6,Main.getAdjustCompareOp(),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/TLinkedList.java,403,440,29,7,TLinkedList.remove(Object),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/generate/Generate.java,412,442,27,6,"Generate.readFile(String,File)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/TLinkedList.java,230,260,23,6,TLinkedList.get(int),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/TLinkedList.java,558,579,21,8,IteratorImpl.$constructor(int),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/TObjectHash.java,191,218,21,9,TObjectHash.index(T),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/THashMap.java,545,560,13,7,ValueView.removeElement(V),False

@@ -1,0 +1,14 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/net/wastl/webmail/server/WebMailServer.java,1,478,309,101,WebMailServer.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/net/wastl/webmail/server/http/HTTPRequestHeader.java,1,133,97,72,HTTPRequestHeader.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/net/wastl/webmail/server/UserData.java,1,359,48,60,UserData.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/net/wastl/webmail/ui/html/HTMLDocument.java,1,111,50,24,HTMLDocument.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/net/wastl/webmail/exceptions/WebMailException.java,1,71,33,41,WebMailException.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/net/wastl/webmail/server/Plugin.java,1,70,9,24,Plugin.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/net/wastl/webmail/misc/ExpireableCache.java,1,231,137,18,ExpireableCache.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/net/wastl/webmail/misc/ByteStore.java,1,131,78,20,ByteStore.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/net/wastl/webmail/server/ToplevelURLHandler.java,1,150,78,20,ToplevelURLHandler.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/net/wastl/webmail/server/Authenticator.java,1,123,33,14,Authenticator.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/net/wastl/webmail/server/HTTPSession.java,1,72,23,17,HTTPSession.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/net/wastl/webmail/server/URLHandler.java,1,47,11,20,URLHandler.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/net/wastl/webmail/exceptions/InvalidPasswordException.java,1,43,9,17,InvalidPasswordException.java,False

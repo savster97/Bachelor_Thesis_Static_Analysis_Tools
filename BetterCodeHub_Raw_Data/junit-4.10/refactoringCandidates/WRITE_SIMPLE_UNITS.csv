@@ -1,0 +1,17 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,junit/runner/BaseTestRunner.java,93,140,46,10,BaseTestRunner.getTest(String),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,junit/textui/TestRunner.java,152,184,30,9,TestRunner.start(String[]),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,junit/framework/TestSuite.java,51,75,25,7,"TestSuite.createTest(Class,String)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,org/junit/internal/ComparisonCriteria.java,28,55,24,8,"ComparisonCriteria.arrayEquals(String,Object,Object)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,org/junit/internal/runners/JUnit38ClassRunner.java,95,119,24,7,JUnit38ClassRunner.makeDescription(Test),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,junit/framework/TestSuite.java,132,155,22,6,TestSuite.addTestsFromTestCase(Class),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,org/junit/internal/runners/MethodValidator.java,67,90,22,8,"MethodValidator.validateTestMethods(Class,boolean)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,org/junit/internal/runners/MethodRoadie.java,103,122,20,7,MethodRoadie.runTestMethod(),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,junit/runner/BaseTestRunner.java,153,171,19,6,BaseTestRunner.processArguments(String[]),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,org/junit/experimental/theories/internal/AllMembersSupplier.java,94,109,15,7,"AllMembersSupplier.addFields(ParameterSignature,List)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,org/junit/internal/runners/TestClass.java,41,54,14,6,TestClass.getAnnotatedMethods(Class),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,org/junit/runners/model/TestClass.java,34,48,14,6,TestClass.$constructor(Class),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,org/junit/Assert.java,117,129,12,8,"Assert.assertEquals(String,Object,Object)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,org/junit/experimental/categories/Categories.java,110,121,12,8,CategoryFilter.hasCorrectCategoryAnnotation(Description),False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,org/junit/runners/model/FrameworkMethod.java,81,92,12,6,"FrameworkMethod.validatePublicVoid(boolean,List)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,junit/framework/Assert.java,79,86,8,6,"Assert.assertEquals(String,String,String)",False

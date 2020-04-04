@@ -1,0 +1,14 @@
+className,weight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,45983.0,cpa,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,31547.0,xml,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,20979.0,schema,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,17691.0,codegen,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,4119.0,ddlgen,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,2399.0,xmlctf-framework,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,1856.0,jpa-extensions-it,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,1695.0,core,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,1023.0,examples,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,911.0,diff,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,687.0,anttask,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,369.0,src,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,97.0,maven-plugins,False

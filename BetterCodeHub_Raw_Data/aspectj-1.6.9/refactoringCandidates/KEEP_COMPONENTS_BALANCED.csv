@@ -1,0 +1,5 @@
+className,weight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,379558.0,aspectjtools1.6.9,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,79409.0,aspectjweaver1.6.9,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,38396.0,org.aspectj.matcher-1.6.9,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,4159.0,aspectjrt1.6.9,False

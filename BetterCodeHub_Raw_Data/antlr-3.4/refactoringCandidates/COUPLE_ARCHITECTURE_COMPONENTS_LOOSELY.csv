@@ -1,0 +1,16 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,runtime/ObjC/Framework/ANTLRBaseRecognizer.m,1,1129,630,630,ANTLRBaseRecognizer.m,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,runtime/ObjC/Framework/ANTLRLexer.m,1,428,307,307,ANTLRLexer.m,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,runtime/ObjC/Framework/ANTLRCommonTokenStream.m,1,352,262,262,ANTLRCommonTokenStream.m,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,runtime/ObjC/Framework/ANTLRRecognizerSharedState.m,1,331,249,249,ANTLRRecognizerSharedState.m,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,runtime/ObjC/Framework/ANTLRRewriteRuleElementStream.m,1,258,204,204,ANTLRRewriteRuleElementStream.m,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,runtime/ObjC/Framework/ANTLRRuntimeException.m,1,279,192,192,ANTLRRuntimeException.m,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,runtime/ObjC/Framework/ANTLRCommonTreeNodeStream.m,1,249,166,166,ANTLRCommonTreeNodeStream.m,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,runtime/ObjC/Framework/ANTLRCommonTreeAdaptor.m,1,240,148,148,ANTLRCommonTreeAdaptor.m,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,runtime/ObjC/Framework/ANTLRRewriteRuleTokenStream.m,1,128,75,75,ANTLRRewriteRuleTokenStream.m,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,runtime/ObjC/Framework/ANTLRRewriteRuleSubtreeStream.m,1,101,57,57,ANTLRRewriteRuleSubtreeStream.m,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,runtime/ObjC/Framework/ANTLRParserRuleReturnScope.m,1,80,41,41,ANTLRParserRuleReturnScope.m,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,runtime/ObjC/Framework/ANTLRMismatchedSetException.m,1,79,37,37,ANTLRMismatchedSetException.m,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,runtime/ObjC/Framework/ANTLRNoViableAltException.m,1,83,36,36,ANTLRNoViableAltException.m,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,runtime/ObjC/Framework/ANTLRTreeRuleReturnScope.m,1,81,36,36,ANTLRTreeRuleReturnScope.m,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,runtime/ObjC/Framework/ANTLREarlyExitException.m,1,54,20,20,ANTLREarlyExitException.m,False

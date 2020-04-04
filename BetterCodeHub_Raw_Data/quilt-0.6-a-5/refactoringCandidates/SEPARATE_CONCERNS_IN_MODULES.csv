@@ -1,0 +1,11 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/org/quilt/graph/Vertex.java,1,157,90,81,Vertex.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/org/quilt/graph/Edge.java,1,114,74,56,Edge.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/java/org/quilt/frontend/ant/TaskControl.java,1,314,255,28,TaskControl.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/java/org/quilt/graph/Directed.java,1,273,137,44,Directed.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/java/org/quilt/cl/CodeVertex.java,1,262,115,27,CodeVertex.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/java/org/quilt/frontend/ant/Scheduler.java,1,120,59,29,Scheduler.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/cl/SortedBlocks.java,1,170,91,18,SortedBlocks.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/cl/ControlFlowGraph.java,1,100,46,11,ControlFlowGraph.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/graph/Visitor.java,1,38,9,12,Visitor.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/java/org/quilt/graph/Connector.java,1,44,7,14,Connector.java,False

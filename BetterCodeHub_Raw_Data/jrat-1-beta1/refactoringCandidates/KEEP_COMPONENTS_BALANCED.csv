@@ -1,0 +1,4 @@
+className,weight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,26236.0,tags,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,11641.0,branches,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,11478.0,trunk,False

@@ -1,0 +1,11 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/com/opensymphony/oscache/base/events/CacheEntryEvent.java,1,76,27,27,CacheEntryEvent.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/com/opensymphony/oscache/base/events/ScopeEvent.java,1,78,25,25,ScopeEvent.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/com/opensymphony/oscache/base/events/CacheGroupEvent.java,1,71,23,23,CacheGroupEvent.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/com/opensymphony/oscache/base/events/CacheMapAccessEvent.java,1,71,23,23,CacheMapAccessEvent.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/com/opensymphony/oscache/base/events/CachePatternEvent.java,1,69,23,23,CachePatternEvent.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/com/opensymphony/oscache/base/events/CachewideEvent.java,1,59,18,18,CachewideEvent.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/com/opensymphony/oscache/base/events/CacheEvent.java,1,48,12,12,CacheEvent.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/com/opensymphony/oscache/base/events/CacheEntryEventListener.java,1,55,10,10,CacheEntryEventListener.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/com/opensymphony/oscache/base/events/CacheMapAccessEventListener.java,1,21,4,4,CacheMapAccessEventListener.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/java/com/opensymphony/oscache/base/events/ScopeEventListener.java,1,21,4,4,ScopeEventListener.java,False

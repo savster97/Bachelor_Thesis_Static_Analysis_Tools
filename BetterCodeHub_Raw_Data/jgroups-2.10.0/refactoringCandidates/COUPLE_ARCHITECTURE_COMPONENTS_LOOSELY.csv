@@ -1,0 +1,5 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/org/jgroups/JChannel.java,1,2188,1217,1217,JChannel.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/org/jgroups/Message.java,1,761,449,449,Message.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/org/jgroups/Channel.java,1,626,193,193,Channel.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/org/jgroups/ReceiverAdapter.java,1,27,16,16,ReceiverAdapter.java,False

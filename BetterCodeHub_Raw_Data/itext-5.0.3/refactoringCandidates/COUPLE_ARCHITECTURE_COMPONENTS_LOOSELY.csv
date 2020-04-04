@@ -1,0 +1,10 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/com/itextpdf/text/pdf/PdfReader.java,1,3670,2887,2887,PdfReader.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/com/itextpdf/text/Document.java,1,828,280,280,Document.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/com/itextpdf/text/pdf/IntHashtable.java,1,479,243,243,IntHashtable.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/com/itextpdf/text/pdf/PdfArray.java,1,550,167,167,PdfArray.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/com/itextpdf/text/pdf/PdfDictionary.java,1,524,161,161,PdfDictionary.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/com/itextpdf/text/pdf/PdfPageLabels.java,1,292,161,161,PdfPageLabels.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/com/itextpdf/text/pdf/PdfObject.java,1,393,101,101,PdfObject.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/com/itextpdf/text/pdf/PdfString.java,1,237,97,97,PdfString.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,core/com/itextpdf/text/pdf/PdfIndirectReference.java,1,126,25,25,PdfIndirectReference.java,False

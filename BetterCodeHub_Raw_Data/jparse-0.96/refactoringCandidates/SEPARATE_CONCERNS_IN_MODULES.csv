@@ -1,0 +1,12 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,jparse/Type.java,1,884,417,130,Type.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,jparse/JavaAST.java,1,187,74,52,JavaAST.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,jparse/expr/ExpressionAST.java,1,152,38,172,ExpressionAST.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,jparse/stmt/StatementAST.java,1,138,34,102,StatementAST.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,jparse/JavaTokenTypes.java,1,190,157,35,JavaTokenTypes.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,jparse/VarList.java,1,277,151,37,VarList.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,jparse/expr/IdentifierAST.java,1,209,108,47,IdentifierAST.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,jparse/CompiledType.java,1,531,361,14,CompiledType.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,jparse/TypeAST.java,1,241,96,15,TypeAST.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,jparse/expr/ListAST.java,1,148,74,12,ListAST.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,jparse/Method.java,1,138,14,18,Method.java,False

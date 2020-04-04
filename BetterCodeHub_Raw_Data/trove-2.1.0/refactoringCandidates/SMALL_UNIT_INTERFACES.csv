@@ -1,0 +1,12 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/gnu/trove/generate/Generate.java,131,170,32,5,"Generate.generateP2P(String,String,String,File,File)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,src/gnu/trove/generate/Generate.java,106,129,19,5,"Generate.generate(String,String,String,File,File)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/generate/Generate.java,330,379,37,3,"Generate.writeFile(String,String,File)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/THashMap.java,180,197,17,3,"THashMap.doPut(K,V,int)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/benchmark/CompactionBenchmark.java,88,100,10,4,"CompactionBenchmark.runTest(int[],Integer[],TIntObjectHashMap,Random)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/generate/Generate.java,451,458,6,4,"WrapperInfo.$constructor(String,String,String,String)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/THashMap.java,731,735,5,3,"Entry.$constructor(K,V,int)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/benchmark/MemoryUsage.java,107,113,5,3,"MemoryComparator.$constructor(Creator,Creator,String)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/TObjectHash.java,118,121,4,3,"TObjectHash.$constructor(int,float,TObjectHashingStrategy)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/THashMap.java,100,102,3,3,"THashMap.$constructor(int,float,TObjectHashingStrategy)",False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,src/gnu/trove/THashSet.java,105,107,3,3,"THashSet.$constructor(int,float,TObjectHashingStrategy)",False

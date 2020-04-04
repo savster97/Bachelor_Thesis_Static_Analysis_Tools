@@ -1,0 +1,9 @@
+className,weight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,174196.0,ireport-designer,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,19982.0,jasperserver-plugin,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,16081.0,jasperreports-components,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,4451.0,ireport-addons,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,1492.0,ireport-standalone-specific,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,936.0,jasperreports-extensions,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,272.0,ireport-samples,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringComponentCandidate,51.0,heartbeat,False

@@ -1,0 +1,15 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,at/bestsolution/drawswf/MainWindow.java,1,271,185,185,MainWindow.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,com/anotherbigidea/flash/movie/Shape.java,1,771,518,518,Shape.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,com/anotherbigidea/flash/movie/Movie.java,1,382,213,213,Movie.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,com/anotherbigidea/flash/movie/ImageUtil.java,1,251,141,141,ImageUtil.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,com/anotherbigidea/flash/structs/Matrix.java,1,194,128,128,Matrix.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,org/apache/batik/ext/awt/RadialGradientPaint.java,1,485,119,119,RadialGradientPaint.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,com/incors/plaf/kunststoff/KunststoffLookAndFeel.java,1,210,98,98,KunststoffLookAndFeel.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,org/apache/batik/ext/awt/MultipleGradientPaint.java,1,235,94,94,MultipleGradientPaint.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,at/bestsolution/ext/swing/dialog/JGradientChooser.java,1,155,89,89,JGradientChooser.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,org/apache/batik/ext/awt/LinearGradientPaint.java,1,348,88,88,LinearGradientPaint.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,com/anotherbigidea/flash/structs/AlphaTransform.java,1,134,77,77,AlphaTransform.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,com/anotherbigidea/flash/movie/Transform.java,1,118,50,50,Transform.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,com/anotherbigidea/flash/structs/AlphaColor.java,1,86,40,40,AlphaColor.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,com/incors/plaf/kunststoff/KunststoffTheme.java,1,44,18,18,KunststoffTheme.java,False

@@ -1,0 +1,2 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,templates/java5_2_tier/src/web-tapestry4/js/dojo/src/storage/storage.sh,1,3,1,1,storage.sh,False

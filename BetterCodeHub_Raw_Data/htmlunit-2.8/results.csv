@@ -1,0 +1,11 @@
+guideline,qualityProfileComplianceThresholds,qualityProfileVolume,isCompliant,hasComplianceChanged,isGuidelineScoreWorse,refactoringCandidates,guidelineMetrics
+WRITE_SHORT_UNITS,"[0.5630000000000001, 0.437, 0.223, 0.069]","[0, 0, 0, 0]",True,False,False,,
+WRITE_SIMPLE_UNITS,"[0.748, 0.252, 0.1, 0.015]","[0, 0, 0, 0]",True,False,False,,
+WRITE_CODE_ONCE,"[0.9540000000000001, 0.046]","[0, 0]",True,False,False,,
+SMALL_UNIT_INTERFACES,"[0.862, 0.138, 0.027, 0.007]","[0, 0, 0, 0]",True,False,False,,
+SEPARATE_CONCERNS_IN_MODULES,"[0.784, 0.216, 0.138, 0.066]","[0, 0, 0, 0]",True,False,False,,
+COUPLE_ARCHITECTURE_COMPONENTS_LOOSELY,"[0.858, 0.14200000000000002]","[0, 0]",True,False,False,,
+KEEP_COMPONENTS_BALANCED,"[71.0, 2.0, 12.0]","[0, 0, 0]",False,False,False,,
+KEEP_YOUR_CODEBASE_SMALL,"[1.0, 0.0]","[0, 0]",True,False,False,"[{'className': 'nl.sig.bettercodehub.dataaccess.datamodel.RefactoringSystemCandidate', 'volumeInManMonths': 0.0, 'isSnoozed': False}]",
+AUTOMATE_TESTS,"[0.8, 0.2]",,False,False,False,,"{'className': 'nl.sig.bettercodehub.dataaccess.datamodel.AutomateTestsGuidelineMetrics', 'linesOfProductionCodeTotal': 0.0, 'linesOfTestCodeTotal': 0.0, 'linesOfTestCodeForAssertDensity': 0.0, 'numberOfAsserts': 0.0, 'linesOfTestCodeZeroAsserts': 0.0, 'linesOfTestCodeOneAssert': 0.0, 'linesOfTestCodeMultipleAsserts': 0.0}"
+WRITE_CLEAN_CODE,"[0.99, 0.01]","[0, 0]",True,False,False,,

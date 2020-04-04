@@ -1,0 +1,5 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,HIGH,tutorials/src/tutorials/application/shoppingcart/ShoppingItem.java,1,128,48,23,ShoppingItem.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,tutorials/src/tutorials/application/shoppingcart/ShoppingCart.java,1,249,139,19,ShoppingCart.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,tutorials/src/tutorials/application/shoppingcart/Store.java,1,178,91,17,Store.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,MEDIUM,tutorials/src/tutorials/application/shoppingcart/StringWrapper.java,1,69,20,17,StringWrapper.java,False

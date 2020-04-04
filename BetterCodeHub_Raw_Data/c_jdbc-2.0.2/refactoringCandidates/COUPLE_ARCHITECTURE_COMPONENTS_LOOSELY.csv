@@ -1,0 +1,5 @@
+className,severity,filename,startLine,endLine,weight,guidelineWeight,name,isSnoozed
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/org/objectweb/cjdbc/common/jmx/JmxConstants.java,1,240,87,87,JmxConstants.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/org/objectweb/cjdbc/common/jmx/mbeans/VirtualDatabaseMBean.java,1,557,75,75,VirtualDatabaseMBean.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/org/objectweb/cjdbc/controller/authentication/PasswordAuthenticator.java,1,137,68,68,PasswordAuthenticator.java,False
+nl.sig.bettercodehub.dataaccess.datamodel.RefactoringFileCandidate,VERY_HIGH,src/org/objectweb/cjdbc/common/users/VirtualDatabaseUser.java,1,62,16,16,VirtualDatabaseUser.java,False
