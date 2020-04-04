@@ -1,0 +1,131 @@
+,coverityScanIssue
+0,Resource leak
+1,Dm: Dubious method used
+2,SBSC: String concatenation in loop using + operator
+3,USELESS_STRING: Useless/non-informative string generated
+4,Resource leak on an exceptional path
+5,Explicit null dereferenced
+6,DE: Dropped or ignored exception
+7,Division or modulo by zero
+8,Dereference null return value
+9,ES: Checking String equality using == or !=
+10,BC: Bad casts of object references
+11,WMI: Inefficient Map Iterator
+12,Dereference before null check
+13,Value not atomically updated
+14,LI: Unsynchronized Lazy Initialization
+15,Logically dead code
+16,HE: Equal objects must have equal hashcodes
+17,Missing call to superclass
+18,Ignoring number of bytes read
+19,RV: Bad use of return value
+20,DMI: Dubious method invocation
+21,NP: Null pointer dereference
+22,Risky cryptographic hashing function
+23,Dereference after null check
+24,Failure to call super.clone()
+25,Unguarded read
+26,Eq: Problems with implementation of equals()
+27,Check of thread-shared field evades lock acquisition
+28,Unguarded write
+29,FI: Incorrect use of finalizers
+30,Arguments in wrong order
+31,Bad choice of lock object
+32,Useless call
+33,Unintentional integer overflow
+34,DLS: Dead local store
+35,Missing break in switch
+36,RC: Questionable use of reference equality rather than calling equals
+37,Using invalid iterator
+38,Information exposure to log file
+39,Bad bit shift operation
+40,SA: Useless self-operation
+41,Unchecked return value
+42,EC: Comparing incompatible types for equality
+43,FE: Test for floating point equality
+44,IM: Questionable integer math
+45,CN: Bad implementation of cloneable idiom
+46,Division or modulo by float zero
+47,Structurally dead code
+48,Call to an inherently dangerous function
+49,Data race condition
+50,DL: Unintended contention or possible deadlock due to locking on shared objects
+51,Result is not floating-point
+52,Infinite loop
+53,SC: Constructor invokes Thread.start()
+54,FS: Format string problem
+55,UPM: Private method is never called
+56,REC: RuntimeException capture
+57,Unused value
+58,ICAST: Casting from integer values
+59,Wrong operator used
+60,Same on both sides
+61,Copy-paste error
+62,Unsafe deserialization
+63,Use of hard-coded cryptographic key
+64,Risky cryptographic function
+65,'Constant' variable guards dead code
+66,Bx: Questionable Boxing of primitive value
+67,Indefinite wait
+68,Use of freed resources
+69,Thread deadlock
+70,NS: Suspicious use of non-short-circuit boolean operator
+71,UR: Uninitialized read of field in constructor
+72,Nesting level does not match indentation
+73,Failure to restore non-local value
+74,BSHIFT: Bad shift
+75,INT: Suspicious integer expression
+76,Insecure SSL/TLS: SSLSession hostname not verified
+77,Risky cryptographic SSL protocol
+78,NN: Naked notify
+79,UCF: Useless control flow
+80,Wrong method called
+81,STCAL: Static use of type Calendar or DateFormat
+82,Exception not thrown
+83,SWL: Sleep with lock held
+84,TLW: Wait with two locks held
+85,It: Incorrect definition of Iterator
+86,Volatile not atomically updated
+87,Hashing a password with a weak salt
+88,"Filesystem path, filename, or URI manipulation"
+89,Unintended regular expression
+90,Identical code for different branches
+91,Failure to call super.finalize()
+92,Use of hard-coded password
+93,Operands don't affect result
+94,IL: Infinite Loop
+95,Exception leaked to user interface
+96,Thread unsafe modification in singleton
+97,Nm: Confusing name
+98,QF: Questionable for loops
+99,Insecure SSL/TLS: bad HostnameVerifier
+100,Cross-site scripting
+101,"UG: Unsynchronized get method, synchronized set method"
+102,RpC: Repeated conditional test
+103,Insecure random value used in security context
+104,DP: Use doPrivileged
+105,Regular expression injection
+106,JLM: Synchronization on java.util.concurrent objects
+107,SF: Switch case falls through
+108,IP: Ignored parameter
+109,Very weak password hashing
+110,AT: Possible atomicity violation
+111,GC: Suspicious calls to generic collection methods
+112,Missing authorization check
+113,ESync: Empty Synchronized blocks
+114,UMAC: Uncallable method of anonymous class
+115,IA: Ambiguous invocation
+116,Unexpected control flow
+117,IC: Initialization circularity
+118,OGNL injection
+119,Unsafe reflection
+120,Dead default in switch
+121,Se: Incorrect definition of Serializable class
+122,SIC: Inner class could be made static
+123,UwF: Unwritten field
+124,UuF: Unused field
+125,UrF: Unread field
+126,MF: Masked Field
+127,SS: Unread field should be static
+128,SnVI: Serializable class with no Version ID
+129,RS: Class's readObject() method is synchronized

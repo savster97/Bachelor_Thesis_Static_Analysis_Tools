@@ -1,0 +1,641 @@
+,Function,Issue,Severity/Impact,Tool,Type,endLine,startLine
+0,TShortDoubleHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+1,TFloatHashSetDecorator.equals,Eq: Problems with implementation of equals(),Low,CoverityScan,NaN,0.0,0.0
+2,TDoubleFloatHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+3,TIntIntHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+4,TDoubleShortHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+5,TByteLongHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+6,Main$4.ours,Useless call,Medium,CoverityScan,NaN,0.0,0.0
+7,TLongDoubleHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+8,THashMap$Entry.setValue,SA: Useless self-operation,Medium,CoverityScan,NaN,0.0,0.0
+9,TShortLongHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+10,TByteShortHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+11,TFloatDoubleHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+12,TShortHashSetDecorator.clone,CN: Bad implementation of cloneable idiom,Low,CoverityScan,NaN,0.0,0.0
+13,TFloatIntHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+14,Generate.writeFile,RV: Bad use of return value,Low,CoverityScan,NaN,0.0,0.0
+15,TByteByteHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+16,XMLReporter.XMLReporter,Dm: Dubious method used,Low,CoverityScan,NaN,0.0,0.0
+17,Main$5.theirs,Useless call,Medium,CoverityScan,NaN,0.0,0.0
+18,TIntByteHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+19,TFloatFloatHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+20,Generate.writeFile,Dereference null return value,Medium,CoverityScan,NaN,0.0,0.0
+21,TShortHashSetDecorator.equals,Eq: Problems with implementation of equals(),Low,CoverityScan,NaN,0.0,0.0
+22,Generate.writeFile,Resource leak on an exceptional path,Low,CoverityScan,NaN,0.0,0.0
+23,TIntDoubleHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+24,TObjectShortHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+25,TByteHashSetDecorator.clone,CN: Bad implementation of cloneable idiom,Low,CoverityScan,NaN,0.0,0.0
+26,TLongLongHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+27,TShortShortHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+28,TObjectLongHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+29,TIntShortHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+30,TObjectLongHashMap.equals,HE: Equal objects must have equal hashcodes,Low,CoverityScan,NaN,0.0,0.0
+31,TShortByteHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+32,TObjectDoubleHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+33,TShortFloatHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+34,Generate.readFile,Dm: Dubious method used,Low,CoverityScan,NaN,0.0,0.0
+35,MemoryUsage$MemoryComparator.compare,ICAST: Casting from integer values,Medium,CoverityScan,NaN,0.0,0.0
+36,,Se: Incorrect definition of Serializable class,Low,CoverityScan,NaN,0.0,0.0
+37,Main$4.theirs,Useless call,Medium,CoverityScan,NaN,0.0,0.0
+38,Generate.writeFile,Dm: Dubious method used,Low,CoverityScan,NaN,0.0,0.0
+39,TDoubleLongHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+40,TObjectByteHashMap.equals,HE: Equal objects must have equal hashcodes,Low,CoverityScan,NaN,0.0,0.0
+41,TByteHashSetDecorator.equals,Eq: Problems with implementation of equals(),Low,CoverityScan,NaN,0.0,0.0
+42,TObjectFloatHashMap.equals,HE: Equal objects must have equal hashcodes,Low,CoverityScan,NaN,0.0,0.0
+43,Generate.generateDecoratorsClass,Explicit null dereferenced,Medium,CoverityScan,NaN,0.0,0.0
+44,TFloatByteHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+45,TObjectDoubleHashMap.equals,HE: Equal objects must have equal hashcodes,Low,CoverityScan,NaN,0.0,0.0
+46,TFloatLongHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+47,TLongShortHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+48,TByteFloatHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+49,TLongFloatHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+50,TLongHashSetDecorator.clone,CN: Bad implementation of cloneable idiom,Low,CoverityScan,NaN,0.0,0.0
+51,TDoubleDoubleHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+52,TDoubleHashSetDecorator.clone,CN: Bad implementation of cloneable idiom,Low,CoverityScan,NaN,0.0,0.0
+53,TextReporter.TextReporter,Dm: Dubious method used,Low,CoverityScan,NaN,0.0,0.0
+54,TFloatShortHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+55,TLongIntHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+56,TIntHashSetDecorator.clone,CN: Bad implementation of cloneable idiom,Low,CoverityScan,NaN,0.0,0.0
+57,TByteIntHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+58,TByteDoubleHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+59,TObjectShortHashMap.equals,HE: Equal objects must have equal hashcodes,Low,CoverityScan,NaN,0.0,0.0
+60,TDoubleHashSetDecorator.equals,Eq: Problems with implementation of equals(),Low,CoverityScan,NaN,0.0,0.0
+61,TLongHashSetDecorator.equals,Eq: Problems with implementation of equals(),Low,CoverityScan,NaN,0.0,0.0
+62,TIntLongHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+63,TObjectFloatHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+64,TIntHashSetDecorator.equals,Eq: Problems with implementation of equals(),Low,CoverityScan,NaN,0.0,0.0
+65,Generate.writeFile,Risky cryptographic hashing function,Medium,CoverityScan,NaN,0.0,0.0
+66,TDoubleIntHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+67,TObjectIntHashMap.equals,HE: Equal objects must have equal hashcodes,Low,CoverityScan,NaN,0.0,0.0
+68,TIntFloatHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+69,Test.main,Dm: Dubious method used,Low,CoverityScan,NaN,0.0,0.0
+70,Main$5.ours,Useless call,Medium,CoverityScan,NaN,0.0,0.0
+71,TShortIntHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+72,TObjectIntHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+73,TDoubleByteHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+74,TLongByteHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+75,Main.getRandomSetContainsOp,DLS: Dead local store,Low,CoverityScan,NaN,0.0,0.0
+76,TObjectByteHashMapDecorator$1.add,UMAC: Uncallable method of anonymous class,Medium,CoverityScan,NaN,0.0,0.0
+77,TFloatHashSetDecorator.clone,CN: Bad implementation of cloneable idiom,Low,CoverityScan,NaN,0.0,0.0
+78,O2PHashMapTest.java,squid:S1132,MAJOR,SonarQube,CODE_SMELL,351.0,351.0
+79,O2PHashMapTest.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,237.0,237.0
+80,O2PHashMapTest.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,238.0,238.0
+81,O2PHashMapTest.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,272.0,272.0
+82,P2PHashMapTest.java,squid:S1132,MAJOR,SonarQube,CODE_SMELL,308.0,308.0
+83,SerializationTest.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,597.0,597.0
+84,SerializationTest.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,602.0,602.0
+85,PrimeFinder.java,squid:S1118,MAJOR,SonarQube,CODE_SMELL,37.0,37.0
+86,TLinkedList.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,323.0,323.0
+87,TLinkedList.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,347.0,347.0
+88,TLinkedList.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,385.0,385.0
+89,TLinkedList.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,415.0,415.0
+90,TLinkedList.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,502.0,502.0
+91,THashSet.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,363.0,363.0
+92,THashSet.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,399.0,399.0
+93,THashMap.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,228.0,228.0
+94,THashMap.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,265.0,265.0
+95,THashMap.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,413.0,413.0
+96,THashMap.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,804.0,804.0
+97,TObjectHash.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,200.0,200.0
+98,TObjectHash.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,355.0,355.0
+99,TObjectHash.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,371.0,371.0
+100,THash.java,squid:S1244,CRITICAL,SonarQube,BUG,201.0,201.0
+101,THash.java,squid:S1244,CRITICAL,SonarQube,BUG,255.0,255.0
+102,THash.java,squid:S1244,CRITICAL,SonarQube,BUG,318.0,318.0
+103,THash.java,squid:S1244,CRITICAL,SonarQube,BUG,345.0,345.0
+104,THash.java,squid:S1244,CRITICAL,SonarQube,BUG,406.0,406.0
+105,HashFunctions.java,squid:S1118,MAJOR,SonarQube,CODE_SMELL,19.0,19.0
+106,HashFunctions.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,84.0,84.0
+107,CompactionBenchmark.java,squid:S1244,CRITICAL,SonarQube,BUG,60.0,60.0
+108,CompactionBenchmark.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,70.0,70.0
+109,CompactionBenchmark.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,32.0,32.0
+110,Generate.java,squid:S1132,MAJOR,SonarQube,CODE_SMELL,409.0,409.0
+111,Generate.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,298.0,298.0
+112,Generate.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,312.0,312.0
+113,Generate.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,426.0,426.0
+114,TLinkedListTest.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,379.0,379.0
+115,THashSetTest.java,squid:S1132,MAJOR,SonarQube,CODE_SMELL,230.0,230.0
+116,THashSetTest.java,squid:S1132,MAJOR,SonarQube,CODE_SMELL,230.0,230.0
+117,THashSetTest.java,squid:S1132,MAJOR,SonarQube,CODE_SMELL,242.0,242.0
+118,THashSetTest.java,squid:S1132,MAJOR,SonarQube,CODE_SMELL,243.0,243.0
+119,THashMapTest.java,squid:S1132,MAJOR,SonarQube,CODE_SMELL,303.0,303.0
+120,THashMapTest.java,squid:S1132,MAJOR,SonarQube,CODE_SMELL,372.0,372.0
+121,THashMapTest.java,squid:S1132,MAJOR,SonarQube,CODE_SMELL,695.0,695.0
+122,THashMapTest.java,squid:S1132,MAJOR,SonarQube,CODE_SMELL,695.0,695.0
+123,THashMapTest.java,squid:S1132,MAJOR,SonarQube,CODE_SMELL,757.0,757.0
+124,THashMapTest.java,squid:S1132,MAJOR,SonarQube,CODE_SMELL,758.0,758.0
+125,THashMapTest.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,770.0,770.0
+126,THashMapTest.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,771.0,771.0
+127,THashMapTest.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,775.0,775.0
+128,P2OHashMapTest.java,squid:S1132,MAJOR,SonarQube,CODE_SMELL,138.0,138.0
+129,P2OHashMapTest.java,squid:S1132,MAJOR,SonarQube,CODE_SMELL,139.0,139.0
+130,O2PHashMapTest.java,squid:S1132,MAJOR,SonarQube,CODE_SMELL,350.0,350.0
+131,P2PHashMapTest.java,squid:S1132,MAJOR,SonarQube,CODE_SMELL,308.0,308.0
+132,SerializationTest.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,544.0,544.0
+133,SerializationTest.java,squid:S00122,MINOR,SonarQube,CODE_SMELL,598.0,598.0
+134,THash.java,squid:S1172,MAJOR,SonarQube,CODE_SMELL,251.0,251.0
+135,Main.java,squid:S1186,MAJOR,SonarQube,CODE_SMELL,81.0,81.0
+136,Main.java,squid:S1186,MAJOR,SonarQube,CODE_SMELL,82.0,82.0
+137,Main.java,squid:S1186,MAJOR,SonarQube,CODE_SMELL,304.0,304.0
+138,Main.java,squid:S1181,BLOCKER,SonarQube,CODE_SMELL,74.0,74.0
+139,SerializationTest.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,533.0,533.0
+140,SerializationTest.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,573.0,573.0
+141,TLinkedList.java,squid:S1161,MAJOR,SonarQube,CODE_SMELL,112.0,112.0
+142,TLinkedList.java,squid:S1161,MAJOR,SonarQube,CODE_SMELL,152.0,152.0
+143,THashMap.java,squid:S1161,MAJOR,SonarQube,CODE_SMELL,173.0,173.0
+144,THash.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,134.0,134.0
+145,MemoryUsage.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,42.0,42.0
+146,MemoryUsage.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,67.0,67.0
+147,MemoryUsage.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,98.0,98.0
+148,Main.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,74.0,74.0
+149,Generate.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,356.0,356.0
+150,Generate.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,401.0,401.0
+151,Generate.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,437.0,437.0
+152,TLinkedListTest.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,215.0,215.0
+153,TLinkedListTest.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,230.0,230.0
+154,TLinkedListTest.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,245.0,245.0
+155,TLinkedListTest.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,572.0,572.0
+156,TLinkedListTest.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,580.0,580.0
+157,TLinkedListTest.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,591.0,591.0
+158,TLinkedListTest.java,squid:S2131,MAJOR,SonarQube,CODE_SMELL,642.0,642.0
+159,THashSetTest.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,216.0,216.0
+160,THashMapTest.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,430.0,430.0
+161,TStackTest.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,81.0,81.0
+162,TArrayListTest.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,50.0,50.0
+163,TArrayListTest.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,57.0,57.0
+164,TArrayListTest.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,64.0,64.0
+165,SerializationTest.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,476.0,476.0
+166,SerializationTest.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,564.0,564.0
+167,SerializationTest.java,squid:S1166,CRITICAL,SonarQube,CODE_SMELL,581.0,581.0
+168,THashSet.java,squid:S1226,MAJOR,SonarQube,CODE_SMELL,226.0,226.0
+169,THashMap.java,squid:MethodCyclomaticComplexity,MAJOR,SonarQube,CODE_SMELL,480.0,480.0
+170,THashMap.java,squid:S1226,MAJOR,SonarQube,CODE_SMELL,185.0,185.0
+171,THashMap.java,squid:S1226,MAJOR,SonarQube,CODE_SMELL,673.0,673.0
+172,THashMap.java,squid:S1226,MAJOR,SonarQube,CODE_SMELL,758.0,758.0
+173,TObjectHash.java,squid:MethodCyclomaticComplexity,MAJOR,SonarQube,CODE_SMELL,230.0,230.0
+174,MemoryUsage.java,squid:S1215,CRITICAL,SonarQube,CODE_SMELL,59.0,59.0
+175,MemoryUsage.java,squid:S1215,CRITICAL,SonarQube,CODE_SMELL,63.0,63.0
+176,Generate.java,squid:MethodCyclomaticComplexity,MAJOR,SonarQube,CODE_SMELL,211.0,211.0
+177,TIdentityHashMapTest.java,squid:EmptyStatementUsageCheck,MINOR,SonarQube,CODE_SMELL,53.0,53.0
+178,TLinkedList.java,squid:S2160,MAJOR,SonarQube,CODE_SMELL,58.0,58.0
+179,TPrimitiveIterator.java,squid:EmptyStatementUsageCheck,MINOR,SonarQube,CODE_SMELL,71.0,71.0
+180,THashIterator.java,squid:EmptyStatementUsageCheck,MINOR,SonarQube,CODE_SMELL,87.0,87.0
+181,MemoryUsage.java,squid:S2184,MAJOR,SonarQube,BUG,121.0,121.0
+182,TIdentityHashSetTest.java,squid:EmptyStatementUsageCheck,MINOR,SonarQube,CODE_SMELL,42.0,42.0
+183,O2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,72.0,72.0
+184,O2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,349.0,349.0
+185,P2PHashMapTest.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,34.0,34.0
+186,P2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,54.0,54.0
+187,P2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,80.0,80.0
+188,P2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,168.0,168.0
+189,P2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,170.0,170.0
+190,P2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,173.0,173.0
+191,P2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,175.0,175.0
+192,P2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,179.0,179.0
+193,P2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,186.0,186.0
+194,P2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,307.0,307.0
+195,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,61.0,61.0
+196,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,91.0,91.0
+197,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,142.0,142.0
+198,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,172.0,172.0
+199,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,222.0,222.0
+200,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,252.0,252.0
+201,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,364.0,364.0
+202,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,396.0,396.0
+203,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,491.0,491.0
+204,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,526.0,526.0
+205,SerializationTest.java,squid:S1148,CRITICAL,SonarQube,VULNERABILITY,534.0,534.0
+206,PrimeFinder.java,squid:S00115,MINOR,SonarQube,CODE_SMELL,42.0,42.0
+207,TLinkedList.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,65.0,65.0
+208,TLinkedList.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,67.0,67.0
+209,TLinkedList.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,69.0,69.0
+210,TLinkedList.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,548.0,548.0
+211,TLinkedList.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,549.0,549.0
+212,TLinkedList.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,550.0,550.0
+213,TLinkedList.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,501.0,501.0
+214,TObjectHashIterator.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,31.0,31.0
+215,TIterator.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,34.0,34.0
+216,TIterator.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,37.0,37.0
+217,TIterator.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,39.0,39.0
+218,THashMap.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,37.0,37.0
+219,THashMap.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,255.0,255.0
+220,TObjectHash.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,42.0,42.0
+221,TObjectHash.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,45.0,45.0
+222,TObjectHash.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,192.0,192.0
+223,TObjectHash.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,231.0,231.0
+224,TPrimitiveIterator.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,46.0,46.0
+225,THashIterator.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,47.0,47.0
+226,TPrimitiveHash.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,38.0,38.0
+227,TLinkableAdapter.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,36.0,36.0
+228,TLinkableAdapter.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,36.0,36.0
+229,THash.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,54.0,54.0
+230,THash.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,57.0,57.0
+231,THash.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,65.0,65.0
+232,THash.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,71.0,71.0
+233,THash.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,77.0,77.0
+234,THash.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,84.0,84.0
+235,THash.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,89.0,89.0
+236,THash.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,314.0,314.0
+237,THash.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,398.0,398.0
+238,HashFunctions.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,83.0,83.0
+239,MemoryUsage.java,squid:S1148,CRITICAL,SonarQube,VULNERABILITY,43.0,43.0
+240,MemoryUsage.java,squid:S1148,CRITICAL,SonarQube,VULNERABILITY,68.0,68.0
+241,MemoryUsage.java,squid:S1148,CRITICAL,SonarQube,VULNERABILITY,99.0,99.0
+242,Repeater.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,22.0,22.0
+243,Repeater.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,23.0,23.0
+244,Main.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,366.0,366.0
+245,CompactionBenchmark.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,31.0,31.0
+246,CompactionBenchmark.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,60.0,60.0
+247,Test.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,16.0,16.0
+248,Test.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,17.0,17.0
+249,Generate.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,447.0,447.0
+250,Generate.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,448.0,448.0
+251,Generate.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,449.0,449.0
+252,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,50.0,50.0
+253,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,51.0,51.0
+254,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,107.0,107.0
+255,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,107.0,107.0
+256,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,114.0,114.0
+257,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,115.0,115.0
+258,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,116.0,116.0
+259,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,117.0,117.0
+260,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,132.0,132.0
+261,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,132.0,132.0
+262,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,139.0,139.0
+263,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,140.0,140.0
+264,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,141.0,141.0
+265,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,142.0,142.0
+266,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,155.0,155.0
+267,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,156.0,156.0
+268,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,157.0,157.0
+269,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,158.0,158.0
+270,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,172.0,172.0
+271,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,172.0,172.0
+272,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,179.0,179.0
+273,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,180.0,180.0
+274,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,181.0,181.0
+275,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,182.0,182.0
+276,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,188.0,188.0
+277,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,189.0,189.0
+278,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,190.0,190.0
+279,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,191.0,191.0
+280,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,211.0,211.0
+281,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,211.0,211.0
+282,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,214.0,214.0
+283,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,217.0,217.0
+284,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,221.0,221.0
+285,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,225.0,225.0
+286,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,226.0,226.0
+287,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,242.0,242.0
+288,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,243.0,243.0
+289,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,246.0,246.0
+290,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,266.0,266.0
+291,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,268.0,268.0
+292,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,273.0,273.0
+293,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,274.0,274.0
+294,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,275.0,275.0
+295,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,276.0,276.0
+296,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,282.0,282.0
+297,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,283.0,283.0
+298,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,284.0,284.0
+299,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,285.0,285.0
+300,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,288.0,288.0
+301,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,294.0,294.0
+302,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,330.0,330.0
+303,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,345.0,345.0
+304,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,351.0,351.0
+305,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,352.0,352.0
+306,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,412.0,412.0
+307,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,451.0,451.0
+308,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,451.0,451.0
+309,Generate.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,452.0,452.0
+310,TLinkedListTest.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,598.0,598.0
+311,TLinkedListTest.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,604.0,604.0
+312,TLinkedListTest.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,622.0,622.0
+313,TLinkedListTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,377.0,377.0
+314,THashSetTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,240.0,240.0
+315,TLongIntHashMapTester.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,14.0,14.0
+316,THashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,509.0,509.0
+317,THashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,510.0,510.0
+318,THashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,545.0,545.0
+319,THashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,673.0,673.0
+320,THashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,755.0,755.0
+321,P2OHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,137.0,137.0
+322,TStackTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,67.0,67.0
+323,TStackTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,72.0,72.0
+324,TStackTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,77.0,77.0
+325,TArrayListTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,92.0,92.0
+326,O2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,46.0,46.0
+327,O2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,53.0,53.0
+328,O2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,197.0,197.0
+329,P2PHashMapTest.java,squid:S00116,MINOR,SonarQube,CODE_SMELL,35.0,35.0
+330,P2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,61.0,61.0
+331,P2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,140.0,140.0
+332,P2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,169.0,169.0
+333,P2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,171.0,171.0
+334,P2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,174.0,174.0
+335,P2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,176.0,176.0
+336,P2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,181.0,181.0
+337,P2PHashMapTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,188.0,188.0
+338,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,76.0,76.0
+339,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,115.0,115.0
+340,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,157.0,157.0
+341,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,196.0,196.0
+342,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,237.0,237.0
+343,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,276.0,276.0
+344,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,380.0,380.0
+345,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,421.0,421.0
+346,SerializationTest.java,squid:S00117,MINOR,SonarQube,CODE_SMELL,506.0,506.0
+347,SerializationTest.java,squid:S1148,CRITICAL,SonarQube,VULNERABILITY,477.0,477.0
+348,SerializationTest.java,squid:S1148,CRITICAL,SonarQube,VULNERABILITY,565.0,565.0
+349,TArrayListTest.java,squid:S00108,MAJOR,SonarQube,CODE_SMELL,57.0,57.0
+350,THashSetTest.java,squid:S2118,CRITICAL,SonarQube,BUG,120.0,120.0
+351,TArrayListTest.java,squid:S00108,MAJOR,SonarQube,CODE_SMELL,50.0,50.0
+352,TArrayListTest.java,squid:S00108,MAJOR,SonarQube,CODE_SMELL,64.0,64.0
+353,SerializationTest.java,squid:S1141,MAJOR,SonarQube,CODE_SMELL,523.0,523.0
+354,O2PHashMapTest.java,squid:S1126,MINOR,SonarQube,CODE_SMELL,272.0,272.0
+355,SerializationTest.java,squid:S1126,MINOR,SonarQube,CODE_SMELL,602.0,602.0
+356,THashMapTest.java,squid:S1126,MINOR,SonarQube,CODE_SMELL,775.0,775.0
+357,O2PHashMapTest.java,squid:S1126,MINOR,SonarQube,CODE_SMELL,238.0,238.0
+358,MemoryUsage.java,squid:S1488,MINOR,SonarQube,CODE_SMELL,53.0,53.0
+359,MemoryUsage.java,squid:S1481,MAJOR,SonarQube,CODE_SMELL,33.0,33.0
+360,Main.java,squid:S1481,MAJOR,SonarQube,CODE_SMELL,164.0,164.0
+361,Main.java,squid:S1481,MAJOR,SonarQube,CODE_SMELL,243.0,243.0
+362,Main.java,squid:S1481,MAJOR,SonarQube,CODE_SMELL,251.0,251.0
+363,Main.java,squid:S1481,MAJOR,SonarQube,CODE_SMELL,280.0,280.0
+364,Main.java,squid:S1481,MAJOR,SonarQube,CODE_SMELL,288.0,288.0
+365,Main.java,squid:S1481,MAJOR,SonarQube,CODE_SMELL,338.0,338.0
+366,Reporter.java,squid:S2386,CRITICAL,SonarQube,VULNERABILITY,25.0,25.0
+367,Generate.java,squid:UselessImportCheck,MINOR,SonarQube,CODE_SMELL,23.0,23.0
+368,P2PHashMapTest.java,squid:S1170,MINOR,SonarQube,CODE_SMELL,34.0,34.0
+369,THashMap.java,squid:S1067,MAJOR,SonarQube,CODE_SMELL,552.0,550.0
+370,Main.java,squid:S1188,MAJOR,SonarQube,CODE_SMELL,202.0,202.0
+371,Main.java,squid:S1188,MAJOR,SonarQube,CODE_SMELL,238.0,238.0
+372,Main.java,squid:S1188,MAJOR,SonarQube,CODE_SMELL,275.0,275.0
+373,Main.java,squid:S1188,MAJOR,SonarQube,CODE_SMELL,373.0,373.0
+374,P2PHashMapTest.java,squid:S1170,MINOR,SonarQube,CODE_SMELL,35.0,35.0
+375,TArrayListTest.java,squid:S1185,MINOR,SonarQube,CODE_SMELL,26.0,26.0
+376,THashIterator.java,squid:S2272,MAJOR,SonarQube,BUG,66.0,66.0
+377,SerializationTest.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,110.0,110.0
+378,SerializationTest.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,191.0,191.0
+379,SerializationTest.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,271.0,271.0
+380,SerializationTest.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,334.0,334.0
+381,SerializationTest.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,416.0,416.0
+382,TObjectHash.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,251.0,251.0
+383,THash.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,366.0,366.0
+384,HashFunctions.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,30.0,30.0
+385,Main.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,412.0,412.0
+386,Test.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,20.0,20.0
+387,Test.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,22.0,22.0
+388,THashMapTest.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,248.0,248.0
+389,THashMapTest.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,250.0,250.0
+390,THashMapTest.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,263.0,263.0
+391,SerializationTest.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,134.0,134.0
+392,SerializationTest.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,215.0,215.0
+393,SerializationTest.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,295.0,295.0
+394,SerializationTest.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,356.0,356.0
+395,SerializationTest.java,squid:CommentedOutCodeLine,MAJOR,SonarQube,CODE_SMELL,441.0,441.0
+396,Reporter.java,squid:S1214,MINOR,SonarQube,CODE_SMELL,21.0,21.0
+397,Reporter.java,squid:S1213,MINOR,SonarQube,CODE_SMELL,25.0,25.0
+398,TLinkedListTest.java,squid:S1213,MINOR,SonarQube,CODE_SMELL,604.0,604.0
+399,TLinkedListTest.java,squid:S1213,MINOR,SonarQube,CODE_SMELL,622.0,622.0
+400,TLinkedList.java,squid:ForLoopCounterChangedCheck,MAJOR,SonarQube,CODE_SMELL,201.0,201.0
+401,TLinkedList.java,squid:ForLoopCounterChangedCheck,MAJOR,SonarQube,CODE_SMELL,202.0,202.0
+402,TLinkedList.java,squid:S1948,CRITICAL,SonarQube,BUG,65.0,65.0
+403,TLinkedList.java,squid:S1948,CRITICAL,SonarQube,BUG,67.0,67.0
+404,TLinkedListTest.java,squid:S1206,BLOCKER,SonarQube,BUG,645.0,645.0
+405,THashSetTest.java,squid:S1206,BLOCKER,SonarQube,BUG,179.0,179.0
+406,TObjectHash.java,squid:S134,MAJOR,SonarQube,CODE_SMELL,263.0,263.0
+407,TObjectHash.java,squid:S134,MAJOR,SonarQube,CODE_SMELL,280.0,280.0
+408,Generate.java,squid:S134,MAJOR,SonarQube,CODE_SMELL,298.0,298.0
+409,Generate.java,squid:S134,MAJOR,SonarQube,CODE_SMELL,312.0,312.0
+410,THashSetTest.java,squid:HiddenFieldCheck,MAJOR,SonarQube,CODE_SMELL,229.0,229.0
+411,THashMapTest.java,squid:HiddenFieldCheck,MAJOR,SonarQube,CODE_SMELL,135.0,135.0
+412,THashMapTest.java,squid:HiddenFieldCheck,MAJOR,SonarQube,CODE_SMELL,230.0,230.0
+413,THashMapTest.java,squid:HiddenFieldCheck,MAJOR,SonarQube,CODE_SMELL,459.0,459.0
+414,THashMapTest.java,squid:HiddenFieldCheck,MAJOR,SonarQube,CODE_SMELL,524.0,524.0
+415,THashMapTest.java,squid:HiddenFieldCheck,MAJOR,SonarQube,CODE_SMELL,751.0,751.0
+416,O2PHashMapTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,159.0,159.0
+417,O2PHashMapTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,243.0,243.0
+418,O2PHashMapTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,310.0,310.0
+419,P2PHashMapTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,86.0,86.0
+420,SerializationTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,48.0,48.0
+421,SerializationTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,510.0,510.0
+422,SerializationTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,546.0,546.0
+423,SerializationTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,556.0,556.0
+424,MemoryUsage.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,123.0,123.0
+425,MemoryUsage.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,124.0,124.0
+426,MemoryUsage.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,125.0,125.0
+427,MemoryUsage.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,126.0,126.0
+428,MemoryUsage.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,127.0,127.0
+429,TextReporter.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,27.0,27.0
+430,CompactionBenchmark.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,35.0,35.0
+431,CompactionBenchmark.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,53.0,53.0
+432,CompactionBenchmark.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,74.0,74.0
+433,CompactionBenchmark.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,81.0,81.0
+434,CompactionBenchmark.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,82.0,82.0
+435,CompactionBenchmark.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,83.0,83.0
+436,CompactionBenchmark.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,84.0,84.0
+437,XMLReporter.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,35.0,35.0
+438,Test.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,36.0,36.0
+439,Test.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,49.0,49.0
+440,Generate.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,46.0,46.0
+441,Generate.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,52.0,52.0
+442,Generate.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,54.0,54.0
+443,Generate.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,103.0,103.0
+444,Generate.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,357.0,357.0
+445,Generate.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,373.0,373.0
+446,Generate.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,376.0,376.0
+447,TLinkedListTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,425.0,425.0
+448,TLinkedListTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,466.0,466.0
+449,TLinkedListTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,484.0,484.0
+450,TLongIntHashMapTester.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,10.0,10.0
+451,TLongIntHashMapTester.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,11.0,11.0
+452,TLongIntHashMapTester.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,16.0,16.0
+453,TLongIntHashMapTester.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,20.0,20.0
+454,TLongIntHashMapTester.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,28.0,28.0
+455,O2PHashMapTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,78.0,78.0
+456,O2PHashMapTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,152.0,152.0
+457,O2PHashMapTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,154.0,154.0
+458,O2PHashMapTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,234.0,234.0
+459,O2PHashMapTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,269.0,269.0
+460,O2PHashMapTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,277.0,277.0
+461,O2PHashMapTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,302.0,302.0
+462,O2PHashMapTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,308.0,308.0
+463,SerializationTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,43.0,43.0
+464,SerializationTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,509.0,509.0
+465,SerializationTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,511.0,511.0
+466,SerializationTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,554.0,554.0
+467,SerializationTest.java,squid:S106,MAJOR,SonarQube,CODE_SMELL,557.0,557.0
+468,O2PHashMapTest.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,234.0,234.0
+469,O2PHashMapTest.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,243.0,243.0
+470,SerializationTest.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,462.0,462.0
+471,THashSet.java,squid:S1197,MINOR,SonarQube,CODE_SMELL,189.0,189.0
+472,THashMap.java,squid:S1197,MINOR,SonarQube,CODE_SMELL,377.0,377.0
+473,THashMap.java,squid:S1197,MINOR,SonarQube,CODE_SMELL,378.0,378.0
+474,TextReporter.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,36.0,36.0
+475,Main.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,61.0,61.0
+476,Generate.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,123.0,123.0
+477,Generate.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,255.0,255.0
+478,Generate.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,124.0,124.0
+479,Generate.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,62.0,62.0
+480,Generate.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,68.0,68.0
+481,Generate.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,68.0,68.0
+482,Generate.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,38.0,38.0
+483,Generate.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,38.0,38.0
+484,Generate.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,74.0,74.0
+485,THashMapTest.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,67.0,67.0
+486,THashMapTest.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,154.0,154.0
+487,THashMapTest.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,59.0,59.0
+488,THashMapTest.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,68.0,68.0
+489,P2OHashMapTest.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,40.0,40.0
+490,O2PHashMapTest.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,109.0,109.0
+491,O2PHashMapTest.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,113.0,113.0
+492,O2PHashMapTest.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,114.0,114.0
+493,P2PHashMapTest.java,squid:S1192,MINOR,SonarQube,CODE_SMELL,195.0,195.0
+494,TIterator.java,squid:ModifiersOrderCheck,MINOR,SonarQube,CODE_SMELL,101.0,101.0
+495,THashMap.java,squid:S2176,MAJOR,SonarQube,CODE_SMELL,726.0,726.0
+496,TObjectHash.java,squid:RedundantThrowsDeclarationCheck,MINOR,SonarQube,CODE_SMELL,332.0,332.0
+497,TObjectHash.java,squid:ModifiersOrderCheck,MINOR,SonarQube,CODE_SMELL,35.0,35.0
+498,THashIterator.java,squid:ModifiersOrderCheck,MINOR,SonarQube,CODE_SMELL,99.0,99.0
+499,TPrimitiveHash.java,squid:ModifiersOrderCheck,MINOR,SonarQube,CODE_SMELL,35.0,35.0
+500,THash.java,squid:ModifiersOrderCheck,MINOR,SonarQube,CODE_SMELL,39.0,39.0
+501,THash.java,squid:ModifiersOrderCheck,MINOR,SonarQube,CODE_SMELL,160.0,160.0
+502,SerializationTest.java,code_smells:complex_class,MINOR,SonarQube,CODE_SMELL,1.0,1.0
+503,SerializationProcedure.java,code_smells:complex_class,MINOR,SonarQube,CODE_SMELL,1.0,1.0
+504,TLinkedList.java,code_smells:complex_class,MINOR,SonarQube,CODE_SMELL,1.0,1.0
+505,THashSet.java,code_smells:complex_class,MINOR,SonarQube,CODE_SMELL,1.0,1.0
+506,THashMap.java,code_smells:complex_class,MINOR,SonarQube,CODE_SMELL,1.0,1.0
+507,TObjectHash.java,code_smells:complex_class,MINOR,SonarQube,CODE_SMELL,1.0,1.0
+508,THash.java,code_smells:complex_class,MINOR,SonarQube,CODE_SMELL,1.0,1.0
+509,Main.java,common-java:DuplicatedBlocks,MAJOR,SonarQube,CODE_SMELL,,
+510,Generate.java,common-java:DuplicatedBlocks,MAJOR,SonarQube,CODE_SMELL,,
+511,Generate.java,code_smells:complex_class,MINOR,SonarQube,CODE_SMELL,1.0,1.0
+512,TLinkedListTest.java,common-java:DuplicatedBlocks,MAJOR,SonarQube,CODE_SMELL,,
+513,P2OHashMapTest.java,common-java:DuplicatedBlocks,MAJOR,SonarQube,CODE_SMELL,,
+514,P2PHashMapTest.java,common-java:DuplicatedBlocks,MAJOR,SonarQube,CODE_SMELL,,
+515,PrimeFinderTest.java,code_smells:lazy_class,MAJOR,SonarQube,CODE_SMELL,1.0,1.0
+516,TLinkedList.java,code_smells:long_method,MAJOR,SonarQube,CODE_SMELL,1.0,1.0
+517,THashSet.java,code_smells:long_parameter_list,MAJOR,SonarQube,CODE_SMELL,1.0,1.0
+518,THashMap.java,code_smells:long_parameter_list,MAJOR,SonarQube,CODE_SMELL,1.0,1.0
+519,TObjectHash.java,code_smells:long_method,MAJOR,SonarQube,CODE_SMELL,1.0,1.0
+520,TObjectHash.java,code_smells:long_parameter_list,MAJOR,SonarQube,CODE_SMELL,1.0,1.0
+521,Main.java,code_smells:long_method,MAJOR,SonarQube,CODE_SMELL,1.0,1.0
+522,CompactionBenchmark.java,code_smells:long_method,MAJOR,SonarQube,CODE_SMELL,1.0,1.0
+523,CompactionBenchmark.java,code_smells:long_parameter_list,MAJOR,SonarQube,CODE_SMELL,1.0,1.0
+524,Test.java,code_smells:lazy_class,MAJOR,SonarQube,CODE_SMELL,1.0,1.0
+525,Test.java,code_smells:long_method,MAJOR,SonarQube,CODE_SMELL,1.0,1.0
+526,Generate.java,code_smells:long_parameter_list,MAJOR,SonarQube,CODE_SMELL,1.0,1.0
+527,TLinkedListTest.java,code_smells:long_method,MAJOR,SonarQube,CODE_SMELL,1.0,1.0
+528,TLongIntHashMapTester.java,code_smells:lazy_class,MAJOR,SonarQube,CODE_SMELL,1.0,1.0
+529,P2OHashMapTest.java,code_smells:long_method,MAJOR,SonarQube,CODE_SMELL,1.0,1.0
+530,TStackTest.java,code_smells:long_method,MAJOR,SonarQube,CODE_SMELL,1.0,1.0
+531,P2PHashMapTest.java,code_smells:long_method,MAJOR,SonarQube,CODE_SMELL,1.0,1.0
+532,"Generate.generateDecoratorsClass(File,File)",WRITE_SHORT_UNITS,VERY_HIGH,BetterCodeHub,NaN,328.0,211.0
+533,Main.getLinkedListAddOp(),WRITE_SHORT_UNITS,HIGH,BetterCodeHub,NaN,121.0,70.0
+534,CompactionBenchmark.main(String[]),WRITE_SHORT_UNITS,HIGH,BetterCodeHub,NaN,85.0,30.0
+535,Main.getRandomSetContainsOp(),WRITE_SHORT_UNITS,HIGH,BetterCodeHub,NaN,199.0,153.0
+536,TObjectHash.insertionIndex(T),WRITE_SHORT_UNITS,HIGH,BetterCodeHub,NaN,292.0,230.0
+537,"Generate.writeFile(String,String,File)",WRITE_SHORT_UNITS,HIGH,BetterCodeHub,NaN,379.0,330.0
+538,Generate.main(String[]),WRITE_SHORT_UNITS,HIGH,BetterCodeHub,NaN,104.0,44.0
+539,Main.main(String[]),WRITE_SHORT_UNITS,HIGH,BetterCodeHub,NaN,452.0,402.0
+540,Main.getAdjustCompareOp(),WRITE_SHORT_UNITS,HIGH,BetterCodeHub,NaN,399.0,360.0
+541,"Generate.generateP2P(String,String,String,File,File)",WRITE_SHORT_UNITS,HIGH,BetterCodeHub,NaN,170.0,131.0
+542,"Generate.generateP2PMapDecorators(File,File)",WRITE_SHORT_UNITS,HIGH,BetterCodeHub,NaN,209.0,172.0
+543,Main.getIterationOp(),WRITE_SHORT_UNITS,HIGH,BetterCodeHub,NaN,263.0,229.0
+544,Main.getIterationWithHasNextOp(),WRITE_SHORT_UNITS,HIGH,BetterCodeHub,NaN,300.0,266.0
+545,Main.getSumSetOperation(),WRITE_SHORT_UNITS,MEDIUM,BetterCodeHub,NaN,356.0,324.0
+546,MemoryUsage.main(String[]),WRITE_SHORT_UNITS,MEDIUM,BetterCodeHub,NaN,102.0,72.0
+547,TLinkedList.remove(Object),WRITE_SHORT_UNITS,MEDIUM,BetterCodeHub,NaN,440.0,403.0
+548,"Generate.readFile(String,File)",WRITE_SHORT_UNITS,MEDIUM,BetterCodeHub,NaN,442.0,412.0
+549,Main.getMapPutOp(),WRITE_SHORT_UNITS,MEDIUM,BetterCodeHub,NaN,227.0,201.0
+550,Main.getContainsOp(),WRITE_SHORT_UNITS,MEDIUM,BetterCodeHub,NaN,150.0,123.0
+551,TLinkedList.get(int),WRITE_SHORT_UNITS,MEDIUM,BetterCodeHub,NaN,260.0,230.0
+552,"TLinkedList.insert(int,T)",WRITE_SHORT_UNITS,MEDIUM,BetterCodeHub,NaN,392.0,368.0
+553,Main.getSetOperation(),WRITE_SHORT_UNITS,MEDIUM,BetterCodeHub,NaN,68.0,43.0
+554,XMLReporter.report(Result),WRITE_SHORT_UNITS,MEDIUM,BetterCodeHub,NaN,70.0,43.0
+555,IteratorImpl.$constructor(int),WRITE_SHORT_UNITS,MEDIUM,BetterCodeHub,NaN,579.0,558.0
+556,TObjectHash.index(T),WRITE_SHORT_UNITS,MEDIUM,BetterCodeHub,NaN,218.0,191.0
+557,THashMap.retainEntries(TObjectObjectProcedure),WRITE_SHORT_UNITS,MEDIUM,BetterCodeHub,NaN,353.0,331.0
+558,THashMap.containsValue(Object),WRITE_SHORT_UNITS,MEDIUM,BetterCodeHub,NaN,502.0,480.0
+559,"Generate.digest(File,MessageDigest)",WRITE_SHORT_UNITS,MEDIUM,BetterCodeHub,NaN,405.0,382.0
+560,THashMap.rehash(int),WRITE_SHORT_UNITS,MEDIUM,BetterCodeHub,NaN,395.0,375.0
+561,"Generate.generate(String,String,String,File,File)",WRITE_SHORT_UNITS,MEDIUM,BetterCodeHub,NaN,129.0,106.0
+562,"Generate.generateDecoratorsClass(File,File)",WRITE_SIMPLE_UNITS,HIGH,BetterCodeHub,NaN,328.0,211.0
+563,TObjectHash.insertionIndex(T),WRITE_SIMPLE_UNITS,HIGH,BetterCodeHub,NaN,292.0,230.0
+564,THashMap.containsValue(Object),WRITE_SIMPLE_UNITS,HIGH,BetterCodeHub,NaN,502.0,480.0
+565,CompactionBenchmark.main(String[]),WRITE_SIMPLE_UNITS,MEDIUM,BetterCodeHub,NaN,85.0,30.0
+566,Main.getRandomSetContainsOp(),WRITE_SIMPLE_UNITS,MEDIUM,BetterCodeHub,NaN,199.0,153.0
+567,Main.getAdjustCompareOp(),WRITE_SIMPLE_UNITS,MEDIUM,BetterCodeHub,NaN,399.0,360.0
+568,TLinkedList.remove(Object),WRITE_SIMPLE_UNITS,MEDIUM,BetterCodeHub,NaN,440.0,403.0
+569,"Generate.readFile(String,File)",WRITE_SIMPLE_UNITS,MEDIUM,BetterCodeHub,NaN,442.0,412.0
+570,TLinkedList.get(int),WRITE_SIMPLE_UNITS,MEDIUM,BetterCodeHub,NaN,260.0,230.0
+571,IteratorImpl.$constructor(int),WRITE_SIMPLE_UNITS,MEDIUM,BetterCodeHub,NaN,579.0,558.0
+572,TObjectHash.index(T),WRITE_SIMPLE_UNITS,MEDIUM,BetterCodeHub,NaN,218.0,191.0
+573,ValueView.removeElement(V),WRITE_SIMPLE_UNITS,MEDIUM,BetterCodeHub,NaN,560.0,545.0
+574,Generate.java,WRITE_CODE_ONCE,VERY_HIGH,BetterCodeHub,NaN,191.0,175.0
+575,Generate.java,WRITE_CODE_ONCE,VERY_HIGH,BetterCodeHub,NaN,285.0,269.0
+576,Main.java,WRITE_CODE_ONCE,VERY_HIGH,BetterCodeHub,NaN,241.0,230.0
+577,Main.java,WRITE_CODE_ONCE,VERY_HIGH,BetterCodeHub,NaN,278.0,267.0
+578,THashMap.java,WRITE_CODE_ONCE,VERY_HIGH,BetterCodeHub,NaN,811.0,793.0
+579,THashSet.java,WRITE_CODE_ONCE,VERY_HIGH,BetterCodeHub,NaN,406.0,388.0
+580,Generate.java,WRITE_CODE_ONCE,VERY_HIGH,BetterCodeHub,NaN,117.0,109.0
+581,Generate.java,WRITE_CODE_ONCE,VERY_HIGH,BetterCodeHub,NaN,142.0,134.0
+582,TObjectHash.java,WRITE_CODE_ONCE,VERY_HIGH,BetterCodeHub,NaN,198.0,192.0
+583,TObjectHash.java,WRITE_CODE_ONCE,VERY_HIGH,BetterCodeHub,NaN,237.0,231.0
+584,TObjectHash.java,WRITE_CODE_ONCE,VERY_HIGH,BetterCodeHub,NaN,213.0,207.0
+585,TObjectHash.java,WRITE_CODE_ONCE,VERY_HIGH,BetterCodeHub,NaN,267.0,261.0
+586,Generate.java,WRITE_CODE_ONCE,VERY_HIGH,BetterCodeHub,NaN,124.0,118.0
+587,Generate.java,WRITE_CODE_ONCE,VERY_HIGH,BetterCodeHub,NaN,150.0,145.0
+588,"Generate.generateP2P(String,String,String,File,File)",SMALL_UNIT_INTERFACES,HIGH,BetterCodeHub,NaN,170.0,131.0
+589,"Generate.generate(String,String,String,File,File)",SMALL_UNIT_INTERFACES,HIGH,BetterCodeHub,NaN,129.0,106.0
+590,"Generate.writeFile(String,String,File)",SMALL_UNIT_INTERFACES,MEDIUM,BetterCodeHub,NaN,379.0,330.0
+591,"THashMap.doPut(K,V,int)",SMALL_UNIT_INTERFACES,MEDIUM,BetterCodeHub,NaN,197.0,180.0
+592,"CompactionBenchmark.runTest(int[],Integer[],TIntObjectHashMap,Random)",SMALL_UNIT_INTERFACES,MEDIUM,BetterCodeHub,NaN,100.0,88.0
+593,"WrapperInfo.$constructor(String,String,String,String)",SMALL_UNIT_INTERFACES,MEDIUM,BetterCodeHub,NaN,458.0,451.0
+594,"Entry.$constructor(K,V,int)",SMALL_UNIT_INTERFACES,MEDIUM,BetterCodeHub,NaN,735.0,731.0
+595,"MemoryComparator.$constructor(Creator,Creator,String)",SMALL_UNIT_INTERFACES,MEDIUM,BetterCodeHub,NaN,113.0,107.0
+596,"TObjectHash.$constructor(int,float,TObjectHashingStrategy)",SMALL_UNIT_INTERFACES,MEDIUM,BetterCodeHub,NaN,121.0,118.0
+597,"THashMap.$constructor(int,float,TObjectHashingStrategy)",SMALL_UNIT_INTERFACES,MEDIUM,BetterCodeHub,NaN,102.0,100.0
+598,"THashSet.$constructor(int,float,TObjectHashingStrategy)",SMALL_UNIT_INTERFACES,MEDIUM,BetterCodeHub,NaN,107.0,105.0
+599,TObjectHash.java,SEPARATE_CONCERNS_IN_MODULES,HIGH,BetterCodeHub,NaN,373.0,1.0
+600,THash.java,SEPARATE_CONCERNS_IN_MODULES,HIGH,BetterCodeHub,NaN,410.0,1.0
+601,Result.java,SEPARATE_CONCERNS_IN_MODULES,MEDIUM,BetterCodeHub,NaN,134.0,1.0
+602,Reporter.java,SEPARATE_CONCERNS_IN_MODULES,MEDIUM,BetterCodeHub,NaN,32.0,1.0
+603,TLinkable.java,SEPARATE_CONCERNS_IN_MODULES,MEDIUM,BetterCodeHub,NaN,65.0,1.0
+604,Operation.java,SEPARATE_CONCERNS_IN_MODULES,MEDIUM,BetterCodeHub,NaN,25.0,1.0
+605,SerializationProcedure.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,714.0,1.0
+606,Main.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,453.0,1.0
+607,Generate.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,460.0,1.0
+608,MemoryUsage.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,223.0,1.0
+609,CompactionBenchmark.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,101.0,1.0
+610,XMLReporter.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,87.0,1.0
+611,Result.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,134.0,1.0
+612,Repeater.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,62.0,1.0
+613,TPrimitiveHash.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,126.0,1.0
+614,TIterator.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,102.0,1.0
+615,TextReporter.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,53.0,1.0
+616,HashFunctions.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,87.0,1.0
+617,THashIterator.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,100.0,1.0
+618,TPrimitiveIterator.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,75.0,1.0
+619,Reporter.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,32.0,1.0
+620,ToObjectArrayProcedure.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,42.0,1.0
+621,TObjectHashIterator.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,42.0,1.0
+622,Timer.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,26.0,1.0
+623,Operation.java,AUTOMATE_TESTS,VERY_HIGH,BetterCodeHub,NaN,25.0,1.0
+624,THashMapTest.java,WRITE_CLEAN_CODE,VERY_HIGH,BetterCodeHub,NaN,272.0,250.0
+625,Main.java,WRITE_CLEAN_CODE,VERY_HIGH,BetterCodeHub,NaN,413.0,410.0
+626,Test.java,WRITE_CLEAN_CODE,VERY_HIGH,BetterCodeHub,NaN,20.0,20.0
+627,Test.java,WRITE_CLEAN_CODE,VERY_HIGH,BetterCodeHub,NaN,22.0,22.0
+628,TObjectHash.java,WRITE_CLEAN_CODE,VERY_HIGH,BetterCodeHub,NaN,202.0,202.0
+629,TArrayListTest.java,WRITE_CLEAN_CODE,VERY_HIGH,BetterCodeHub,NaN,50.0,50.0
+630,TArrayListTest.java,WRITE_CLEAN_CODE,VERY_HIGH,BetterCodeHub,NaN,57.0,57.0
+631,TArrayListTest.java,WRITE_CLEAN_CODE,VERY_HIGH,BetterCodeHub,NaN,64.0,64.0
+632,Generate.java,WRITE_CLEAN_CODE,VERY_HIGH,BetterCodeHub,NaN,401.0,401.0
+633,Generate.java,WRITE_CLEAN_CODE,VERY_HIGH,BetterCodeHub,NaN,437.0,437.0
+634,TStackTest.java,WRITE_CLEAN_CODE,VERY_HIGH,BetterCodeHub,NaN,81.0,81.0
+635,SerializationTest.java,WRITE_CLEAN_CODE,VERY_HIGH,BetterCodeHub,NaN,573.0,573.0
+636,SerializationTest.java,WRITE_CLEAN_CODE,VERY_HIGH,BetterCodeHub,NaN,581.0,581.0
+637,TLinkedListTest.java,WRITE_CLEAN_CODE,VERY_HIGH,BetterCodeHub,NaN,572.0,572.0
+638,TLinkedListTest.java,WRITE_CLEAN_CODE,VERY_HIGH,BetterCodeHub,NaN,580.0,580.0
+639,TLinkedListTest.java,WRITE_CLEAN_CODE,VERY_HIGH,BetterCodeHub,NaN,591.0,591.0
