@@ -1,0 +1,1092 @@
+,issueId,issueDescription
+0,squid:S2589,Boolean expressions should not be gratuitous
+1,squid:S00105,Tabulation characters should not be used
+2,squid:S00121,Control structures should use curly braces
+3,squid:S00122,Statements should be on separate lines
+4,squid:S1132,Strings literals should be placed on the left side when checking for equality
+5,squid:S1147,Exit methods should not be called
+6,squid:S2221,"""Exception"" should not be caught when not required by called methods"
+7,squid:S2232,"""ResultSet.isLast()"" should not be used"
+8,squid:S2583,Conditionally executed blocks should be reachable
+9,squid:S00112,Generic exceptions should never be thrown
+10,squid:S1149,"Synchronized classes Vector, Hashtable, Stack and StringBuffer should not be used"
+11,squid:S1264,"A ""while"" loop should be used instead of a ""for"" loop"
+12,squid:S2112,"""URL.hashCode"" and ""URL.equals"" should be avoided"
+13,squid:S2445,"Blocks should be synchronized on ""private final"" fields or parameters"
+14,squid:S1118,Utility classes should not have public constructors
+15,squid:S2699,Tests should include assertions
+16,squid:UnusedPrivateMethod,"Unused ""private"" methods should be removed"
+17,squid:UselessParenthesesCheck,Redundant pairs of parentheses should be removed
+18,squid:S1244,Floating point numbers should not be tested for equality
+19,squid:S2384,Mutable members should not be stored or returned directly
+20,squid:S2692,"""indexOf"" checks should not be for positive numbers"
+21,squid:S2694,"Inner classes which do not reference their owning classes should be ""static"""
+22,squid:S3358,Ternary operators should not be nested
+23,squid:S1068,"Unused ""private"" fields should be removed"
+24,squid:S1172,Unused method parameters should be removed
+25,squid:S1186,Methods should not be empty
+26,squid:S2140,"Methods of ""Random"" that return floating point values should not be used in random integer generation"
+27,squid:S2274,"""Object.wait(...)"" and ""Condition.await(...)"" should be called inside a ""while"" loop"
+28,squid:S2275,Printf-style format strings should not lead to unexpected behavior at runtime
+29,squid:S2276,"""wait(...)"" should be used instead of ""Thread.sleep(...)"" when a lock is held"
+30,squid:S2278,Neither DES (Data Encryption Standard) nor DESede (3DES) should be used
+31,squid:S1155,Collection.isEmpty() should be used to test for emptiness
+32,squid:S1157,Case insensitive string comparisons should be made without intermediate upper or lower casing
+33,squid:S1158,"Primitive wrappers should not be instantiated only for ""toString"" or ""compareTo"" calls"
+34,squid:S1181,Throwable and Error should not be caught
+35,squid:S2129,"Constructors should not be used to instantiate ""String"" and primitive-wrapper classes"
+36,squid:S2273,"""wait"", ""notify"" and ""notifyAll"" should only be called when a lock is obviously held on an object"
+37,squid:S2390,Classes should not access static members of their own subclasses during initialization
+38,squid:S3346,"Expressions used in ""assert"" should not produce side effects"
+39,squid:S3457,Printf-style format strings should be used correctly
+40,squid:AssignmentInSubExpressionCheck,Assignments should not be made from within sub-expressions
+41,squid:S1161,"""@Override"" should be used on overriding and implementing methods"
+42,squid:S1163,Exceptions should not be thrown in finally blocks
+43,squid:S1166,Exception handlers should preserve the original exceptions
+44,squid:S2130,"Parsing should be used to convert ""Strings"" to primitives"
+45,squid:S2131,"Primitives should not be boxed just for ""String"" conversion"
+46,squid:S2133,"Objects should not be created only to ""getClass"""
+47,squid:S2250,Collection methods with O(n) performance should be used carefully
+48,squid:S2629,"""Preconditions"" and logging arguments should not require evaluation"
+49,squid:S2864,"""entrySet()"" should be iterated when both the key and value are needed"
+50,squid:S1640,Maps with keys that are enum values should be replaced with EnumMap
+51,squid:S1641,Sets with elements that are enum values should be replaced with EnumSet
+52,squid:S1643,Strings should not be concatenated using '+' in a loop
+53,squid:S1698,"""=="" and ""!="" should not be used when ""equals"" is overridden"
+54,squid:S1751,Jump statements should not be used unconditionally
+55,squid:S1764,Identical expressions should not be used on both sides of a binary operator
+56,squid:S1871,Two branches in a conditional structure should not have exactly the same implementation
+57,squid:S1994,"""for"" loop increment clauses should modify the loops' counters"
+58,squid:S3631,"""Arrays.stream"" should be used for primitive arrays"
+59,squid:S3725,"Java 8's ""Files.exists"" should not be used"
+60,squid:S3750,"Spring ""@Controller"" classes should not use ""@Scope"""
+61,squid:MaximumInheritanceDepth,Inheritance tree of classes should not be too deep
+62,squid:S1215,Execution of the Garbage Collector should be triggered only by the JVM
+63,squid:S1219,"""switch"" statements should not contain non-case labels"
+64,squid:S1226,"Method parameters, caught exceptions and foreach variables should not be reassigned"
+65,squid:S2437,Silly bit operations should not be performed
+66,squid:S3751,"""@RequestMapping"" methods should be ""public"""
+67,squid:CallToFileDeleteOnExitMethod,"""deleteOnExit"" should not be used"
+68,squid:IndentationCheck,Source code should be indented consistently
+69,squid:S1201,"""equals"" method overrides should accept ""Object"" parameters"
+70,squid:S1609,@FunctionalInterface annotation should be used to flag Single Abstract Method interfaces
+71,squid:S1850,"""instanceof"" operators that always return ""true"" or ""false"" should be removed"
+72,squid:S1854,Dead stores should be removed
+73,squid:S1858,"""toString()"" should never be called on a String object"
+74,squid:S1943,Classes and methods that rely on the default system encoding should not be used
+75,squid:S3749,Members of Spring components should be injected
+76,squid:SwitchLastCaseIsDefaultCheck,"""switch"" statements should end with ""default"" clauses"
+77,squid:MethodCyclomaticComplexity,Methods should not be too complex
+78,squid:S124,Track comments matching a regular expression
+79,squid:S128,"Switch cases should end with an unconditional ""break"" statement"
+80,squid:S135,"Loops should not contain more than a single ""break"" or ""continue"" statement"
+81,squid:S2189,Loops should not be infinite
+82,squid:S2718,"""DateUtils.truncate"" from Apache Commons Lang library should not be used"
+83,squid:S3923,All branches in a conditional structure should not have exactly the same implementation
+84,squid:EmptyStatementUsageCheck,Empty statements should be removed
+85,squid:S1075,URIs should not be hardcoded
+86,squid:S2047,"The names of methods with boolean return values should start with ""is"" or ""has"""
+87,squid:S2070,SHA-1 and Message-Digest hash algorithms should not be used
+88,squid:S2077,SQL binding mechanisms should be used
+89,squid:S2184,Math operands should be cast before assignment
+90,squid:S2185,Silly math should not be performed
+91,squid:S2197,Modulus results should not be checked for direct equality
+92,squid:S3047,Multiple loops over the same set should be combined
+93,squid:S1191,"Classes from ""sun.*"" packages should not be used"
+94,squid:S2096,"""main"" should not ""throw"" anything"
+95,squid:S2160,"Subclasses that add fields should override ""equals"""
+96,squid:S2178,Short-circuit logic should be used in boolean contexts
+97,squid:S3010,Static fields should not be updated in constructors
+98,squid:S3027,String function use should be optimized for single characters
+99,squid:S2093,Try-with-resources should be used
+100,pmd-unit-tests:JUnitTestsShouldIncludeAssert,JUnit tests should include an assert
+101,pmd-unit-tests:TestClassWithoutTestCases,Test class without test cases (JUnit 3.x only)
+102,pmd-unit-tests:UseAssertEqualsInsteadOfAssertTrue,Use assertEquals instead of assertTrue
+103,pmd-unit-tests:UseAssertTrueInsteadOfAssertEquals,Use Assert True Instead Of Assert Equals
+104,pmd-unit-tests:JUnit4SuitesShouldUseSuiteAnnotation,JUnit4 Suites Should Use Suite Annotation
+105,pmd-unit-tests:JUnit4TestShouldUseAfterAnnotation,JUnit4 Test Should Use After Annotation
+106,pmd-unit-tests:JUnit4TestShouldUseBeforeAnnotation,JUnit4 Test Should Use Before Annotation
+107,pmd-unit-tests:JUnit4TestShouldUseTestAnnotation,JUnit4 Test Should Use Test Annotation
+108,pmd-unit-tests:JUnitAssertionsShouldIncludeMessage,JUnit assertions should include a message
+109,pmd-unit-tests:JUnitSpelling,JUnit spelling
+110,pmd-unit-tests:JUnitStaticSuite,JUnit static suite
+111,pmd-unit-tests:JUnitTestContainsTooManyAsserts,JUnit Test Contains Too Many Asserts
+112,pmd-unit-tests:JUnitUseExpected,JUnit Use Expected
+113,pmd-unit-tests:SimplifyBooleanAssertion,Simplify boolean assertion
+114,pmd-unit-tests:UnnecessaryBooleanAssertion,Unnecessary boolean assertion
+115,pmd-unit-tests:UseAssertNullInsteadOfAssertTrue,Use assertNull instead of assertTrue
+116,pmd-unit-tests:UseAssertSameInsteadOfAssertTrue,Use assertSame instead of assertTrue
+117,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.NoCloneCheck,No Clone
+118,checkstyle:com.puppycrawl.tools.checkstyle.checks.header.HeaderCheck,Header
+119,checkstyle:com.puppycrawl.tools.checkstyle.checks.header.RegexpHeaderCheck,Regexp Header
+120,checkstyle:com.puppycrawl.tools.checkstyle.checks.imports.ImportControlCheck,Import Control
+121,checkstyle:com.puppycrawl.tools.checkstyle.checks.whitespace.FileTabCharacterCheck,File Tab Character
+122,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.PackageDeclarationCheck,Package Declaration
+123,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.EqualsAvoidNullCheck,Equals Avoid Null
+124,pmd:AvoidFieldNameMatchingMethodName,Naming - Avoid field name matching method name
+125,pmd:ExcessivePublicCount,Excessive Public Count
+126,pmd:FinalizeDoesNotCallSuperFinalize,Finalize Does Not Call Super Finalize
+127,pmd:OneDeclarationPerLine,One Declaration Per Line
+128,pmd:PackageCase,Package case
+129,pmd:AvoidConstantsInterface,Avoid Constants Interface
+130,pmd:AvoidDuplicateLiterals,Avoid Duplicate Literals
+131,pmd:AvoidEnumAsIdentifier,Avoid Enum As Identifier
+132,pmd:AvoidReassigningParameters,Avoid Reassigning Parameters
+133,pmd:AvoidRethrowingException,Avoid Rethrowing Exception
+134,pmd:CloneMethodReturnTypeMustMatchClassName,If a class implements Cloneable the return type of the method clone() must be the class name
+135,pmd:CloneThrowsCloneNotSupportedException,Clone Throws Clone Not Supported Exception
+136,pmd:CloseResource,Close Resource
+137,pmd:CompareObjectsWithEquals,Compare Objects With Equals
+138,pmd:ConsecutiveAppendsShouldReuse,Consecutive Appends Should Reuse
+139,pmd:EmptyStatementBlock,Empty Statement Block
+140,pmd:EmptySynchronizedBlock,Empty Synchronized Block
+141,pmd:EqualsNull,Equals Null
+142,pmd:IfStmtsMustUseBraces,If Stmts Must Use Braces
+143,pmd:TooManyStaticImports,Too Many Static Imports
+144,pmd:UnnecessaryFullyQualifiedName,Unnecessary Fully Qualified Name
+145,pmd:UnnecessaryLocalBeforeReturn,Unnecessary Local Before Return
+146,pmd:UnusedFormalParameter,Unused formal parameter
+147,pmd:UseArrayListInsteadOfVector,Use Array List Instead Of Vector
+148,pmd:UseArraysAsList,Use Arrays As List
+149,pmd:XPathRule,XPath rule template
+150,pmd:AbstractClassWithoutAbstractMethod,Abstract Class Without Abstract Method
+151,pmd:AddEmptyString,Add Empty String
+152,pmd:BigIntegerInstantiation,Big Integer Instantiation
+153,pmd:CloneMethodMustBePublic,"By convention, classes that implement the Cloneable interface should override Object.clone (which is protected) with a public method"
+154,pmd:CloneMethodMustImplementCloneable,Clone method must implement Cloneable
+155,pmd:CommentRequired,Comment Required
+156,pmd:ConfusingTernary,Confusing Ternary
+157,pmd:DontCallThreadRun,Dont Call Thread Run
+158,pmd:EmptyStaticInitializer,Empty Static Initializer
+159,pmd:EmptySwitchStatements,Empty Switch Statements
+160,pmd:ExceptionAsFlowControl,Exception As Flow Control
+161,pmd:GodClass,God Class
+162,pmd:InsufficientStringBufferDeclaration,Insufficient String Buffer Declaration
+163,pmd:MethodNamingConventions,Naming - Method naming conventions
+164,pmd:MisleadingVariableName,Naming - Misleading variable name
+165,pmd:ModifiedCyclomaticComplexity,Modified Cyclomatic Complexity
+166,pmd:NoPackage,No package
+167,pmd:RedundantFieldInitializer,Redundant Field Initializer
+168,pmd:UncommentedEmptyConstructor,Uncommented Empty Constructor
+169,pmd:UnnecessaryFinalModifier,Unnecessary Final Modifier
+170,pmd:UseProperClassLoader,Use Proper Class Loader
+171,pmd:AccessorClassGeneration,Accessor Class Generation
+172,pmd:AvoidProtectedFieldInFinalClass,Avoid Protected Field In Final Class
+173,pmd:AvoidSynchronizedAtMethodLevel,Avoid Synchronized At Method Level
+174,pmd:AvoidUsingOctalValues,Avoid Using Octal Values
+175,pmd:BooleanGetMethodName,Boolean Get Method Name
+176,pmd:CheckResultSet,Check ResultSet
+177,pmd:CyclomaticComplexity,Code size - cyclomatic complexity
+178,pmd:EmptyTryBlock,Empty Try Block
+179,pmd:ExtendsObject,Extends Object
+180,pmd:InefficientStringBuffering,Inefficient String Buffering
+181,pmd:LongVariable,Long Variable
+182,pmd:NcssMethodCount,Ncss Method Count
+183,pmd:NonStaticInitializer,Non Static Initializer
+184,pmd:ReplaceEnumerationWithIterator,Replace Enumeration With Iterator
+185,pmd:SimplifyBooleanExpressions,Avoid unnecessary comparisons in boolean expressions
+186,pmd:StringToString,String To String
+187,pmd:SuspiciousConstantFieldName,Naming - Suspicious constant field name
+188,pmd:SuspiciousEqualsMethodName,Naming - Suspicious equals method name
+189,pmd:TooFewBranchesForASwitchStatement,Too few branches for a switch statement
+190,pmd:TooManyFields,Too Many Fields
+191,pmd:UnnecessaryReturn,Unnecessary Return
+192,pmd:UnusedPrivateMethod,Unused private method
+193,pmd:AssignmentInOperand,Assignment In Operand
+194,pmd:AvoidDecimalLiteralsInBigDecimalConstructor,Avoid Decimal Literals In Big Decimal Constructor
+195,pmd:AvoidPrefixingMethodParameters,Avoid Prefixing Method Parameters
+196,pmd:AvoidPrintStackTrace,Avoid Print Stack Trace
+197,pmd:AvoidThrowingNullPointerException,Avoid Throwing Null Pointer Exception
+198,pmd:AvoidUsingVolatile,Avoid Using Volatile
+199,pmd:CloneMethodMustImplementCloneableWithTypeResolution,Clone Method Must Implement Cloneable (With Type Resolution)
+200,pmd:CouplingBetweenObjects,Coupling between objects
+201,pmd:DefaultPackage,Default Package
+202,pmd:DoNotHardCodeSDCard,Android - Do Not Hard Code SD Card
+203,pmd:DuplicateImports,Duplicate Imports
+204,pmd:ExcessiveParameterList,Excessive Parameter List
+205,pmd:FinalizeShouldBeProtected,Finalize Should Be Protected
+206,pmd:IfElseStmtsMustUseBraces,If Else Stmts Must Use Braces
+207,pmd:MethodReturnsInternalArray,Security - Method returns internal array
+208,pmd:NonCaseLabelInSwitchStatement,Non Case Label In Switch Statement
+209,pmd:SimplifiedTernary,Ternary operator with a boolean literal can be simplified with a boolean expression
+210,pmd:SingularField,Singular Field
+211,pmd:TooManyMethods,Too many methods
+212,pmd:UnnecessaryParentheses,Unnecessary parentheses
+213,pmd:UseCollectionIsEmpty,Use Collection Is Empty
+214,pmd:UseIndexOfChar,Use Index Of Char
+215,pmd:UseVarargs,Use Varargs
+216,pmd:WhileLoopsMustUseBraces,While Loops Must Use Braces
+217,pmd:AvoidAccessibilityAlteration,Avoid Accessibility Alteration
+218,pmd:AvoidCatchingThrowable,Avoid Catching Throwable
+219,pmd:AvoidUsingShortType,Avoid Using Short Type
+220,pmd:ClassNamingConventions,Naming - Class naming conventions
+221,pmd:DefaultLabelNotLastInSwitchStmt,Default label not last in switch statement
+222,pmd:DoNotUseThreads,Do Not Use Threads
+223,pmd:EmptyFinallyBlock,Empty Finally Block
+224,pmd:FieldDeclarationsShouldBeAtStartOfClass,Field Declarations Should Be At Start Of Class
+225,pmd:FinalizeOverloaded,Finalize Overloaded
+226,pmd:ImportFromSamePackage,Import From Same Package
+227,pmd:LocalVariableCouldBeFinal,Local variable could be final
+228,pmd:LoosePackageCoupling,Loose Package Coupling
+229,pmd:MisplacedNullCheck,Misplaced Null Check
+230,pmd:NullAssignment,Null Assignment
+231,pmd:PositionLiteralsFirstInCaseInsensitiveComparisons,Position Literals First In Case Insensitive Comparisons
+232,pmd:PositionLiteralsFirstInComparisons,Position Literals First In Comparisons
+233,pmd:ReturnFromFinallyBlock,Return From Finally Block
+234,pmd:ShortMethodName,Naming - Short method name
+235,pmd:SimpleDateFormatNeedsLocale,Simple Date Format Needs Locale
+236,pmd:UnconditionalIfStatement,Unconditional If Statement
+237,pmd:UnnecessaryConstructor,Unnecessary constructor
+238,pmd:UnnecessaryConversionTemporary,Unnecessary Conversion Temporary
+239,pmd:AbstractNaming,Abstract naming
+240,pmd:ArrayIsStoredDirectly,Security - Array is stored directly
+241,pmd:AtLeastOneConstructor,At Least One Constructor
+242,pmd:AvoidStringBufferField,Avoid StringBuffer field
+243,pmd:CommentContent,Comment Content
+244,pmd:EmptyStatementNotInLoop,Empty Statement Not In Loop
+245,pmd:GenericsNaming,Generics Naming
+246,pmd:GuardLogStatementJavaUtil,Guard Log Statement Java Util
+247,pmd:IdempotentOperations,Idempotent Operations
+248,pmd:LogicInversion,Logic Inversion
+249,pmd:LooseCouplingWithTypeResolution,Loose Coupling (With Type Resolution)
+250,pmd:MethodWithSameNameAsEnclosingClass,Naming - Method with same name as enclosing class
+251,pmd:MissingBreakInSwitch,Missing Break In Switch
+252,pmd:ProperCloneImplementation,Proper clone implementation
+253,pmd:ShortClassName,Short Class Name
+254,pmd:SignatureDeclareThrowsExceptionWithTypeResolution,Signature Declare Throws Exception (With Type Resolution)
+255,pmd:SimplifyBooleanReturns,Simplify boolean returns
+256,pmd:SingleMethodSingleton,Only one getInstance method is allowed
+257,pmd:SingletonClassReturningNewInstance,getInstance should cache the instance
+258,pmd:UselessStringValueOf,Useless String Value Of
+259,pmd:AvoidArrayLoops,Avoid Array Loops
+260,pmd:AvoidThrowingNewInstanceOfSameException,Strict Exception - Avoid throwing new instance of same exception
+261,pmd:AvoidUsingNativeCode,Avoid Using Native Code
+262,pmd:BooleanInstantiation,Boolean Instantiation
+263,pmd:ConsecutiveLiteralAppends,Consecutive Literal Appends
+264,pmd:DoNotCallGarbageCollectionExplicitly,Do not call garbage collection explicitly
+265,pmd:DontImportSun,Dont Import Sun
+266,pmd:ExcessiveMethodLength,Excessive Method Length
+267,pmd:FinalFieldCouldBeStatic,Final Field Could Be Static
+268,pmd:GuardLogStatement,Guard Log Statement
+269,pmd:LoggerIsNotStaticFinal,Logger Is Not Static Final
+270,pmd:MissingSerialVersionUID,Missing Serial Version UID
+271,pmd:NonThreadSafeSingleton,Non Thread Safe Singleton
+272,pmd:PreserveStackTrace,Preserve Stack Trace
+273,pmd:ReturnEmptyArrayRatherThanNull,Return empty array rather than null
+274,pmd:SimplifyConditional,Simplify Conditional
+275,pmd:SuspiciousHashcodeMethodName,Naming - Suspicious Hashcode method name
+276,pmd:SwitchStmtsShouldHaveDefault,Switch statements should have default
+277,pmd:UnusedImports,Unused imports
+278,pmd:UnusedImportsWithTypeResolution,Unused Imports (With Type Resolution)
+279,pmd:UseNotifyAllInsteadOfNotify,Use Notify All Instead Of Notify
+280,pmd:AppendCharacterWithChar,Append Character With Char
+281,pmd:AvoidCallingFinalize,Avoid Calling Finalize
+282,pmd:AvoidCatchingNPE,Avoid Catching NPE
+283,pmd:AvoidDeeplyNestedIfStmts,Avoid Deeply Nested If Stmts
+284,pmd:AvoidFinalLocalVariable,Avoid Final Local Variable
+285,pmd:AvoidThreadGroup,Avoid Thread Group
+286,pmd:CollapsibleIfStatements,Collapsible If Statements
+287,pmd:DoNotExtendJavaLangError,Do Not Extend Java Lang Error
+288,pmd:EmptyCatchBlock,Empty Catch Block
+289,pmd:EmptyMethodInAbstractClassShouldBeAbstract,Empty Method In Abstract Class Should Be Abstract
+290,pmd:ImmutableField,Immutable Field
+291,pmd:InefficientEmptyStringCheck,Inefficient Empty String Check
+292,pmd:LongInstantiation,Java5 migration - Long instantiation
+293,pmd:LooseCoupling,Loose coupling
+294,pmd:NcssTypeCount,Ncss Type Count
+295,pmd:SimplifyStartsWith,Simplify Starts With
+296,pmd:StdCyclomaticComplexity,Std Cyclomatic Complexity
+297,pmd:UnusedLocalVariable,Unused local variable
+298,pmd:UseEqualsToCompareStrings,Use Equals To Compare Strings
+299,pmd:UselessOperationOnImmutable,Useless Operation On Immutable
+300,pmd:UseUtilityClass,Use Utility Class
+301,pmd:AbstractClassWithoutAnyMethod,Abstract class without any methods
+302,pmd:AssignmentToNonFinalStatic,Assignment To Non Final Static
+303,pmd:AvoidCatchingGenericException,Avoid Catching Generic Exception
+304,pmd:AvoidInstanceofChecksInCatchClause,Avoid Instanceof Checks In Catch Clause
+305,pmd:BrokenNullCheck,Broken Null Check
+306,pmd:CallSuperLast,Android - call super last
+307,pmd:ClassCastExceptionWithToArray,Class Cast Exception With To Array
+308,pmd:CommentDefaultAccessModifier,Comment the default access modifier
+309,pmd:DataflowAnomalyAnalysis,Dataflow Anomaly Analysis
+310,pmd:ExcessiveImports,Coupling - excessive imports
+311,pmd:MethodArgumentCouldBeFinal,Method Argument Could Be Final
+312,pmd:OnlyOneReturn,Only One Return
+313,pmd:OptimizableToArrayCall,Optimizable To Array Call
+314,pmd:PrematureDeclaration,Premature Declaration
+315,pmd:ReplaceVectorWithList,Replace Vector With List
+316,pmd:SignatureDeclareThrowsException,Signature Declare Throws Exception
+317,pmd:UncommentedEmptyMethodBody,Uncommented Empty Method
+318,pmd:UnnecessaryCaseChange,Unnecessary Case Change
+319,pmd:UnusedNullCheckInEquals,Unused Null Check In Equals
+320,pmd:UseConcurrentHashMap,Use ConcurrentHashMap
+321,pmd:UselessQualifiedThis,Flags unnecessary qualified usages of this
+322,pmd:VariableNamingConventions,Naming - Variable naming conventions
+323,pmd:AvoidAssertAsIdentifier,Avoid Assert As Identifier
+324,pmd:AvoidBranchingStatementAsLastInLoop,Avoid Branching Statement As Last In Loop
+325,pmd:CallSuperInConstructor,Call Super In Constructor
+326,pmd:DoNotThrowExceptionInFinally,Strict Exception - Do not throw exception in finally
+327,pmd:EmptyInitializer,Basic - Empty Initializer
+328,pmd:FinalizeOnlyCallsSuperFinalize,Finalize Only Calls Super Finalize
+329,pmd:ForLoopsMustUseBraces,For Loops Must Use Braces
+330,pmd:GuardDebugLogging,Guard Debug Logging
+331,pmd:InstantiationToGetClass,Instantiation To Get Class
+332,pmd:LawOfDemeter,Law Of Demeter
+333,pmd:LocalHomeNamingConvention,Local Home Naming Convention
+334,pmd:NcssConstructorCount,Ncss Constructor Count
+335,pmd:OverrideBothEqualsAndHashcode,Override both equals and hashcode
+336,pmd:ProperLogger,Proper Logger
+337,pmd:ShortInstantiation,Java5 migration - Short instantiation
+338,pmd:StringInstantiation,String Instantiation
+339,pmd:SuspiciousOctalEscape,Suspicious Octal Escape
+340,pmd:SystemPrintln,System Println
+341,pmd:UnnecessaryWrapperObjectCreation,Unnecessary Wrapper Object Creation
+342,pmd:UseCorrectExceptionLogging,Use Correct Exception Logging
+343,pmd:UseStringBufferForStringAppends,Use String Buffer For String Appends
+344,pmd:AvoidUsingHardCodedIP,Avoid Using Hard Coded IP
+345,pmd:ConstructorCallsOverridableMethod,Constructor Calls Overridable Method
+346,pmd:DontImportJavaLang,Dont Import Java Lang
+347,pmd:DontUseFloatTypeForLoopIndices,Dont Use Float Type For Loop Indices
+348,pmd:LocalInterfaceSessionNamingConvention,Local Interface Session Naming Convention
+349,pmd:UnusedModifier,Unused Modifier
+350,pmd:UselessParentheses,Useless Parentheses
+351,pmd:AvoidFieldNameMatchingTypeName,Naming - Avoid field name matching type name
+352,pmd:AvoidInstantiatingObjectsInLoops,Avoid instantiating objects in loops
+353,pmd:AvoidLiteralsInIfCondition,Avoid Literals In If Condition
+354,pmd:AvoidMultipleUnaryOperators,Avoid Multiple Unary Operators
+355,pmd:BadComparison,Bad Comparison
+356,pmd:CallSuperFirst,Android - call super first
+357,pmd:CheckSkipResult,Check Skip Result
+358,pmd:ClassWithOnlyPrivateConstructorsShouldBeFinal,Class with only private constructors should be final
+359,pmd:CommentSize,Comment Size
+360,pmd:EmptyFinalizer,Empty Finalizer
+361,pmd:IntegerInstantiation,Integer Instantiation
+362,pmd:JumbledIncrementer,Jumbled Incrementer
+363,pmd:NPathComplexity,NPath complexity
+364,pmd:RemoteInterfaceNamingConvention,Remote Interface Naming Convention
+365,pmd:StaticEJBFieldShouldBeFinal,Static EJB Field Should Be Final
+366,pmd:StringBufferInstantiationWithChar,String Buffer Instantiation With Char
+367,pmd:SwitchDensity,Switch Density
+368,pmd:UnusedPrivateField,Unused Private Field
+369,pmd:UseLocaleWithCaseConversions,Use Locale With Case Conversions
+370,pmd:UseStringBufferLength,Use String Buffer Length
+371,pmd:AvoidDollarSigns,Naming - Avoid dollar signs
+372,pmd:AvoidProtectedMethodInFinalClassNotExtending,Avoid Protected Method In Final Class Not Extending
+373,pmd:AvoidThrowingRawExceptionTypes,Avoid Throwing Raw Exception Types
+374,pmd:BeanMembersShouldSerialize,Bean Members Should Serialize
+375,pmd:ByteInstantiation,Java5 migration - Byte instantiation
+376,pmd:DoNotCallSystemExit,Do Not Call System Exit
+377,pmd:DoubleCheckedLocking,Double checked locking
+378,pmd:EmptyIfStmt,Empty If Stmt
+379,pmd:EmptyWhileStmt,Empty While Stmt
+380,pmd:ExcessiveClassLength,Excessive Class Length
+381,pmd:ForLoopShouldBeWhileLoop,For Loop Should Be While Loop
+382,pmd:MDBAndSessionBeanNamingConvention,Message Driven Bean And Session Bean Naming Convention
+383,pmd:MissingStaticMethodInNonInstantiatableClass,Missing Static Method In Non Instantiatable Class
+384,pmd:MoreThanOneLogger,More Than One Logger
+385,pmd:RemoteSessionInterfaceNamingConvention,Remote Session Interface Naming Convention
+386,pmd:ReplaceHashtableWithMap,Replace Hashtable With Map
+387,pmd:ShortVariable,Short Variable
+388,pmd:UselessOverridingMethod,Useless Overriding Method
+389,pmd:UseObjectForClearerAPI,Use Object For Clearer API
+390,pmd:UnsynchronizedStaticDateFormatter,Unsynchronized Static Date Formatter
+391,pmd:AvoidLosingExceptionInformation,Avoid Losing Exception Information
+392,common-java:InsufficientLineCoverage,Lines should have sufficient coverage by tests
+393,common-java:InsufficientBranchCoverage,Branches should have sufficient coverage by tests
+394,code_smells:blob_class,Blob class
+395,jdepend:abstractness,Abstractness
+396,jdepend:afferent-couplings,Afferent Couplings
+397,jdepend:distance-from-main-sequence,Distance from the Main Sequence
+398,jdepend:efferent-couplings,Efferent Couplings
+399,jdepend:instability,Instability
+400,jdepend:package-cycle,Package Dependency Cycles
+401,jdepend:number-of-classes-and-interfaces,Number of Classes and Interfaces
+402,sonargraphintegration:CLASS_FILE_MISSING,Sonargraph Integration: Type without corresponding class file
+403,sonargraphintegration:CLASS_FILE_UNPARSEABLE,Sonargraph Integration: Unable to parse class file
+404,sonargraphintegration:COMPONENT_CYCLE_GROUP,Sonargraph Integration: Component Cycle Group
+405,sonargraphintegration:INVALID_ARCHITECTURE_FILE_ENTRY,Sonargraph Integration: Invalid Entry In Architecture Check Configuration
+406,sonargraphintegration:JAVA_FILE_UNPARSEABLE,Sonargraph Integration: Unable to parse java file
+407,sonargraphintegration:MOVE_RENAME_REFACTORING,Sonargraph Integration: Move/rename Refactoring
+408,sonargraphintegration:NAMESPACE_CYCLE_GROUP,Sonargraph Integration: Namespace Cycle Group
+409,sonargraphintegration:SCALA_FILE_DUPLICATE,Sonargraph Integration: Duplicate scala file
+410,sonargraphintegration:WORKSPACE_DEPENDENCY_PROBLEMATIC,Sonargraph Integration: Problematic Workspace Dependency
+411,sonargraphintegration:CLASS_FILE_MISPLACED,Sonargraph Integration: Package of defined type does not match the relative directory path
+412,sonargraphintegration:DUPLICATE_CODE_BLOCK,Sonargraph Integration: Duplicate Code Block
+413,sonargraphintegration:GROOVY_FILE_DUPLICATE,Sonargraph Integration: Duplicate groovy file
+414,sonargraphintegration:JAVA_FILE_CLASS_FILE_MISSING,Sonargraph Integration: Type defined in source file without corresponding class file
+415,sonargraphintegration:ROOT_PATH_DOES_NOT_EXIST,Sonargraph Integration: Root Path Not Found
+416,sonargraphintegration:ROOT_PATH_NO_READ_PERMISSION,Sonargraph Integration: Root Path Without Read Permission
+417,sonargraphintegration:SCRIPT_RUNNER_CONFIGURATION_ERROR,Sonargraph Integration: Script Runner Configuration Error
+418,sonargraphintegration:TODO,Sonargraph Integration: Todo
+419,sonargraphintegration:UNRESOLVED_REQUIRED_ARTIFACT,Sonargraph Integration: Unresolved required artifact
+420,sonargraphintegration:UNSUPPORTED_SCRIPT_API_LANGUAGE,Sonargraph Integration: Unsupported Script API Language
+421,sonargraphintegration:WORKSPACE_DEPENDENCY_INVALID,Sonargraph Integration: Invalid Workspace Dependency
+422,sonargraphintegration:ASPECTJ_FILE_TYPE_MATCHING_INCONSISTENT,Sonargraph Integration: Type(s) defined in AspectJ file do not match the source information obtained from class file(s)
+423,sonargraphintegration:GROOVY_FILE_CORRESPONDING_CLASS_FILE_MISSING,Sonargraph Integration: Groovy file without corresponding class file
+424,sonargraphintegration:SCALA_FILE_TYPE_MATCHING_INCONSISTENT,Sonargraph Integration: Type(s) defined in Scala file do not match the source information obtained from class file(s)
+425,sonargraphintegration:ASPECTJ_FILE_DUPLICATE,Sonargraph Integration: AspectJ source file with same relative path has already be found
+426,sonargraphintegration:CLASS_FILE_OUT_OF_DATE,Sonargraph Integration: Class file is out-of-date
+427,sonargraphintegration:JAVA_FILE_PARSE_ERROR,Sonargraph Integration: Java file parse error
+428,sonargraphintegration:JAVA_FILE_TYPE_MATCHING_INCONSISTENT,Sonargraph Integration: Type(s) defined in Java file do not match the source information obtained from class file(s)
+429,sonargraphintegration:POTENTIALLY_DEAD_FIELD,Sonargraph Integration: Potentially dead field
+430,sonargraphintegration:ROOT_PATH_NEITHER_AN_ARCHIVE_NOR_DIRECTORY,Sonargraph Integration: The specified path is neither an archive nor a directory
+431,sonargraphintegration:WORKSPACE_DEPENDENCY_NOT_IMPLEMENTED,Sonargraph Integration: Unimplemented Workspace Dependency
+432,sonargraphintegration:ARCHITECTURE_FILE_ERROR,Sonargraph Integration: Architecture File Error
+433,sonargraphintegration:DELETE_REFACTORING,Sonargraph Integration: Delete Refactoring
+434,sonargraphintegration:DEPENDENCY_TO_EXCLUDED_INTERNAL_COMPONENT,Sonargraph Integration: Dependency to Excluded Internal Component
+435,sonargraphintegration:DIRECTORY_CYCLE_GROUP,Sonargraph Integration: Directory Cycle Group
+436,sonargraphintegration:DUPLICATE_SCRIPT_METRIC_DEFINITION,Sonargraph Integration: Duplicate Script Metric Definition
+437,sonargraphintegration:GROOVY_FILE_TYPE_MATCHING_INCONSISTENT,Sonargraph Integration: Type(s) defined in Groovy file do not match the source information obtained from class file(s)
+438,sonargraphintegration:POTENTIALLY_DEAD_METHOD,Sonargraph Integration: Potentially dead method
+439,sonargraphintegration:SUPERTYPE_USES_SUBTYPE,Sonargraph Integration: Supertype uses subtype
+440,sonargraphintegration:ARCHITECTURE_VIOLATION,Sonargraph Integration: Architecture Violation
+441,sonargraphintegration:ASPECTJ_FILE_CORRESPONDING_CLASS_FILE_MISSING,Sonargraph Integration: AspectJ file without corresponding class file
+442,sonargraphintegration:CLASS_FILE_DUPLICATE,Sonargraph Integration: Duplicate class file
+443,sonargraphintegration:EMPTY_ARCHITECTURE_ELEMENT,Sonargraph Integration: Empty Architecture Element
+444,sonargraphintegration:POTENTIALLY_DEAD_TYPE,Sonargraph Integration: Potentially dead type
+445,sonargraphintegration:RENAME_REFACTORING,Sonargraph Integration: Rename Refactoring
+446,sonargraphintegration:SCRIPT_COMPILATION_ERROR,Sonargraph Integration: Script Compilation Error
+447,sonargraphintegration:SEARCH_PATH_INVALID,Sonargraph Integration: Inaccessible Directory in Search Path
+448,sonargraphintegration:THRESHOLD_VIOLATION,Sonargraph Integration: Threshold Violation
+449,sonargraphintegration:UNRESOLVED_AMBIGUOUS_TARGET_TYPE,Sonargraph Integration: More than one target type found - dependency not resolved
+450,sonargraphintegration:ANALYZER_CONFIGURATION_PROCESSING_FAILED,Sonargraph Integration: Analyzer Configuration Error
+451,sonargraphintegration:AUTOMATED_SCRIPT_RUNTIME_ERROR,Sonargraph Integration: Automated Script Runtime Error
+452,sonargraphintegration:GROOVY_TEMPLATE_ERROR,Sonargraph Integration: Groovy Template Error
+453,sonargraphintegration:JAVA_FILE_DUPLICATE,Sonargraph Integration: Duplicate java file
+454,sonargraphintegration:MANUAL_SCRIPT_RUNTIME_ERROR,Sonargraph Integration: Manual Script Runtime Error
+455,sonargraphintegration:MODULE_CYCLE_GROUP,Sonargraph Integration: Module Cycle Group
+456,sonargraphintegration:MOVE_REFACTORING,Sonargraph Integration: Move Refactoring
+457,sonargraphintegration:RESOLVED_AMBIGUOUS_TARGET_TYPE,Sonargraph Integration: More than one target type found
+458,sonargraphintegration:SCALA_FILE_CORRESPONDING_CLASS_FILE_MISSING,Sonargraph Integration: Type(s) defined in Scala file were not found in class file(s)
+459,sonargraphintegration:WORKSPACE_DEPENDENCY_NOT_DEFINED,Sonargraph Integration: Undefined Workspace Dependency
+460,checkstyle:class_attributes,class attributes
+461,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.ModifiedControlVariableCheck,Modified Control Variable
+462,checkstyle:com.puppycrawl.tools.checkstyle.checks.naming.LocalFinalVariableNameCheck,Local Final Variable Name
+463,checkstyle:com.puppycrawl.tools.checkstyle.checks.sizes.MethodLengthCheck,Method Length
+464,checkstyle:com.puppycrawl.tools.checkstyle.checks.blocks.NeedBracesCheck,Need Braces
+465,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.ExplicitInitializationCheck,Explicit Initialization
+466,checkstyle:com.puppycrawl.tools.checkstyle.checks.FileContentsHolder,File Contents Holder
+467,checkstyle:com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocPackageCheck,Javadoc Package
+468,checkstyle:com.puppycrawl.tools.checkstyle.checks.javadoc.SummaryJavadocCheck,Javadoc summary
+469,checkstyle:com.puppycrawl.tools.checkstyle.checks.metrics.BooleanExpressionComplexityCheck,Boolean Expression Complexity
+470,checkstyle:com.puppycrawl.tools.checkstyle.checks.naming.ClassTypeParameterNameCheck,Class Type(Generic) Parameter Name
+471,checkstyle:com.puppycrawl.tools.checkstyle.checks.naming.MethodNameCheck,Method Name
+472,checkstyle:com.puppycrawl.tools.checkstyle.checks.naming.PackageNameCheck,Package name
+473,checkstyle:com.puppycrawl.tools.checkstyle.checks.blocks.EmptyBlockCheck,Empty Block
+474,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.NestedForDepthCheck,Nested For Depth
+475,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.NestedIfDepthCheck,Nested If Depth
+476,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.NestedTryDepthCheck,Nested Try Depth
+477,checkstyle:com.puppycrawl.tools.checkstyle.checks.design.HideUtilityClassConstructorCheck,Hide Utility Class Constructor
+478,checkstyle:com.puppycrawl.tools.checkstyle.checks.imports.UnusedImportsCheck,Unused Imports
+479,checkstyle:com.puppycrawl.tools.checkstyle.checks.naming.ConstantNameCheck,Constant Name
+480,checkstyle:com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck,Type Name
+481,checkstyle:com.puppycrawl.tools.checkstyle.checks.UpperEllCheck,Upper Ell
+482,checkstyle:com.puppycrawl.tools.checkstyle.checks.whitespace.GenericWhitespaceCheck,Generic Whitespace
+483,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.HiddenFieldCheck,Hidden Field
+484,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.MultipleVariableDeclarationsCheck,Multiple Variable Declarations
+485,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.UnnecessaryParenthesesCheck,Unnecessary Parentheses
+486,checkstyle:com.puppycrawl.tools.checkstyle.checks.design.InterfaceIsTypeCheck,Interface Is Type
+487,checkstyle:com.puppycrawl.tools.checkstyle.checks.indentation.IndentationCheck,Indentation
+488,checkstyle:com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocMethodCheck,Javadoc Method
+489,checkstyle:com.puppycrawl.tools.checkstyle.checks.regexp.RegexpOnFilenameCheck,Regexp On Filename
+490,checkstyle:com.puppycrawl.tools.checkstyle.checks.SuppressWarningsHolder,Suppress Warnings Holder
+491,checkstyle:com.puppycrawl.tools.checkstyle.checks.blocks.LeftCurlyCheck,Left Curly
+492,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.MultipleStringLiteralsCheck,Multiple String Literals
+493,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.OneStatementPerLineCheck,One Statement Per Line
+494,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.SuperFinalizeCheck,Super Finalize
+495,checkstyle:com.puppycrawl.tools.checkstyle.checks.imports.IllegalImportCheck,Illegal Import
+496,checkstyle:com.puppycrawl.tools.checkstyle.checks.naming.MethodTypeParameterNameCheck,Method Type(Generic) Parameter Name
+497,checkstyle:com.puppycrawl.tools.checkstyle.checks.regexp.RegexpCheck,Regexp
+498,checkstyle:com.puppycrawl.tools.checkstyle.checks.sizes.AnonInnerLengthCheck,Anon Inner Length
+499,checkstyle:com.puppycrawl.tools.checkstyle.checks.sizes.FileLengthCheck,File Length
+500,android-lint:InlinedApi,Using inlined constants on older versions
+501,android-lint:NestedWeights,Nested layout weights
+502,android-lint:ResourceAsColor,Should pass resolved color instead of resource id
+503,android-lint:ScrollViewSize,ScrollView size validation
+504,android-lint:SetJavaScriptEnabled,Using setJavaScriptEnabled
+505,android-lint:SmallSp,Text size is too small
+506,android-lint:SpUsage,Using dp instead of sp for text sizes
+507,android-lint:StopShip,Code contains STOPSHIP marker
+508,android-lint:StyleCycle,Cycle in style definitions
+509,android-lint:TypographyDashes,Hyphen can be replaced with dash
+510,android-lint:UnknownIdInLayout,Reference to an id that is not in the current layout
+511,android-lint:UnusedQuantity,Unused quantity translations
+512,android-lint:UselessLeaf,Useless leaf layout
+513,android-lint:WrongCase,Wrong case for view tag
+514,android-lint:BackButton,Back button
+515,android-lint:ExtraText,Extraneous text in resource files
+516,android-lint:IconLauncherShape,The launcher icon shape should use a distinct silhouette
+517,android-lint:InvalidId,Invalid ID declaration
+518,android-lint:NestedScrolling,Nested scrolling widgets
+519,android-lint:OnClick,onClick method does not exist
+520,android-lint:SelectableText,Dynamic text should probably be selectable
+521,android-lint:ShowToast,Toast created but not shown
+522,android-lint:UselessParent,Useless parent layout
+523,android-lint:ValidFragment,Fragment not instantiatable
+524,android-lint:WorldReadableFiles,openFileOutput() call passing MODE_WORLD_READABLE
+525,android-lint:WrongFolder,Resource file in the wrong res folder
+526,android-lint:WrongManifestParent,Wrong manifest parent
+527,android-lint:Deprecated,Using deprecated resources
+528,android-lint:GridLayout,GridLayout validation
+529,android-lint:IconNoDpi,Icon appears in both -nodpi and dpi folders
+530,android-lint:IllegalResourceRef,"Name and version must be integer or string, not resource"
+531,android-lint:InnerclassSeparator,Inner classes should use $ rather than .
+532,android-lint:InvalidPackage,Package not included in Android
+533,android-lint:JavascriptInterface,Missing @JavascriptInterface on methods
+534,android-lint:MissingSuperCall,Missing Super Call
+535,android-lint:OldTargetApi,Target SDK attribute is not targeting latest version
+536,android-lint:Overdraw,Overdraw: Painting regions more than once
+537,android-lint:RtlEnabled,Using RTL attributes without enabling RTL support
+538,android-lint:StateListReachable,Unreachable state in a <selector>
+539,android-lint:Typos,Spelling error
+540,android-lint:UnknownId,Reference to an unknown id
+541,android-lint:UnusedIds,Unused id
+542,android-lint:ViewConstructor,Missing View constructors for XML inflation
+543,android-lint:WrongCall,Using wrong draw/layout method
+544,android-lint:ContentDescription,Image without contentDescription
+545,android-lint:IconDuplicates,Duplicated icons under different names
+546,android-lint:IconDuplicatesConfig,Identical bitmaps across various configurations
+547,android-lint:IconXmlAndPng,Icon is specified both as .xml file and as a bitmap
+548,android-lint:LabelFor,Missing labelFor attribute
+549,android-lint:ManifestTypo,Typos in manifest tags
+550,android-lint:MissingApplicationIcon,Missing application icon
+551,android-lint:MissingQuantity,Missing quantity translation
+552,android-lint:MultipleUsesSdk,Multiple <uses-sdk> elements in the manifest
+553,android-lint:PackagedPrivateKey,Packaged private key
+554,android-lint:Suspicious0dp,Suspicious 0dp dimension
+555,android-lint:SuspiciousImport,'import android.R' statement
+556,android-lint:UniquePermission,Permission names are not unique
+557,android-lint:UnusedResources,Unused resources
+558,android-lint:UseValueOf,Should use valueOf instead of new
+559,android-lint:AdapterViewChildren,AdapterViews cannot have children in XML
+560,android-lint:DalvikOverride,Method considered overridden by Dalvik
+561,android-lint:DuplicateIncludedIds,Duplicate ids across layouts combined with include tags
+562,android-lint:EnforceUTF8,Encoding used in resource files is not UTF-8
+563,android-lint:GrantAllUris,Content provider shares everything
+564,android-lint:IconDensities,Icon densities validation
+565,android-lint:InconsistentArrays,Inconsistencies in array element counts
+566,android-lint:Instantiatable,Registered class is not instantiatable
+567,android-lint:MangledCRLF,Mangled file line endings
+568,android-lint:ManifestOrder,Incorrect order of elements in manifest
+569,android-lint:MissingPrefix,Missing Android XML namespace
+570,android-lint:Orientation,Missing explicit orientation
+571,android-lint:ScrollViewCount,ScrollViews can have only one child
+572,android-lint:SecureRandom,Using a fixed seed with SecureRandom
+573,android-lint:TypographyEllipsis,Ellipsis string can be replaced with ellipsis character
+574,android-lint:TypographyFractions,Fraction string can be replaced with fraction character
+575,android-lint:CommitPrefEdits,Missing commit() on SharedPreference editor
+576,android-lint:CutPasteId,Likely cut & paste mistakes
+577,android-lint:FieldGetter,Using getter instead of field
+578,android-lint:IconExtension,Icon format does not match the file extension
+579,android-lint:Proguard,Using obsolete ProGuard configuration
+580,android-lint:StringFormatCount,Formatting argument types inconsistent across translations
+581,android-lint:StringFormatMatches,String.format string doesn't match the XML format string
+582,android-lint:TextFields,Missing inputType or hint
+583,android-lint:TooDeepLayout,Layout hierarchy is too deep
+584,android-lint:TypographyQuotes,Straight quotes can be replaced with curvy quotes
+585,android-lint:RtlHardcoded,Using left/right instead of start/end attributes
+586,android-lint:SdCardPath,Hardcoded reference to /sdcard
+587,android-lint:ServiceCast,Wrong system service casts
+588,android-lint:StringFormatInvalid,Invalid format string
+589,android-lint:UseSparseArrays,HashMap can be replaced with SparseArray
+590,android-lint:IconMissingDensityFolder,Missing density folder
+591,checkstyle:com.puppycrawl.tools.checkstyle.checks.sizes.ParameterNumberCheck,Parameter Number
+592,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.InnerAssignmentCheck,Inner Assignment
+593,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.ReturnCountCheck,Return Count
+594,checkstyle:com.puppycrawl.tools.checkstyle.checks.design.OneTopLevelClassCheck,One Top Level Class
+595,checkstyle:com.puppycrawl.tools.checkstyle.checks.design.ThrowsCountCheck,Throws Count
+596,checkstyle:com.puppycrawl.tools.checkstyle.checks.FinalParametersCheck,Final Parameters
+597,checkstyle:com.puppycrawl.tools.checkstyle.checks.indentation.CommentsIndentationCheck,Comments Indentation
+598,checkstyle:com.puppycrawl.tools.checkstyle.checks.naming.AbbreviationAsWordInNameCheck,Abbreviation As Word In Name
+599,checkstyle:com.puppycrawl.tools.checkstyle.checks.naming.AbstractClassNameCheck,Abstract Class Name
+600,checkstyle:com.puppycrawl.tools.checkstyle.checks.TrailingCommentCheck,Trailing Comment
+601,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.AvoidInlineConditionalsCheck,Avoid Inline Conditionals
+602,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.CovariantEqualsCheck,Covariant Equals
+603,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.MagicNumberCheck,Magic Number
+604,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.MissingSwitchDefaultCheck,Missing Switch Default
+605,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.NoFinalizerCheck,No Finalizer
+606,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanReturnCheck,Simplify Boolean Return
+607,checkstyle:com.puppycrawl.tools.checkstyle.checks.design.FinalClassCheck,Final Class
+608,checkstyle:com.puppycrawl.tools.checkstyle.checks.design.MutableExceptionCheck,Mutable Exception
+609,checkstyle:com.puppycrawl.tools.checkstyle.checks.imports.AvoidStarImportCheck,Avoid Star Import
+610,checkstyle:com.puppycrawl.tools.checkstyle.checks.naming.MemberNameCheck,Member name
+611,checkstyle:com.puppycrawl.tools.checkstyle.checks.naming.ParameterNameCheck,Parameter Name
+612,checkstyle:com.puppycrawl.tools.checkstyle.checks.naming.StaticVariableNameCheck,Static Variable Name
+613,checkstyle:com.puppycrawl.tools.checkstyle.checks.ArrayTypeStyleCheck,Array Type Style
+614,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.DefaultComesLastCheck,Default Comes Last
+615,checkstyle:com.puppycrawl.tools.checkstyle.checks.design.DesignForExtensionCheck,Design For Extension
+616,checkstyle:com.puppycrawl.tools.checkstyle.checks.metrics.NPathComplexityCheck,NPath Complexity
+617,checkstyle:com.puppycrawl.tools.checkstyle.checks.NewlineAtEndOfFileCheck,Newline At End Of File
+618,checkstyle:com.puppycrawl.tools.checkstyle.checks.blocks.EmptyCatchBlockCheck,Empty catch block
+619,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.StringLiteralEqualityCheck,String Literal Equality
+620,checkstyle:com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck,Visibility Modifier
+621,checkstyle:com.puppycrawl.tools.checkstyle.checks.annotation.MissingDeprecatedCheck,Missing Deprecated
+622,checkstyle:com.puppycrawl.tools.checkstyle.checks.AvoidEscapedUnicodeCharactersCheck,Avoid Escaped Unicode Characters
+623,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.EmptyStatementCheck,Empty Statement
+624,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.FallThroughCheck,Fall Through
+625,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.SimplifyBooleanExpressionCheck,Simplify Boolean Expression
+626,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.SuperCloneCheck,Super Clone
+627,checkstyle:com.puppycrawl.tools.checkstyle.checks.imports.RedundantImportCheck,Redundant import
+628,checkstyle:com.puppycrawl.tools.checkstyle.checks.modifier.ModifierOrderCheck,Modifier Order
+629,checkstyle:com.puppycrawl.tools.checkstyle.checks.TranslationCheck,Translation
+630,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.IllegalThrowsCheck,Illegal Throws
+631,checkstyle:com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTypeCheck,Javadoc Type
+632,checkstyle:com.puppycrawl.tools.checkstyle.checks.metrics.ClassFanOutComplexityCheck,Class Fan Out Complexity
+633,checkstyle:com.puppycrawl.tools.checkstyle.checks.naming.CatchParameterNameCheck,Catch Parameter Name
+634,checkstyle:com.puppycrawl.tools.checkstyle.checks.naming.LocalVariableNameCheck,Local Variable Name
+635,checkstyle:com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyForInitializerPadCheck,Empty For Initializer Pad
+636,checkstyle:com.puppycrawl.tools.checkstyle.checks.whitespace.SingleSpaceSeparatorCheck,Single Space Separator
+637,checkstyle:com.puppycrawl.tools.checkstyle.checks.blocks.AvoidNestedBlocksCheck,Avoid Nested Blocks
+638,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.DeclarationOrderCheck,Declaration Order
+639,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.EqualsHashCodeCheck,Equals Hash Code
+640,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.ParameterAssignmentCheck,Parameter Assignment
+641,checkstyle:com.puppycrawl.tools.checkstyle.checks.sizes.LineLengthCheck,Line Length
+642,checkstyle:com.puppycrawl.tools.checkstyle.checks.TodoCommentCheck,Comment pattern matcher
+643,checkstyle:com.puppycrawl.tools.checkstyle.checks.whitespace.SeparatorWrapCheck,Separator Wrap
+644,checkstyle:com.puppycrawl.tools.checkstyle.checks.annotation.PackageAnnotationCheck,Package Annotation
+645,checkstyle:com.puppycrawl.tools.checkstyle.checks.blocks.RightCurlyCheck,Right Curly
+646,checkstyle:com.puppycrawl.tools.checkstyle.checks.DescendantTokenCheck,Descendant Token
+647,checkstyle:com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocVariableCheck,Javadoc Variable
+648,checkstyle:com.puppycrawl.tools.checkstyle.checks.metrics.CyclomaticComplexityCheck,Cyclomatic Complexity
+649,squid:S00113,Files should contain an empty new line at the end
+650,squid:S00114,Interface names should comply with a naming convention
+651,squid:S00115,Constant names should comply with a naming convention
+652,squid:S00116,Field names should comply with a naming convention
+653,squid:S00117,Local variable and method parameter names should comply with a naming convention
+654,squid:S00118,Abstract class names should comply with a naming convention
+655,squid:S00119,Type parameter names should comply with a naming convention
+656,squid:S1133,Deprecated code should be removed
+657,squid:S1134,"Track uses of ""FIXME"" tags"
+658,squid:S1135,"Track uses of ""TODO"" tags"
+659,squid:S1258,Classes and enums with private members should have a constructor
+660,squid:S2222,Locks should be released
+661,squid:S2225,"""toString()"" and ""clone()"" methods should not return null"
+662,squid:S2226,Servlets should not have mutable instance fields
+663,squid:S3318,Untrusted data should not be stored in sessions
+664,squid:S3553,"""Optional"" should not be used for parameters"
+665,squid:S00104,Files should not have too many lines of code
+666,squid:S00120,Package names should comply with a naming convention
+667,squid:S1145,"Useless ""if(true) {...}"" and ""if(false){...}"" blocks should be removed"
+668,squid:S1148,Throwable.printStackTrace(...) should not be called
+669,squid:S2109,Reflection should not be used to check non-runtime annotations
+670,squid:S2114,Collections should not be passed as arguments to their own methods
+671,squid:S2116,"""hashCode"" and ""toString"" should not be called on array instances"
+672,squid:S2235,IllegalMonitorStateException should not be caught
+673,squid:S2236,"Methods ""wait(...)"", ""notify()"" and ""notifyAll()"" should not be called on Thread instances"
+674,squid:S3437,Value-based objects should not be serialized
+675,squid:S3438,"""SingleConnectionFactory"" instances should be set to ""reconnectOnException"""
+676,squid:S3688,Track uses of disallowed classes
+677,squid:S864,Limited dependence should be placed on operator precedence rules in expressions
+678,squid:S00103,Lines should not be too long
+679,squid:S00107,Methods should not have too many parameters
+680,squid:S00108,Nested blocks of code should not be left empty
+681,squid:S1141,Try-catch blocks should not be nested
+682,squid:S1142,Methods should not have too many return statements
+683,squid:S1143,"Jump statements should not occur in ""finally"" blocks"
+684,squid:S2110,"Invalid ""Date"" values should not be used"
+685,squid:S2111,"""BigDecimal(double)"" should not be used"
+686,squid:S2118,Non-serializable classes should not be written
+687,squid:S2230,"Non-public methods should not be ""@Transactional"""
+688,squid:S3655,Optional value should only be accessed after calling isPresent()
+689,squid:S3776,Cognitive Complexity of methods should not be too high
+690,squid:S881,Increment (++) and decrement (--) operators should not be used in a method call or mixed with other operators in an expression
+691,squid:NoSonar,"Track uses of ""NOSONAR"" comments"
+692,squid:S1596,"""Collections.EMPTY_LIST"", ""EMPTY_MAP"", and ""EMPTY_SET"" should not be used"
+693,squid:S1598,Package declaration should match source file directory
+694,squid:S2200,"""compareTo"" results should not be checked for specific values"
+695,squid:S2201,Return values should not be ignored when function calls don't have any side effects
+696,squid:S2204,""".equals()"" should not be used to test the values of ""Atomic"" classes"
+697,squid:S2208,Wildcard imports should not be used
+698,squid:S2209,"""static"" members should be accessed statically"
+699,squid:S2325,"""private"" methods that don't access instance data should be ""static"""
+700,squid:S2440,"Classes with only ""static"" methods should not be instantiated"
+701,squid:S2441,"Non-serializable objects should not be stored in ""HttpSession"" objects"
+702,squid:S2442,"""Lock"" objects should not be ""synchronized"""
+703,squid:S2444,"Lazy initialization of ""static"" fields should be ""synchronized"""
+704,squid:S2446,"""notifyAll"" should be used"
+705,squid:S2447,"Null should not be returned from a ""Boolean"" method"
+706,squid:S2681,Multiline blocks should be enclosed in curly braces
+707,squid:S3417,Track uses of disallowed dependencies
+708,squid:S3419,Group ids should follow a naming convention
+709,squid:S1125,Boolean literals should not be redundant
+710,squid:S1126,"Return of boolean expressions should not be wrapped into an ""if-then-else"" statement"
+711,squid:S1479,"""switch"" statements should not have too many ""case"" clauses"
+712,squid:S1488,Local Variables should not be declared and then immediately returned or thrown
+713,squid:S2326,Unused type parameters should be removed
+714,squid:S2333,Redundant modifiers should not be used
+715,squid:S2696,"Instance methods should not write to ""static"" fields"
+716,squid:S2698,JUnit assertions should include messages
+717,squid:S3420,Artifact ids should follow a naming convention
+718,squid:S3422,"Dependencies should not have ""system"" scope"
+719,squid:S3423,pom elements should be in the recommended order
+720,squid:S3546,Custom resources should be closed
+721,squid:S3658,Unit tests should throw exceptions
+722,squid:UselessImportCheck,Useless imports should be removed
+723,squid:ClassCyclomaticComplexity,Classes should not be too complex
+724,squid:S1174,"""Object.finalize()"" should remain protected (versus public) when overriding"
+725,squid:S1175,"The signature of ""finalize()"" should match that of ""Object.finalize()"""
+726,squid:S1481,Unused local variables should be removed
+727,squid:S2142,"""InterruptedException"" should not be ignored"
+728,squid:S2147,Catches should be combined
+729,squid:S2148,Underscores should be used to make large numbers readable
+730,squid:S2386,"Mutable fields should not be ""public static"""
+731,squid:S2387,Child class fields should not shadow parent class fields
+732,squid:S2388,Inner class calls to super class methods should be unambiguous
+733,squid:S2693,Threads should not be started in constructors
+734,squid:S2695,"""PreparedStatement"" and ""ResultSet"" methods should be called with valid indices"
+735,squid:S3306,Constructor injection should be used instead of field injection
+736,squid:S3355,Web applications should use validation filters
+737,squid:S3421,"Deprecated ""${pom}"" properties should not be used"
+738,squid:S3599,Double Brace Initialization should not be used
+739,squid:S1066,"Collapsible ""if"" statements should be merged"
+740,squid:S1067,Expressions should not be too complex
+741,squid:S1170,"Public constants and fields initialized at declaration should be ""static final"" rather than merely ""final"""
+742,squid:S1171,Only static class initializers should be used
+743,squid:S1188,Lambdas and anonymous classes should not have too many lines of code
+744,squid:S2039,Member variable visibility should be specified
+745,squid:S2141,"Classes that don't define ""hashCode()"" should not be used in hashes"
+746,squid:S2156,"""final"" classes should not have ""protected"" members"
+747,squid:S2157,"""Cloneables"" should implement ""clone"""
+748,squid:S2159,Silly equality checks should not be made
+749,squid:S2277,Cryptographic RSA algorithms should always incorporate OAEP (Optimal Asymmetric Encryption Padding)
+750,squid:S3369,Security constraints should be defined
+751,squid:S1065,Unused labels should be removed
+752,squid:S1185,Overriding methods should do more than simply call the same method in the super class
+753,squid:S2153,Boxing and unboxing should not be immediately reversed
+754,squid:S2154,Dissimilar primitive wrappers should not be used with the ternary operator without explicit casting
+755,squid:S3008,Static non-final field names should comply with a naming convention
+756,squid:UndocumentedApi,"Public types, methods and fields (API) should be documented with Javadoc"
+757,squid:S1182,"Classes that override ""clone"" should be ""Cloneable"" and call ""super.clone()"""
+758,squid:S2122,"""ScheduledThreadPoolExecutor"" should not have 0 core threads"
+759,squid:S2127,"""Double.longBitsToDouble"" should not be used for ""int"""
+760,squid:S2151,"""runFinalizersOnExit"" should not be called"
+761,squid:S2245,Pseudorandom number generators (PRNGs) should not be used in secure contexts
+762,squid:S2272,"""Iterator.next()"" methods should throw ""NoSuchElementException"""
+763,squid:S2391,JUnit framework methods should be declared properly
+764,squid:S3577,Test classes should comply with a naming convention
+765,squid:S3578,Test methods should comply with a naming convention
+766,squid:LabelsShouldNotBeUsedCheck,Labels should not be used
+767,squid:S00100,Method names should comply with a naming convention
+768,squid:S00101,Class names should comply with a naming convention
+769,squid:S1150,Enumeration should not be implemented
+770,squid:S1151,"""switch case"" clauses should not have too many lines of code"
+771,squid:S1153,String.valueOf() should not be appended to a String
+772,squid:S1168,Empty arrays and collections should be returned instead of null
+773,squid:S2123,Values should not be uselessly incremented
+774,squid:S2134,"Classes extending java.lang.Thread should override the ""run"" method"
+775,squid:S2254,"""HttpServletRequest.getRequestedSessionId()"" should not be used"
+776,squid:S2257,Only standard cryptographic algorithms should be used
+777,squid:S2258,"""javax.crypto.NullCipher"" should not be used for anything other than testing"
+778,squid:S2259,Null pointers should not be dereferenced
+779,squid:S923,Functions should not be defined with a variable number of arguments
+780,squid:LeftCurlyBraceEndLineCheck,An open curly brace should be located at the end of a line
+781,squid:S1160,Public methods should throw at most one checked exception
+782,squid:S1162,Checked exceptions should not be thrown
+783,squid:S1165,Exception classes should be immutable
+784,squid:S1774,The ternary operator should not be used
+785,squid:S2251,"A ""for"" loop update clause should move the counter in the right direction"
+786,squid:S2252,Loop conditions should be true at least once
+787,squid:S2253,Track uses of disallowed methods
+788,squid:S3340,Annotation arguments should appear in the order in which they were declared
+789,squid:S818,Literal suffixes should be upper case
+790,squid:CommentedOutCodeLine,"Sections of code should not be ""commented out"""
+791,squid:ObjectFinalizeCheck,The Object.finalize() method should not be called
+792,squid:ParsingError,Java parser failure
+793,squid:S1301,"""switch"" statements should have at least 3 ""case"" clauses"
+794,squid:S1309,"Track uses of ""@SuppressWarnings"" annotations"
+795,squid:S1656,Variables should not be self-assigned
+796,squid:S1659,Multiple variables should not be declared on the same line
+797,squid:S1872,Classes should not be compared by name
+798,squid:S1996,Files should contain only one top-level class or interface each
+799,squid:S2637,"""@NonNull"" values should not be set to null"
+800,squid:S2638,Method overrides should not change contracts
+801,squid:S2639,Inappropriate regular expressions should not be used
+802,squid:S2973,Escaped Unicode characters should not be used
+803,squid:S2974,"Classes without ""public"" constructors should be ""final"""
+804,squid:EmptyFile,Files should not be empty
+805,squid:ObjectFinalizeOverridenCallsSuperFinalizeCheck,"""super.finalize()"" should be called at the end of ""Object.finalize()"" implementations"
+806,squid:S1213,The members of an interface declaration or class should appear in a pre-defined order
+807,squid:S1214,Constants should not be defined in interfaces
+808,squid:S1695,"""NullPointerException"" should not be explicitly thrown"
+809,squid:S1696,"""NullPointerException"" should not be caught"
+810,squid:S1697,Short-circuit logic should be used to prevent null pointer dereferences in conditionals
+811,squid:S2301,Public methods should not contain selector arguments
+812,squid:S2737,"""catch"" clauses should do more than rethrow"
+813,squid:S2786,"Nested ""enum""s should not be declared static"
+814,squid:S2970,Assertions should be complete
+815,squid:S2972,Inner classes should not have too many lines of code
+816,squid:S2975,"""clone"" should not be overridden"
+817,squid:S2976,"""File.createTempFile"" should not be used to create a directory"
+818,squid:S1210,"""equals(Object obj)"" should be overridden along with the ""compareTo(T obj)"" method"
+819,squid:S1217,Thread.run() should not be called directly
+820,squid:S1223,Non-constructor methods should not have the same name as the enclosing class
+821,squid:S1450,Private fields only used as local variables in methods should become local variables
+822,squid:S1451,Track lack of copyright and license headers
+823,squid:S1452,Generic wildcard types should not be used in return parameters
+824,squid:S1694,An abstract class should have both abstract and concrete methods
+825,squid:S1699,Constructors should only call non-overridable methods
+826,squid:S2674,The value returned from a stream read should be checked
+827,squid:S2675,"""readObject"" should not be ""synchronized"""
+828,squid:S2676,"Neither ""Math.abs"" nor negation should be used on numbers that could be ""MIN_VALUE"""
+829,squid:S2677,"""read"" and ""readLine"" return values should be used"
+830,squid:S2789,"""null"" should not be used with ""Optional"""
+831,squid:S3400,Methods should not return constants
+832,squid:S3518,Zero should not be a possible denominator
+833,squid:ArchitecturalConstraint,Track breaches of architectural constraints
+834,squid:ForLoopCounterChangedCheck,"""for"" loop stop conditions should be invariant"
+835,squid:ObjectFinalizeOverridenCheck,The Object.finalize() method should not be overriden
+836,squid:S1220,The default unnamed package should not be used
+837,squid:S1221,"Methods should not be named ""hashcode"" or ""equal"""
+838,squid:S1228,Packages should have a javadoc file 'package-info.java'
+839,squid:S1310,"Track uses of ""NOPMD"" suppression comments"
+840,squid:S1312,"Loggers should be ""private static final"" and should share a naming convention"
+841,squid:S1313,IP addresses should not be hardcoded
+842,squid:S1314,Octal values should not be used
+843,squid:S1315,"Track uses of ""CHECKSTYLE:OFF"" suppression comments"
+844,squid:S1317,"""StringBuilder"" and ""StringBuffer"" should not be instantiated with a character"
+845,squid:S1319,"Declarations should use Java collection interfaces such as ""List"" rather than specific implementation classes such as ""LinkedList"""
+846,squid:S2438,"""Threads"" should not be used where ""Runnables"" are expected"
+847,squid:S2885,Non-thread-safe fields should not be static
+848,squid:S2886,Getters and setters should be synchronized in pairs
+849,squid:RightCurlyBraceStartLineCheck,A close curly brace should be located at the beginning of a line
+850,squid:S1200,Classes should not be coupled to too many other classes (Single Responsibility Principle)
+851,squid:S1206,"""equals(Object obj)"" and ""hashCode()"" should be overridden in pairs"
+852,squid:S1444,"""public static"" fields should be constant"
+853,squid:S1448,Classes should not have too many methods
+854,squid:S1449,Locale should be used in String operations
+855,squid:S1700,A field should not duplicate the name of its containing class
+856,squid:S1820,Classes should not have too many fields
+857,squid:S1940,Boolean checks should not be inverted
+858,squid:S1942,Simple class names should be used
+859,squid:S1948,"Fields in a ""Serializable"" class should either be transient or serializable"
+860,squid:S2653,"Web applications should not have a ""main"" method"
+861,squid:S2658,Classes should not be loaded dynamically
+862,squid:S2912,"""indexOf"" checks should use a start position"
+863,squid:CallToDeprecatedMethod,"""@Deprecated"" code should not be used"
+864,squid:RightCurlyBraceSameLineAsNextBlockCheck,"Close curly brace and the next ""else"", ""catch"" and ""finally"" keywords should be located on the same line"
+865,squid:S1610,Abstract classes without fields should be converted to interfaces
+866,squid:S1611,Parentheses should be removed from a single lambda input parameter when its type is inferred
+867,squid:S1612,Lambdas should be replaced with method references
+868,squid:S1860,Synchronization should not be based on Strings or boxed primitives
+869,squid:S1862,"Related ""if/else if"" statements should not have the same condition"
+870,squid:S1905,Redundant casts should not be used
+871,squid:S1939,Extensions and implementations should not be redundant
+872,squid:S1941,Variables should not be declared before they are relevant
+873,squid:S2701,Literal boolean values should not be used in assertions
+874,squid:S2959,Unnecessary semicolons should be omitted
+875,squid:HiddenFieldCheck,Local variables should not shadow class fields
+876,squid:MissingDeprecatedCheck,Deprecated elements should have both the annotation and the Javadoc tag
+877,squid:S134,"Control flow statements ""if"", ""for"", ""while"", ""switch"" and ""try"" should not be nested too deeply"
+878,squid:S1602,Lamdbas containing only one statement should not nest this statement in a block
+879,squid:S1604,Anonymous inner classes containing only one method should become lambdas
+880,squid:S1607,Tests should not be ignored
+881,squid:S1710,Annotation repetitions should not be wrapped
+882,squid:S1711,Standard functional interfaces should not be redefined
+883,squid:S1844,"""Object.wait(...)"" should never be called on objects that implement ""java.util.concurrent.locks.Condition"""
+884,squid:S1845,Methods and field names should not be the same or differ only by capitalization
+885,squid:S1849,"""Iterator.hasNext()"" should not call ""Iterator.next()"""
+886,squid:S1989,Exceptions should not be thrown from servlet methods
+887,squid:S2924,JUnit rules should be used
+888,squid:S2925,"""Thread.sleep"" should not be used in tests"
+889,squid:S138,Methods should not have too many lines
+890,squid:S2061,Custom serialization method signatures should meet requirements
+891,squid:S2063,"Comparators should be ""Serializable"""
+892,squid:S2065,"Fields in non-serializable classes should not be ""transient"""
+893,squid:S2066,"""Serializable"" inner classes of non-serializable classes should be ""static"""
+894,squid:S2068,Credentials should not be hard-coded
+895,squid:S2186,"JUnit assertions should not be used in ""run"" methods"
+896,squid:S2187,TestCases should contain tests
+897,squid:S2188,JUnit test cases should call super methods
+898,squid:S3034,Raw byte values should not be used in bitwise operations in combination with shifts
+899,squid:S3038,Abstract methods should not be redundant
+900,squid:S3398,"""private"" methods called only by inner classes should be moved to those classes"
+901,squid:S106,Standard outputs should not be used directly to log anything
+902,squid:S109,Magic numbers should not be used
+903,squid:S2060,"""Externalizable"" classes should have no-arguments constructors"
+904,squid:S2062,"""readResolve"" methods should be inheritable"
+905,squid:S2076,Values passed to OS commands should be sanitized
+906,squid:S2078,Values passed to LDAP queries should be sanitized
+907,squid:S2183,Ints and longs should not be shifted by zero or more than their number of bits-1
+908,squid:S3030,"Classes should not have too many ""static"" imports"
+909,squid:S3046,"""wait"" should not be called when multiple locks are held"
+910,squid:S1199,Nested code blocks should not be used
+911,squid:S2166,"Classes named like ""Exception"" should extend ""Exception"" or a subclass"
+912,squid:S2167,"""compareTo"" should not return ""Integer.MIN_VALUE"""
+913,squid:S2168,Double-checked locking should not be used
+914,squid:S3042,"""writeObject"" should not be the only ""synchronized"" code in a class"
+915,squid:S3281,"Default EJB interceptors should be declared in ""ejb-jar.xml"""
+916,squid:S3282,EJB interceptor exclusions should be declared as annotations
+917,squid:S3374,Struts validation forms should have unique names
+918,squid:S1190,Future keywords should not be used as names
+919,squid:S1192,String literals should not be duplicated
+920,squid:S1193,"Exception types should not be tested using ""instanceof"" in catch blocks"
+921,squid:S1194,"""java.lang.Error"" should not be extended"
+922,squid:S1195,"Array designators ""[]"" should be located after the type in method signatures"
+923,squid:S1197,"Array designators ""[]"" should be on the type, not the variable"
+924,squid:S2057,"""Serializable"" classes should have a version id"
+925,squid:S2059,"""Serializable"" inner classes of ""Serializable"" classes should be static"
+926,squid:S2162,"""equals"" methods should be symmetric and work for subclasses"
+927,squid:S2164,Math should not be performed on floats
+928,squid:S2165,"""finalize"" should not set fields to ""null"""
+929,squid:S2175,"Inappropriate ""Collection"" calls should not be made"
+930,squid:S2177,Child class methods named for parent class methods should be overrides
+931,squid:S3373,"""action"" mappings should not have too many ""forward"" entries"
+932,squid:ClassVariableVisibilityCheck,Class variable fields should not have public accessibility
+933,squid:LeftCurlyBraceStartLineCheck,An open curly brace should be located at the beginning of a line
+934,squid:ModifiersOrderCheck,Modifiers should be declared in the correct order
+935,squid:RedundantThrowsDeclarationCheck,"""throws"" declarations should not be superfluous"
+936,squid:RightCurlyBraceDifferentLineAsNextBlockCheck,"Close curly brace and the next ""else"", ""catch"" and ""finally"" keywords should be on two different lines"
+937,squid:S2055,"The non-serializable super class of a ""Serializable"" class should have a no-argument constructor"
+938,squid:S2089,HTTP referers should not be relied on
+939,squid:S2097,"""equals(Object obj)"" should test argument type"
+940,squid:S2176,Class names should not shadow interfaces or superclasses
+941,squid:S2293,"The diamond operator (""<>"") should be used"
+942,squid:S3020,"""toArray"" should be passed an array of the proper type"
+943,squid:S3052,Fields should not be initialized to default values
+944,squid:S3066,"""enum"" fields should not be publicly mutable"
+945,squid:S3067,"""getClass"" should not be used for synchronization"
+946,squid:S888,"Equality operators should not be used in ""for"" loop termination conditions"
+947,squid:TrailingCommentCheck,Comments should not be located at the end of lines of code
+948,squid:S2092,"Cookies should be ""secure"""
+949,squid:S2094,Classes should not be empty
+950,squid:S2095,Resources should be closed
+951,squid:S899,Return values should not be ignored when they contain the operation status code
+952,checkstyle:ATTRIBUTECOUNT,ATTRIBUTECOUNT
+953,checkstyle:com.puppycrawl.tools.checkstyle.checks.annotation.AnnotationLocationCheck,Annotation Location
+954,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.IllegalInstantiationCheck,Illegal Instantiation
+955,checkstyle:com.puppycrawl.tools.checkstyle.checks.imports.AvoidStaticImportCheck,Avoid Static Import
+956,checkstyle:com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocParagraphCheck,Javadoc Paragraph
+957,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.IllegalTypeCheck,Illegal Type
+958,checkstyle:com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocStyleCheck,Javadoc Style
+959,checkstyle:com.puppycrawl.tools.checkstyle.checks.modifier.RedundantModifierCheck,Redundant Modifier
+960,checkstyle:com.puppycrawl.tools.checkstyle.checks.UniquePropertiesCheck,Unique Properties
+961,checkstyle:com.puppycrawl.tools.checkstyle.checks.whitespace.NoLineWrapCheck,No Line Wrap
+962,checkstyle:com.puppycrawl.tools.checkstyle.checks.whitespace.NoWhitespaceBeforeCheck,No Whitespace Before
+963,checkstyle:com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAroundCheck,Whitespace Around
+964,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.FinalLocalVariableCheck,Final Local Variable
+965,checkstyle:com.puppycrawl.tools.checkstyle.checks.design.InnerTypeLastCheck,Inner Type Last
+966,checkstyle:com.puppycrawl.tools.checkstyle.checks.metrics.ClassDataAbstractionCouplingCheck,Class Data Abstraction Coupling
+967,checkstyle:com.puppycrawl.tools.checkstyle.checks.whitespace.NoWhitespaceAfterCheck,No Whitespace After
+968,checkstyle:com.puppycrawl.tools.checkstyle.checks.annotation.MissingOverrideCheck,Missing Override
+969,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.IllegalTokenTextCheck,Illegal Token Text
+970,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.RequireThisCheck,Require This
+971,checkstyle:com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyLineSeparatorCheck,Empty Line Separator
+972,checkstyle:com.puppycrawl.tools.checkstyle.checks.sizes.ExecutableStatementCountCheck,Executable Statement Count
+973,checkstyle:com.puppycrawl.tools.checkstyle.checks.whitespace.MethodParamPadCheck,Method Param Pad
+974,checkstyle:com.puppycrawl.tools.checkstyle.checks.whitespace.ParenPadCheck,Paren Pad
+975,checkstyle:com.puppycrawl.tools.checkstyle.checks.annotation.SuppressWarningsCheck,Suppress Warnings
+976,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.MissingCtorCheck,Missing Constructor
+977,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.VariableDeclarationUsageDistanceCheck,Variable Declaration Usage Distance
+978,checkstyle:com.puppycrawl.tools.checkstyle.checks.imports.CustomImportOrderCheck,Custom Import Order
+979,checkstyle:com.puppycrawl.tools.checkstyle.checks.imports.ImportOrderCheck,Import Order
+980,checkstyle:com.puppycrawl.tools.checkstyle.checks.naming.InterfaceTypeParameterNameCheck,Interface Type Parameter Name
+981,checkstyle:com.puppycrawl.tools.checkstyle.checks.OuterTypeFilenameCheck,Outer Type Filename
+982,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.ArrayTrailingCommaCheck,Array Trailing Comma
+983,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.IllegalTokenCheck,Illegal Token
+984,checkstyle:com.puppycrawl.tools.checkstyle.checks.javadoc.JavadocTagContinuationIndentationCheck,Javadoc Tag Continuation Indentation
+985,checkstyle:com.puppycrawl.tools.checkstyle.checks.javadoc.SingleLineJavadocCheck,Single Line Javadoc
+986,checkstyle:com.puppycrawl.tools.checkstyle.checks.javadoc.WriteTagCheck,Write Tag
+987,checkstyle:com.puppycrawl.tools.checkstyle.checks.sizes.OuterTypeNumberCheck,Outer Type Number
+988,checkstyle:com.puppycrawl.tools.checkstyle.checks.UncommentedMainCheck,Uncommented Main
+989,checkstyle:com.puppycrawl.tools.checkstyle.checks.whitespace.EmptyForIteratorPadCheck,Empty For Iterator Pad
+990,checkstyle:com.puppycrawl.tools.checkstyle.checks.whitespace.OperatorWrapCheck,Operator Wrap
+991,checkstyle:com.puppycrawl.tools.checkstyle.checks.annotation.AnnotationUseStyleCheck,Annotation Use Style
+992,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.IllegalCatchCheck,Illegal Catch
+993,checkstyle:com.puppycrawl.tools.checkstyle.checks.coding.OverloadMethodsDeclarationOrderCheck,Overload Methods Declaration Order
+994,checkstyle:com.puppycrawl.tools.checkstyle.checks.javadoc.AtclauseOrderCheck,At-clause Order
+995,checkstyle:com.puppycrawl.tools.checkstyle.checks.javadoc.NonEmptyAtclauseDescriptionCheck,Non Empty At-clause Description
+996,checkstyle:com.puppycrawl.tools.checkstyle.checks.regexp.RegexpMultilineCheck,Regexp Multiline
+997,checkstyle:com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineCheck,Regexp Singleline
+998,checkstyle:com.puppycrawl.tools.checkstyle.checks.sizes.MethodCountCheck,Method Count
+999,checkstyle:com.puppycrawl.tools.checkstyle.checks.whitespace.TypecastParenPadCheck,Typecast Paren Pad
+1000,checkstyle:com.puppycrawl.tools.checkstyle.checks.whitespace.WhitespaceAfterCheck,Whitespace After
+1001,checkstyle:com.puppycrawl.tools.checkstyle.checks.metrics.JavaNCSSCheck,JavaNCSS
+1002,checkstyle:com.puppycrawl.tools.checkstyle.checks.regexp.RegexpSinglelineJavaCheck,Regexp Singleline Java
+1003,common-java:DuplicatedBlocks,Source files should not have any duplicated blocks
+1004,common-java:FailedUnitTests,Failed unit tests should be fixed
+1005,common-java:InsufficientCommentDensity,Source files should have a sufficient density of comment lines
+1006,common-java:SkippedUnitTests,Skipped unit tests should be either removed or fixed
+1007,code_smells:complex_class,Complex Class
+1008,code_smells:refused_parent_bequest,Refused parent bequest
+1009,code_smells:speculative_generality,Speculative generality
+1010,code_smells:tradition_breaker,Tradition breaker
+1011,code_smells:antisingleton,Antisingleton
+1012,code_smells:baseclass_abstract,BaseClassShouldBeAbstract
+1013,code_smells:baseclass_knows_derived,BaseClassKnowsDerivedClass
+1014,code_smells:class_data_private,Class Data Should be Private
+1015,code_smells:functional_decomposition,Functional Decomposition
+1016,code_smells:large_class,Large class
+1017,code_smells:long_method,Long method
+1018,code_smells:long_parameter_list,Long parameter list
+1019,code_smells:many_field_attributes_not_complex,Many field attribute not complex
+1020,code_smells:message_chains,Message chains
+1021,code_smells:spaghetti_code,Spaghetti Code
+1022,code_smells:swiss_army_knife,Swiss army knife
+1023,code_smells:lazy_class,Lazy class
+1024,android-lint:AllowBackup,Missing allowBackup attribute
+1025,android-lint:DuplicateIds,Duplicate ids within a single layout
+1026,android-lint:EasterEgg,Code contains easter egg
+1027,android-lint:FloatMath,Using FloatMath instead of Math
+1028,android-lint:IconColors,Icon colors do not follow the recommended visual style
+1029,android-lint:InOrMmUsage,Using mm or in dimensions
+1030,android-lint:MissingRegistered,Missing registered class
+1031,android-lint:MissingVersion,Missing application name/version
+1032,android-lint:ObsoleteLayoutParam,Obsolete layout params
+1033,android-lint:PrivateResource,Using private resources
+1034,android-lint:Registered,Class is not registered in the manifest
+1035,android-lint:SimpleDateFormat,Implied locale in date format
+1036,android-lint:TextViewEdits,TextView should probably be an EditText instead
+1037,android-lint:TooManyViews,Layout has too many views
+1038,android-lint:Wakelock,Incorrect WakeLock usage
+1039,android-lint:DuplicateDefinition,Duplicate definitions of resources
+1040,android-lint:DuplicateUsesFeature,Feature declared more than once
+1041,android-lint:ExportedContentProvider,Content provider does not require permission
+1042,android-lint:IconDipSize,Icon density-independent size validation
+1043,android-lint:IconLocation,Image defined in density-independent drawable folder
+1044,android-lint:InconsistentLayout,Inconsistent Layouts
+1045,android-lint:InefficientWeight,Inefficient layout weight
+1046,android-lint:LibraryCustomView,Custom views in libraries should use res-auto-namespace
+1047,android-lint:LocalSuppress,@SuppressLint on invalid element
+1048,android-lint:NotSibling,RelativeLayout Invalid Constraints
+1049,android-lint:RequiredSize,Missing layout_width or layout_height attributes
+1050,android-lint:RtlCompat,Right-to-left text compatibility issues
+1051,android-lint:TypographyOther,Other typographical problems
+1052,android-lint:UnusedNamespace,Unused namespace
+1053,android-lint:ViewTag,Tagged object leaks
+1054,android-lint:AlwaysShowAction,Usage of showAsAction=always
+1055,android-lint:CommitTransaction,Missing commit() calls
+1056,android-lint:DrawAllocation,Memory allocations within drawing code
+1057,android-lint:DuplicateActivity,Activity registered more than once
+1058,android-lint:ExportedService,Exported service does not require permission
+1059,android-lint:HandlerLeak,Handler reference leaks
+1060,android-lint:MenuTitle,Missing menu title
+1061,android-lint:ParcelCreator,Missing Parcelable CREATOR field
+1062,android-lint:ResAuto,Hardcoded Package in Namespace
+1063,android-lint:UsesMinSdkAttributes,Minimum SDK and target SDK attributes not defined
+1064,android-lint:WrongViewCast,Mismatched view type
+1065,android-lint:ButtonOrder,Button order
+1066,android-lint:DefaultLocale,Implied default locale in case conversion
+1067,android-lint:DeviceAdmin,Malformed Device Admin
+1068,android-lint:DisableBaselineAlignment,Missing baselineAligned attribute
+1069,android-lint:ExtraTranslation,Extra translation
+1070,android-lint:ProtectedPermissions,Using system app permission
+1071,android-lint:PxUsage,Using 'px' dimension
+1072,android-lint:Recycle,Missing recycle() calls
+1073,android-lint:UnlocalizedSms,SMS phone number missing country code
+1074,android-lint:UseCompoundDrawables,Node can be replaced by a TextView with compound drawables
+1075,android-lint:WorldWriteableFiles,openFileOutput() call passing MODE_WORLD_WRITEABLE
+1076,android-lint:ButtonStyle,Button should be borderless
+1077,android-lint:ExportedReceiver,Receiver does not require permission
+1078,android-lint:HardcodedDebugMode,Hardcoded value of android:debuggable in the manifest
+1079,android-lint:IconExpectedSize,Icon has incorrect size
+1080,android-lint:MergeRootFrame,FrameLayout can be replaced with <merge> tag
+1081,android-lint:MissingId,Fragments should specify an id or tag
+1082,android-lint:MissingTranslation,Incomplete translation
+1083,android-lint:NamespaceTypo,Misspelled namespace declaration
+1084,android-lint:NewApi,Calling new methods on older versions
+1085,android-lint:Override,Method conflicts with new inherited method
+1086,android-lint:ProguardSplit,Proguard.cfg file contains generic Android rules
+1087,android-lint:ButtonCase,Cancel/OK dialog button capitalization
+1088,android-lint:GifUsage,Using .gif format for bitmaps is discouraged
+1089,android-lint:HardcodedText,Hardcoded text
+1090,android-lint:IconMixedNinePatch,Clashing PNG and 9-PNG files
